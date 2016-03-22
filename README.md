@@ -16,3 +16,9 @@ The idea inspired by [leerduo](https://github.com/leerduo) , to take note what I
 - [Android自定义Lint实践](http://tech.meituan.com/android_custom_lint.html)
 - [BottomBar](https://github.com/roughike/BottomBar)
 - [30条Android开发建议](http://www.jianshu.com/p/717b80ba8bc1)
+
+> - 2016年03月22日
+
+- [MVP入门实践](http://blog.flyou.ren/?p=179)
+- [这些小工具让你的Android开发更高效](http://mp.weixin.qq.com/s?__biz=MzA4NTQwNDcyMA==&mid=402858357&idx=1&sn=5dd38f4dcc5d7680e6daf7b3d1105b63#rd)
+- [你应该知道的那些Android小经验](http://blog.flyou.ren/?p=http://www.jayfeng.com/2016/03/18/%E4%BD%A0%E5%BA%94%E8%AF%A5%E7%9F%A5%E9%81%93%E7%9A%84%E9%82%A3%E4%BA%9BAndroid%E5%B0%8F%E7%BB%8F%E9%AA%8C/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
