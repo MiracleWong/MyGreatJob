@@ -30,5 +30,12 @@ The idea inspired by [leerduo](https://github.com/leerduo) , to take note what I
 - [Android Library 分享到jCenter](http://wuxiaolong.me/2015/11/12/jcenter/)
 - [Android Fragment 使用ToolBar](http://wuxiaolong.me/2015/12/21/fragmentToolbar/)
 - [Android的事件传递机制分析](http://wuxiaolong.me/2015/12/19/MotionEvent/)
-- [Android之画笔Paint和画布Canvas及实例练习圆角、刮刮卡、圆形头像、倒影效果
-](http://wuxiaolong.me/2015/12/06/PaintCanvas/)
+- [Android之画笔Paint和画布Canvas及实例练习圆角、刮刮卡、圆形头像、倒影效果](http://wuxiaolong.me/2015/12/06/PaintCanvas/)
+- [推送人群的选择 – 技术篇](http://blog.jpush.cn/push_audience_tech/)
+
+> - 2016年03月24日
+
+- [Android实现多次闪退清除数据](http://sixwolf.net/blog/2016/03/22/Android%E5%AE%9E%E7%8E%B0%E5%A4%9A%E6%AC%A1%E9%97%AA%E9%80%80%E6%B8%85%E9%99%A4%E6%95%B0%E6%8D%AE/)
+- [Android MVP实例](http://wuxiaolong.me/2015/09/23/AndroidMVPSample/)
+- [AsyncTask使用以及源码分析](http://blog.csdn.net/ljd2038/article/details/50931698)
+- [Android MVP模式简单易懂的介绍方式](http://zhuanlan.zhihu.com/kaede/20312610)
