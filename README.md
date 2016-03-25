@@ -39,3 +39,9 @@ The idea inspired by [leerduo](https://github.com/leerduo) , to take note what I
 - [Android MVP实例](http://wuxiaolong.me/2015/09/23/AndroidMVPSample/)
 - [AsyncTask使用以及源码分析](http://blog.csdn.net/ljd2038/article/details/50931698)
 - [Android MVP模式简单易懂的介绍方式](http://zhuanlan.zhihu.com/kaede/20312610)
+
+
+> - 2016年03月25日
+
+- 写开源库[MiracleTabLayout](https://github.com/MiracleWong/MiracleTabLayout)
+- [Atom 编辑器使用手册](http://flight-manual.atom.io/)
