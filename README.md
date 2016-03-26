@@ -45,3 +45,10 @@ The idea inspired by [leerduo](https://github.com/leerduo) , to take note what I
 
 - 写开源库[MiracleTabLayout](https://github.com/MiracleWong/MiracleTabLayout)
 - [Atom 编辑器使用手册](http://flight-manual.atom.io/)
+
+> - 2016年03月26日
+
+- 将自己的开源库，上传到jitPack.io上，感觉比jCenter方便多了，[MiracleTabLayout](https://github.com/MiracleWong/MiracleTabLayout)
+- [写自己的开源库，发布到JitPack.io](http://icodeyou.com/2015/12/23/2015-12-23-AndroidLibraryJitPack/)
+- [大多数人都不知道的Android Studio快捷键](http://icodeyou.com/2015/12/13/2015-12-13-AndroidStudioShortCuts/)
+- [自定义 View 之 onMeasure](http://icodeyou.com/2015/10/22/2015-10-22-ViewMeasure/)
