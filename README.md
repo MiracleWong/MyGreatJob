@@ -52,3 +52,9 @@ The idea inspired by [leerduo](https://github.com/leerduo) , to take note what I
 - [写自己的开源库，发布到JitPack.io](http://icodeyou.com/2015/12/23/2015-12-23-AndroidLibraryJitPack/)
 - [大多数人都不知道的Android Studio快捷键](http://icodeyou.com/2015/12/13/2015-12-13-AndroidStudioShortCuts/)
 - [自定义 View 之 onMeasure](http://icodeyou.com/2015/10/22/2015-10-22-ViewMeasure/)
+
+> - 2016年03月27日
+
+- [Material Colors for Mac](https://github.com/romannurik/MaterialColorsApp)
+- [MaterialDesignColor](https://github.com/zzhoujay/MaterialDesignColor)
+- [我的 Android 开发实战经验总结](http://www.jianshu.com/p/4f152bc8f4f3)
