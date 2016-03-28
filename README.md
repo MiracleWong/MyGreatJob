@@ -58,3 +58,8 @@ The idea inspired by [leerduo](https://github.com/leerduo) , to take note what I
 - [Material Colors for Mac](https://github.com/romannurik/MaterialColorsApp)
 - [MaterialDesignColor](https://github.com/zzhoujay/MaterialDesignColor)
 - [我的 Android 开发实战经验总结](http://www.jianshu.com/p/4f152bc8f4f3)
+
+> - 2016年03月28日
+
+- [设置状态栏的工具类](https://github.com/laobie/StatusBarUtil)
+- [Simple Dot Progress Bar](https://github.com/silvestrpredko/DotProgressBarExample)
