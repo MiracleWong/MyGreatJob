@@ -63,3 +63,9 @@ The idea inspired by [leerduo](https://github.com/leerduo) , to take note what I
 
 - [设置状态栏的工具类](https://github.com/laobie/StatusBarUtil)
 - [Simple Dot Progress Bar](https://github.com/silvestrpredko/DotProgressBarExample)
+
+> - 2016年03月29日
+
+ - 修改论文ing
+ - [RecyclerView-自定义View实现时光轴效果](http://chenfuduo.me/2016/03/29/RecyclerView-%E8%87%AA%E5%AE%9A%E4%B9%89View%E5%AE%9E%E7%8E%B0%E6%97%B6%E5%85%89%E8%BD%B4%E6%95%88%E6%9E%9C/)
+ - [如何更好地开发一个Android应用](http://android.jobbole.com/82637/)
