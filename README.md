@@ -74,3 +74,9 @@ The idea inspired by [leerduo](https://github.com/leerduo) , to take note what I
 
 - 修改查重后的论文，加如英文摘要——abstract
 - [Android 速构 adapter 神器](http://gold.xitu.io/entry/56fa0d5b71cfe4005c991e2e)
+
+> - 2016年03月31日
+
+- 上午论文查重
+- 晚上修改论文的格式
+- [Android-transulcent-status-bar](http://niorgai.github.io/2016/03/20/Android-transulcent-status-bar/)
