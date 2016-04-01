@@ -80,3 +80,10 @@ The idea inspired by [leerduo](https://github.com/leerduo) , to take note what I
 - 上午论文查重
 - 晚上修改论文的格式
 - [Android-transulcent-status-bar](http://niorgai.github.io/2016/03/20/Android-transulcent-status-bar/)
+
+
+> - 2016年04月01日
+
+- 论文修改格式，上交和打印
+- 项目组开会
+- [Android学习笔记的整理](https://github.com/yanbin92/AndoridLearningNote)
