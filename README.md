@@ -87,3 +87,9 @@ The idea inspired by [leerduo](https://github.com/leerduo) , to take note what I
 - 论文修改格式，上交和打印
 - 项目组开会
 - [Android学习笔记的整理](https://github.com/yanbin92/AndoridLearningNote)
+
+> - 2016年04月02日
+
+- 论文的讨论会
+- 分析论文的问题
+- 实战MVP的模式的使用
