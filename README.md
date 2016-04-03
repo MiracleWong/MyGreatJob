@@ -93,3 +93,8 @@ The idea inspired by [leerduo](https://github.com/leerduo) , to take note what I
 - 论文的讨论会
 - 分析论文的问题
 - 实战MVP的模式的使用
+- 电影《火锅英雄》
+
+> - 2016年04月03日
+
+- 将[『知乎日报』](https://github.com/MiracleWong/MWZhiHuDaily)使用MVP的模式改写
