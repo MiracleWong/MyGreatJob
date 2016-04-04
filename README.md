@@ -98,3 +98,11 @@ The idea inspired by [leerduo](https://github.com/leerduo) , to take note what I
 > - 2016年04月03日
 
 - 将[『知乎日报』](https://github.com/MiracleWong/MWZhiHuDaily)使用MVP的模式改写
+
+
+> - 2016年04月04日
+
+- [Android CoordinatorLayout使用](http://blog.csdn.net/xyz_lmn/article/details/48055919)
+- 更改[『知乎日报』](https://github.com/MiracleWong/MWZhiHuDaily)的内容
+- 使用MVP的模式修改[『奇迹天气』](https://github.com/MiracleWong/MWWeather)的代码
+- 复习《第一行代码》第6章：数据存储和持久化
