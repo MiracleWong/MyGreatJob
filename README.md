@@ -106,3 +106,10 @@ The idea inspired by [leerduo](https://github.com/leerduo) , to take note what I
 - 更改[『知乎日报』](https://github.com/MiracleWong/MWZhiHuDaily)的内容
 - 使用MVP的模式修改[『奇迹天气』](https://github.com/MiracleWong/MWWeather)的代码
 - 复习《第一行代码》第6章：数据存储和持久化
+
+> - 2016年04月08日
+
+- [每一个程序员都是自学成才](http://www.codeceo.com/article/every-programmer-self-taught.html)
+- [Git 中级用户的25个提示](http://www.imooc.com/article/1405)
+- 分析了各个天气软件的不同点和主要呈现的方式，并截图收集
+- 使用XMind建立『结绳记事』的思维导图，明确之后自己需要做的事情
