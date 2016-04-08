@@ -114,8 +114,14 @@ The idea inspired by [leerduo](https://github.com/leerduo) , to take note what I
 - 分析了各个天气软件的不同点和主要呈现的方式，并截图收集
 - 使用XMind建立『结绳记事』的思维导图，明确之后自己需要做的事情
 
-> - 2016年04月078日
+> - 2016年04月08日
 
 - [为什么Android要采用Binder作为IPC机制?](https://www.zhihu.com/question/39440766/answer/89210950)
 - 复习《第一行代码》广播BroadCaster和通知Notification
 - 使用手绘的方式建立『奇迹天气』的思维导图，明确之后自己需要做的事情
+
+> - 2016年04月09日
+
+- 《Sketch》ch4 - ch17
+- 复习《第一行代码》的Git操作部分，并笔记记录
+- 截图和笔记记录10+款天气APP的特点和功能
