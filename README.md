@@ -107,9 +107,15 @@ The idea inspired by [leerduo](https://github.com/leerduo) , to take note what I
 - 使用MVP的模式修改[『奇迹天气』](https://github.com/MiracleWong/MWWeather)的代码
 - 复习《第一行代码》第6章：数据存储和持久化
 
-> - 2016年04月08日
+> - 2016年04月07日
 
 - [每一个程序员都是自学成才](http://www.codeceo.com/article/every-programmer-self-taught.html)
 - [Git 中级用户的25个提示](http://www.imooc.com/article/1405)
 - 分析了各个天气软件的不同点和主要呈现的方式，并截图收集
 - 使用XMind建立『结绳记事』的思维导图，明确之后自己需要做的事情
+
+> - 2016年04月078日
+
+- [为什么Android要采用Binder作为IPC机制?](https://www.zhihu.com/question/39440766/answer/89210950)
+- 复习《第一行代码》广播BroadCaster和通知Notification
+- 使用手绘的方式建立『奇迹天气』的思维导图，明确之后自己需要做的事情
