@@ -125,3 +125,11 @@ The idea inspired by [leerduo](https://github.com/leerduo) , to take note what I
 - 《Sketch》ch4 - ch17
 - 复习《第一行代码》的Git操作部分，并笔记记录
 - 截图和笔记记录10+款天气APP的特点和功能
+
+
+> - 2016年04月10日
+
+- 完成『奇迹天气』基于高德地图API的自动定位功能
+- 给『知乎日报』加入启动页（Splash），修复了FAB的显示不正常的问题
+- [Android启动页(Splash)的实现](http://laobie.github.io/android/2015/11/18/android-splash.html)
+- 升级Android Studio 2.0 Stable，解决Gradle出错的问题
