@@ -125,6 +125,7 @@ The idea inspired by [leerduo](https://github.com/leerduo) , to take note what I
 - 《Sketch》ch4 - ch17
 - 复习《第一行代码》的Git操作部分，并笔记记录
 - 截图和笔记记录10+款天气APP的特点和功能
+- 学习了『Study Jams』的1A的视频
 
 
 > - 2016年04月10日
@@ -133,3 +134,20 @@ The idea inspired by [leerduo](https://github.com/leerduo) , to take note what I
 - 给『知乎日报』加入启动页（Splash），修复了FAB的显示不正常的问题
 - [Android启动页(Splash)的实现](http://laobie.github.io/android/2015/11/18/android-splash.html)
 - 升级Android Studio 2.0 Stable，解决Gradle出错的问题
+- 完成了『Study Jams』的1A的视频，并写通过思维导图的方式记录笔记
+- 学习『Study Jams』的1B的视频
+
+> - 2016年04月11日
+
+- 完成了『Study Jams』的1B的视频，并写通过思维导图的方式记录笔记
+
+> - 2016年04月12日
+
+- 完成
+
+
+
+> - 2016年04月17日
+
+- 完成完成了『Study Jams』的2B的视频，并写通过思维导图的方式记录笔记
+- 完成书籍《Java核心技术（一）》的ch1、ch2、ch3.1-3.5节
