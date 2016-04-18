@@ -151,3 +151,7 @@ The idea inspired by [leerduo](https://github.com/leerduo) , to take note what I
 
 - 完成完成了『Study Jams』的2B的视频，并写通过思维导图的方式记录笔记
 - 完成书籍《Java核心技术（一）》的ch1、ch2、ch3.1-3.5节
+
+> - 2016年04月18日
+
+- 博文：[HOW TO: 升级Mac OS X上的GIT](http://jeeker.net/article/how-to-upgrade-git-on-mac-os/)
