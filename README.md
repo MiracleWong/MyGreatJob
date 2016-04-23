@@ -155,3 +155,9 @@ The idea inspired by [leerduo](https://github.com/leerduo) , to take note what I
 > - 2016年04月18日
 
 - 博文：[HOW TO: 升级Mac OS X上的GIT](http://jeeker.net/article/how-to-upgrade-git-on-mac-os/)
+
+
+> - 2016年04月24日
+
+- [Girls](https://github.com/flyou/Girls.git)
+- [不忘初心，方得始终](http://wuxiaolong.me/2016/04/05/zhuangbi/)
