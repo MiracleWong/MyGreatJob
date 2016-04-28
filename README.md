@@ -161,3 +161,10 @@ The idea inspired by [leerduo](https://github.com/leerduo) , to take note what I
 
 - [Girls](https://github.com/flyou/Girls.git)
 - [不忘初心，方得始终](http://wuxiaolong.me/2016/04/05/zhuangbi/)
+
+> - 2016年04月28日
+
+- 《精进：如何成为一个很厉害的人》ch1：时间之尺 & ch2：寻找心中的“巴拿马”
+- 《Java核心技术 卷一 基础知识》ch5：继承
+- sketch设计简单的StudyJams的大作业应用-美味佳肴
+- 完成应用『美味佳肴』的代码编写，idea from 『厨房故事』
