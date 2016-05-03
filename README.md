@@ -141,12 +141,6 @@ The idea inspired by [leerduo](https://github.com/leerduo) , to take note what I
 
 - 完成了『Study Jams』的1B的视频，并写通过思维导图的方式记录笔记
 
-> - 2016年04月12日
-
-- 完成
-
-
-
 > - 2016年04月17日
 
 - 完成完成了『Study Jams』的2B的视频，并写通过思维导图的方式记录笔记
@@ -168,3 +162,10 @@ The idea inspired by [leerduo](https://github.com/leerduo) , to take note what I
 - 《Java核心技术 卷一 基础知识》ch5：继承
 - sketch设计简单的StudyJams的大作业应用-美味佳肴
 - 完成应用『美味佳肴』的代码编写，idea from 『厨房故事』
+
+> - 2016年05月03日
+
+- 《Java核心技术 卷一 基础知识》ch6：接口和内部类
+- 《Activiti实战》ch1 ~ ch4
+- [Git Cheat Sheet](http://www.alexkras.com/getting-started-with-git/)
+- [Git MindMap](http://www.alexkras.com/git-mind-map/)
