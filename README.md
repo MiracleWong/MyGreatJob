@@ -169,3 +169,27 @@ The idea inspired by [leerduo](https://github.com/leerduo) , to take note what I
 - 《Activiti实战》ch1 ~ ch4
 - [Git Cheat Sheet](http://www.alexkras.com/getting-started-with-git/)
 - [Git MindMap](http://www.alexkras.com/git-mind-map/)
+
+> - 2016年05月04日
+
+- [Android CoordinatorLayout使用](http://blog.csdn.net/xyz_lmn/article/details/48055919)
+- [Snackbar使用及其注意事项](http://www.jcodecraeer.com/plus/view.php?aid=3187)
+- [Android 优化交互 —— CoordinatorLayout 与 Behavior](https://segmentfault.com/a/1190000005024216)
+
+
+> - 2016年05月06日
+
+- [Git Cheat Sheet by RebelLabs](http://zeroturnaround.com/wp-content/uploads/2016/05/Git-Cheat-Sheet-by-RebelLabs.png)
+- [Git Commands and Best Practices Cheat Sheet](http://zeroturnaround.com/rebellabs/git-commands-and-best-practices-cheat-sheet/)
+- 修改[『奇迹天气』](https://github.com/MiracleWong/MWWeather)的布局和添加图标
+
+> - 2016年05月07日
+
+- 修改论文的『关键技术的选择』的BPMN部分
+
+> - 2016年05月08日
+
+- [《Atom飞行手册(中文版)》](https://wizardforcel.gitbooks.io/atom-flight-manual-zh-cn/content/) ch1：新手入门
+- 《架构探险：从零开始写Java Web框架》第1章：从一个简单的web框架开始
+- [Smart-Book-Code](https://github.com/MiracleWong/Smart-Book-Code)
+- 《Java核心技术·卷一·核心技术》
