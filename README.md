@@ -193,3 +193,18 @@ The idea inspired by [leerduo](https://github.com/leerduo) , to take note what I
 - 《架构探险：从零开始写Java Web框架》第1章：从一个简单的web框架开始
 - [Smart-Book-Code](https://github.com/MiracleWong/Smart-Book-Code)
 - 《Java核心技术·卷一·核心技术》
+
+> - 2016年06月01日
+
+- 修改论文
+- 《精进：如何成为一个厉害的人》ch1：
+- Fabulous推荐视频——《安静的力量》
+
+> - 2016年06月02日
+
+- 《许岑的英语学习方法论》课时3：我的英语学习经验 & 课时4：自然主义和结构主义
+
+> > - 2016年06月02日
+
+- 论文查重工作
+- 《许岑的英语学习方法论》课时5：模仿和角色扮演 & 课时13：谈谈《新概念英语》
