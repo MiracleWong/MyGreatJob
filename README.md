@@ -20,3 +20,9 @@ The idea inspired by [leerduo](https://github.com/leerduo) , to take note what I
 - [零基础用 Python 画图表，让你的论文更美观 ](https://sspai.com/post/43060)
 - [Python+Django+Ansible Playbook自动化运维项目实战](https://coding.imooc.com/learn/list/160.html) 3.18-4.5
 
+> - 2018年02月18日
+- [Python+Django+Ansible Playbook自动化运维项目实战](https://coding.imooc.com/learn/list/160.html) 3.18-4.5
+
+> - 2018年02月19日
+- [学习的过程就是建立知识体系的过程](http://www.imooc.com/article/22646)
+> 习惯是如此之轻，以至于无法察觉。又是如此之重，以至于无法挣脱。——沃伦·巴菲特 
