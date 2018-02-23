@@ -57,3 +57,10 @@ The idea inspired by [leerduo](https://github.com/leerduo) , to take note what I
 - [在少数派写稿两年后，我养成的数字生活方式](https://sspai.com/post/42714)
 - [除了任务管理工具，你还需要知道甘特图](https://sspai.com/post/42608)
 
+> - 2018年02月23日
+- [Ansible Tower系列 一（Tower介绍）](http://docs.ansible.com/ansible-tower/latest/html/administration/index.html)
+- [Ansible Tower系列 二（安装 Tower） - 简书](https://www.jianshu.com/p/1c6aa6ceeca6)
+- [Ansible Tower系列 三（使用tower执行一个任务） - 简书](https://www.jianshu.com/p/804832965259)
+- [Ansible Tower系列 四（使用tower执行一个命令） - 简书](https://www.jianshu.com/p/8a7727ec9238)
+- [Ansible Tower系列 五（安装 tower 3.1） - 简书](https://www.jianshu.com/p/9874b663d8f3)
+
