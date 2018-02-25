@@ -64,3 +64,12 @@ The idea inspired by [leerduo](https://github.com/leerduo) , to take note what I
 - [Ansible Tower系列 四（使用tower执行一个命令） - 简书](https://www.jianshu.com/p/8a7727ec9238)
 - [Ansible Tower系列 五（安装 tower 3.1） - 简书](https://www.jianshu.com/p/9874b663d8f3)
 
+> - 2018.02.25
+- [Anaconda Navigator | Anaconda: Documentation](https://docs.anaconda.com/anaconda/navigator/)
+- [Getting started with Navigaton](https://docs.anaconda.com/anaconda/navigator/getting-started)
+- [Getting started with conda — Conda   Document](https://conda.io/docs/user-guide/getting-started.html)
+- [左手程序员，右手作家：你必须会的Jupyter Notebook - 简书](https://www.jianshu.com/p/86117613b7a6)
+[Python数据分析之anaconda安装和使用](https://zhuanlan.zhihu.com/p/30264514)
+- [初学python者自学anaconda的正确姿势是什么？？ - 知乎](https://www.zhihu.com/question/58033789)
+[Anaconda的清华源](https://mirrors.tuna.tsinghua.edu.cn/anaconda/archive/)
+
