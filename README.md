@@ -73,3 +73,9 @@ The idea inspired by [leerduo](https://github.com/leerduo) , to take note what I
 - [初学python者自学anaconda的正确姿势是什么？？ - 知乎](https://www.zhihu.com/question/58033789)
 [Anaconda的清华源](https://mirrors.tuna.tsinghua.edu.cn/anaconda/archive/)
 
+> - 2018年02月26日.
+- [专注和游离 | MacTalk](http://macshuo.com/?p=1307)
+- [《Ansible权威指南》](https://item.jd.com/12070020.html) 第10、11章
+- [《Linux运维最佳实践》](https://item.jd.com/12025874.html) 第19章：
+- [《Python Linux系统管理与自动化运维》](https://item.jd.com/12025874.html) 第10章
+- [《Python自动化运维》](https://item.jd.com/11571426.html) 第9章
