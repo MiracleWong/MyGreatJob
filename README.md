@@ -68,7 +68,7 @@ The idea inspired by [leerduo](https://github.com/leerduo) , to take note what I
 - [Anaconda Navigator | Anaconda: Documentation](https://docs.anaconda.com/anaconda/navigator/)
 - [Getting started with Navigaton](https://docs.anaconda.com/anaconda/navigator/getting-started)
 - [Getting started with conda — Conda   Document](https://conda.io/docs/user-guide/getting-started.html)
-- [左手程序员，右手作家：你必须会的Jupyter Notebook - 简书](https://www.jianshu.com/p/86117613b7a6)
+- [左手程序员，右手作家：你必须会的xwJupyter Notebook - 简书](https://www.jianshu.com/p/86117613b7a6)
 [Python数据分析之anaconda安装和使用](https://zhuanlan.zhihu.com/p/30264514)
 - [初学python者自学anaconda的正确姿势是什么？？ - 知乎](https://www.zhihu.com/question/58033789)
 [Anaconda的清华源](https://mirrors.tuna.tsinghua.edu.cn/anaconda/archive/)
@@ -79,3 +79,6 @@ The idea inspired by [leerduo](https://github.com/leerduo) , to take note what I
 - [《Linux运维最佳实践》](https://item.jd.com/12025874.html) 第19章：
 - [《Python Linux系统管理与自动化运维》](https://item.jd.com/12025874.html) 第10章
 - [《Python自动化运维》](https://item.jd.com/11571426.html) 第9章
+
+> - 2018年02月27日
+- [如何在三年内快速成长为一名技术专家](http://gitbook.cn/books/59ac075a931f212130c124a6/index.html)
