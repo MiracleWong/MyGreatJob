@@ -82,3 +82,10 @@ The idea inspired by [leerduo](https://github.com/leerduo) , to take note what I
 
 > - 2018年02月27日
 - [如何在三年内快速成长为一名技术专家](http://gitbook.cn/books/59ac075a931f212130c124a6/index.html)
+
+> - 2018年02月28日
+- [基于Python实现的微信好友数据分析](https://juejin.im/entry/5a93b5146fb9a063543c50b6)
+-  [你有什么道理后悔没有早点知道？ - 知乎](https://www.zhihu.com/question/23819007/answer/71141181)
+- [Mac 上使用 workflow 编写天气插件 | tuzhi](http://fuzhii.com/2018/02/28/workflow/)
+- [徐佳鑫的回答：你有什么道理后悔没有早点知道？ - 知乎](https://www.zhihu.com/question/23819007/answer/71141181)
+- [skiptomylou的回答：你有什么道理后悔没有早点知道？ - 知乎](https://www.zhihu.com/question/23819007/answer/107332874)
