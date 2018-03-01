@@ -89,3 +89,11 @@ The idea inspired by [leerduo](https://github.com/leerduo) , to take note what I
 - [Mac 上使用 workflow 编写天气插件 | tuzhi](http://fuzhii.com/2018/02/28/workflow/)
 - [徐佳鑫的回答：你有什么道理后悔没有早点知道？ - 知乎](https://www.zhihu.com/question/23819007/answer/71141181)
 - [skiptomylou的回答：你有什么道理后悔没有早点知道？ - 知乎](https://www.zhihu.com/question/23819007/answer/107332874)
+
+> - 2018年03月01日
+- [用Dockerfile打造你的自动化构建工具](https://blog.zhouzhipeng.com/dockerfile-auto-ci-tool.html)
+- [我的 2017，数字化实践《记忆碎片》式的活法](https://sspai.com/post/43350)
+    - （1）每天拷贝前一天的笔记
+    - （2）每篇笔记有大致相同的架构和板块，具体划分可以参考我的sample
+    - （3）板块里面是 你当天的实际事情状态更新情况，或想法变化情况
+    - （4）按时间将笔记分组，形成一个可追溯的历史笔记列表
