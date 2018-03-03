@@ -97,3 +97,7 @@ The idea inspired by [leerduo](https://github.com/leerduo) , to take note what I
     - （2）每篇笔记有大致相同的架构和板块，具体划分可以参考我的sample
     - （3）板块里面是 你当天的实际事情状态更新情况，或想法变化情况
     - （4）按时间将笔记分组，形成一个可追溯的历史笔记列表
+
+> - 2018年03月03日
+- [Git原理详解及实用指南](https://blog.zhouzhipeng.com/dockerfile-auto-ci-tool.html) 第1-22节，其中变基部分没有理解，而且浪费很多时间。
+- [基于 Python 实现微信公众号爬虫](https://juejin.im/book/5a157c155188254a701eb3c1) 第1-5节
