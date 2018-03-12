@@ -1,4 +1,4 @@
-# MyGreatJob
+ # MyGreatJob
 Jobs I do everyday!
 
 The idea inspired by [leerduo](https://github.com/leerduo) , to take note what I have done in the daytime.
@@ -101,3 +101,16 @@ The idea inspired by [leerduo](https://github.com/leerduo) , to take note what I
 > - 2018年03月03日
 - [Git原理详解及实用指南](https://blog.zhouzhipeng.com/dockerfile-auto-ci-tool.html) 第1-22节，其中变基部分没有理解，而且浪费很多时间。
 - [基于 Python 实现微信公众号爬虫](https://juejin.im/book/5a157c155188254a701eb3c1) 第1-5节
+
+> - 2018年03月09日
+- 在lxk家里吃的他炖的🐔，很是不错。
+- 购买了森马服饰的三件衣服：裤子、卫衣和衬衣，试装的时候充分的了解了自己臃肿肥胖的身体，一种令人恶心的冲动，自己之前真的是太放纵自己了，怪不得老妈和嫂子们担心我这么下去，找不到女朋友的。一定要下决心减肥的。
+
+> - 2018年03月11日
+- [Write Like You Talk](http://www.paulgraham.com/talk.html)
+- [提升个人效率从写日志开始](https://www.yejianye.com/2018/03/04/journaling/)
+
+> - 2018年03月12日
+- [mysql 实现主从复制](https://www.extlight.com/2018/03/12/MySQL-%E5%AE%9E%E7%8E%B0%E4%B8%BB%E4%BB%8E%E5%A4%8D%E5%88%B6/)
+- [『Ansible 上手指南』](https://juejin.im/post/5a9d61a5f265da238b7d8189)
+- [『Ansible 上手指南：2』](https://juejin.im/post/5aa2b6b86fb9a028e25d2953)
