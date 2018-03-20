@@ -135,4 +135,10 @@ The idea inspired by [leerduo](https://github.com/leerduo) , to take note what I
 * [Page.qy](http://page.xn--fiqs8s/)
 * [GitHub - 中国独立开发者项目列表](https://github.com/1c7/chinese-independent-developer)
 
+### 2018年03月20日
+- [使用 Docker 容器化 Django Web 应用](http://dockone.io/article/3656)
+- [技巧：使用Docker快速搭建开发环境数据库服务](http://dockone.io/article/4306)
+- [Django MySQL配置](https://juejin.im/entry/5aafb68851882548fe49f11c)
+- [Dockerizing Django for Development](https://fernandofreitasalves.com/dockerizing-django-for-development/)
+
 
