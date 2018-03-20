@@ -5,7 +5,8 @@ The idea inspired by [leerduo](https://github.com/leerduo) , to take note what I
 
 # 2018年
 ## 2月份
-> - 2018年02月16日
+
+### 2018年02月16日
 - [让窗口布局更有效率，Windows 平台分屏工具合辑 ](https://sspai.com/post/43187)
 - [在 Windows 上如何管理 Hosts？这里有 3 款小工具推荐给你 ](https://sspai.com/post/43248)
 - [让这只蠢萌的熊来帮你管理密码：RememBear ](https://sspai.com/post/43255)
@@ -14,7 +15,7 @@ The idea inspired by [leerduo](https://github.com/leerduo) , to take note what I
 - [Windows 上的良心国产应用，我们又帮你找了这 5 款 ](https://sspai.com/post/43058)
 - [我的数字 2017：Notion、笔记和其他 ](https://sspai.com/post/43026)
 
-> - 2018年02月17日
+### 2018年02月17日
 - [定期自动云备份 macOS 软件列表，维护一份属于自己的必备 App 清单 ](https://sspai.com/post/43265)
 - [给 Mac 优雅地一键「装机」 ](https://sspai.com/post/43239)
 - [零基础用 Python 画图表，让你的论文更美观 ](https://sspai.com/post/43060)
@@ -110,7 +111,28 @@ The idea inspired by [leerduo](https://github.com/leerduo) , to take note what I
 - [Write Like You Talk](http://www.paulgraham.com/talk.html)
 - [提升个人效率从写日志开始](https://www.yejianye.com/2018/03/04/journaling/)
 
-> - 2018年03月12日
+### 2018年03月12日
 - [mysql 实现主从复制](https://www.extlight.com/2018/03/12/MySQL-%E5%AE%9E%E7%8E%B0%E4%B8%BB%E4%BB%8E%E5%A4%8D%E5%88%B6/)
 - [『Ansible 上手指南』](https://juejin.im/post/5a9d61a5f265da238b7d8189)
 - [『Ansible 上手指南：2』](https://juejin.im/post/5aa2b6b86fb9a028e25d2953)
+
+
+### 2018年03月13日
+
+- 工作上，总结自动化运维平台的相关的内容。
+- 编写Zookeeper、Kafka的Playbook。
+- 编写Rails的页面。
+
+
+### 2018年03月18日
+- [MySQL添加注释（Comment）](http://blog.csdn.net/znyyjk/article/details/52718319)
+
+### 2018年03月19日
+* [openssl 生成证书 server.key server.crt](http://blog.csdn.net/u011240463/article/details/56673850)
+* [MySQL 教程](http://www.runoob.com/mysql/mysql-tutorial.html)
+* [MySQL UPDATE 查询](http://www.runoob.com/mysql/mysql-update-query.html)
+* [服务端指南——文件权限管理剖析](http://blog.720ui.com/2018/linux_root/)
+* [Page.qy](http://page.xn--fiqs8s/)
+* [GitHub - 中国独立开发者项目列表](https://github.com/1c7/chinese-independent-developer)
+
+
