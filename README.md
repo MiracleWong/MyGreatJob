@@ -141,4 +141,17 @@ The idea inspired by [leerduo](https://github.com/leerduo) , to take note what I
 - [Django MySQL配置](https://juejin.im/entry/5aafb68851882548fe49f11c)
 - [Dockerizing Django for Development](https://fernandofreitasalves.com/dockerizing-django-for-development/)
 
+### 2018年03月21日
+
+- [路线图：程序员领域知识体系搭建](https://mp.weixin.qq.com/s/DP2NUoATSTC_AOXS1JIT8A)
+- [十倍效能提升——Web 基础研发体系的建立](http://www.cnblogs.com/sskyy/p/8613393.html)
+- [余晟：让自家系统瘫痪，这事我也干过](https://yq.aliyun.com/articles/200811)
+	* 	哪怕情况再紧急，也不能手足无措，静下来心来仔细分析，这才是解决问题的根本途径。
+	*  有经验和没有经验的差别，很多时候不在专业技术上，而在于把握能力上。
+	*  工作习惯的改变：每次接手生产系统，第一时间会去关注系统的完整和安全，不再着迷于系统架构和代码质量。
+	*  冷备份做起来，备份恢复方案做起来，数据库分账号控制做起来
+	*  好的系统都是一个个小坑填出来的：看到小坑就要去填，不能永远靠人力处理，靠手工搏斗。
+	*  老板只是设定了目标，给了我们锻炼和成长的机会。
+-  [这款 Mac 启动器：Recents](https://sspai.com/post/43754)
+-  [GitLab: 2018 is the year for open source and DevOps - SD Times](https://sdtimes.com/devops/gitlabs-2018-devops-open-source-survey/)
 
