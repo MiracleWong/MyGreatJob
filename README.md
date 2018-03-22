@@ -155,3 +155,9 @@ The idea inspired by [leerduo](https://github.com/leerduo) , to take note what I
 -  [这款 Mac 启动器：Recents](https://sspai.com/post/43754)
 -  [GitLab: 2018 is the year for open source and DevOps - SD Times](https://sdtimes.com/devops/gitlabs-2018-devops-open-source-survey/)
 
+### 2018年03月22日
+- [我的数字 2017：Notion、笔记和其他 - 少数派](https://sspai.com/post/43026)
+- [Git 中 Reset、Revert、Checkout的区别](http://yuanhehe.cn/2016/10/31/Git-%E4%B8%AD-Reset%E3%80%81Revert%E3%80%81Checkout%E7%9A%84%E5%8C%BA%E5%88%AB/)
+- [sed 字符串替换 - Amei1314 - 博客园](https://www.cnblogs.com/linux-wangkun/p/5745584.html)
+
+
