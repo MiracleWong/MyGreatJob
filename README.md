@@ -159,4 +159,11 @@ The idea inspired by [leerduo](https://github.com/leerduo) , to take note what I
 - [Git 中 Reset、Revert、Checkout的区别](http://yuanhehe.cn/2016/10/31/Git-%E4%B8%AD-Reset%E3%80%81Revert%E3%80%81Checkout%E7%9A%84%E5%8C%BA%E5%88%AB/)
 - [sed 字符串替换 - Amei1314 - 博客园](https://www.cnblogs.com/linux-wangkun/p/5745584.html)
 
+### 2018年03月23日
+* [Notion：重新定义数字笔记](https://sspai.com/post/39694)
+* [两步生成Notion的Android精简APP](https://sspai.com/post/42314)
+* [记笔记、做摘录还能管理任务，全能数字笔记 Notion 推出 iOS 版](https://sspai.com/post/41223)
+* [Notion – The all-in-one workspace for your notes, tasks, wikis, and databases.](https://www.notion.so)
+* [《TED：这些职场建议可能还没人告诉你》](https://weibo.com/tv/v/G65xtqvXd?fid=1034:bfc644558d1c566acb2fa6f661671a80)
+
 
