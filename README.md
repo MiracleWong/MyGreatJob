@@ -21,10 +21,10 @@ The idea inspired by [leerduo](https://github.com/leerduo) , to take note what I
 - [零基础用 Python 画图表，让你的论文更美观 ](https://sspai.com/post/43060)
 - [Python+Django+Ansible Playbook自动化运维项目实战](https://coding.imooc.com/learn/list/160.html) 3.18-4.5
 
-> - 2018年02月18日
+### 2018年02月18日
 - [Python+Django+Ansible Playbook自动化运维项目实战](https://coding.imooc.com/learn/list/160.html) 3.18-4.5
 
-> - 2018年02月19日
+### 2018年02月19日
 - [学习的过程就是建立知识体系的过程](http://www.imooc.com/article/22646)
 - [参加完同学聚会发现的五条规律：决胜千里以及美好的人生究竟靠什么](https://mp.weixin.qq.com/s/AifRsVJSRKKJ_HS3wtvhVg)
     - 规律一：人生并非环环相扣，敲门砖并不可靠
@@ -48,24 +48,24 @@ The idea inspired by [leerduo](https://github.com/leerduo) , to take note what I
         - 有时候我们关于效率，关于性价比那些方面动的心思，耗费的努力，基本上抵不过一句闪烁着向往光芒的“我愿意”。
     - 盘点我们的成长的20年，我发现，人生的上半场，敌人也只有自己。能够决胜千里的，永远是内心的力量，跟外界那个看似激烈喧嚣的世界无关。
 
-> - 2018年02月20日
+### 2018年02月20日
 - [科普：帐号泄露事件频发，到底什么样的密码才安全？](https://sspai.com/post/31659)
 
-> - 2018年02月22日
+### 2018年02月22日
 - [如何在 Windows 上实现自动化？让这些工具帮助你](https://sspai.com/post/43016)
 - [五年计划第一次复盘 & 2017 年收获的技巧和感悟](https://sspai.com/post/42802)
 - [Xnip，支持滚动截长图的 macOS 截图工具丨App+1](https://sspai.com/post/42686)
 - [在少数派写稿两年后，我养成的数字生活方式](https://sspai.com/post/42714)
 - [除了任务管理工具，你还需要知道甘特图](https://sspai.com/post/42608)
 
-> - 2018年02月23日
+### 2018年02月23日
 - [Ansible Tower系列 一（Tower介绍）](http://docs.ansible.com/ansible-tower/latest/html/administration/index.html)
 - [Ansible Tower系列 二（安装 Tower） - 简书](https://www.jianshu.com/p/1c6aa6ceeca6)
 - [Ansible Tower系列 三（使用tower执行一个任务） - 简书](https://www.jianshu.com/p/804832965259)
 - [Ansible Tower系列 四（使用tower执行一个命令） - 简书](https://www.jianshu.com/p/8a7727ec9238)
 - [Ansible Tower系列 五（安装 tower 3.1） - 简书](https://www.jianshu.com/p/9874b663d8f3)
 
-> - 2018.02.25
+### 2018.02.25
 - [Anaconda Navigator | Anaconda: Documentation](https://docs.anaconda.com/anaconda/navigator/)
 - [Getting started with Navigaton](https://docs.anaconda.com/anaconda/navigator/getting-started)
 - [Getting started with conda — Conda   Document](https://conda.io/docs/user-guide/getting-started.html)
@@ -74,24 +74,24 @@ The idea inspired by [leerduo](https://github.com/leerduo) , to take note what I
 - [初学python者自学anaconda的正确姿势是什么？？ - 知乎](https://www.zhihu.com/question/58033789)
 [Anaconda的清华源](https://mirrors.tuna.tsinghua.edu.cn/anaconda/archive/)
 
-> - 2018年02月26日.
+### 2018年02月26日.
 - [专注和游离 | MacTalk](http://macshuo.com/?p=1307)
 - [《Ansible权威指南》](https://item.jd.com/12070020.html) 第10、11章
 - [《Linux运维最佳实践》](https://item.jd.com/12025874.html) 第19章：
 - [《Python Linux系统管理与自动化运维》](https://item.jd.com/12025874.html) 第10章
 - [《Python自动化运维》](https://item.jd.com/11571426.html) 第9章
 
-> - 2018年02月27日
+### 2018年02月27日
 - [如何在三年内快速成长为一名技术专家](http://gitbook.cn/books/59ac075a931f212130c124a6/index.html)
 
-> - 2018年02月28日
+### 2018年02月28日
 - [基于Python实现的微信好友数据分析](https://juejin.im/entry/5a93b5146fb9a063543c50b6)
 -  [你有什么道理后悔没有早点知道？ - 知乎](https://www.zhihu.com/question/23819007/answer/71141181)
 - [Mac 上使用 workflow 编写天气插件 | tuzhi](http://fuzhii.com/2018/02/28/workflow/)
 - [徐佳鑫的回答：你有什么道理后悔没有早点知道？ - 知乎](https://www.zhihu.com/question/23819007/answer/71141181)
 - [skiptomylou的回答：你有什么道理后悔没有早点知道？ - 知乎](https://www.zhihu.com/question/23819007/answer/107332874)
 
-> - 2018年03月01日
+### 2018年03月01日
 - [用Dockerfile打造你的自动化构建工具](https://blog.zhouzhipeng.com/dockerfile-auto-ci-tool.html)
 - [我的 2017，数字化实践《记忆碎片》式的活法](https://sspai.com/post/43350)
     - （1）每天拷贝前一天的笔记
@@ -99,15 +99,15 @@ The idea inspired by [leerduo](https://github.com/leerduo) , to take note what I
     - （3）板块里面是 你当天的实际事情状态更新情况，或想法变化情况
     - （4）按时间将笔记分组，形成一个可追溯的历史笔记列表
 
-> - 2018年03月03日
+### 2018年03月03日
 - [Git原理详解及实用指南](https://blog.zhouzhipeng.com/dockerfile-auto-ci-tool.html) 第1-22节，其中变基部分没有理解，而且浪费很多时间。
 - [基于 Python 实现微信公众号爬虫](https://juejin.im/book/5a157c155188254a701eb3c1) 第1-5节
 
-> - 2018年03月09日
+### 2018年03月09日
 - 在lxk家里吃的他炖的🐔，很是不错。
 - 购买了森马服饰的三件衣服：裤子、卫衣和衬衣，试装的时候充分的了解了自己臃肿肥胖的身体，一种令人恶心的冲动，自己之前真的是太放纵自己了，怪不得老妈和嫂子们担心我这么下去，找不到女朋友的。一定要下决心减肥的。
 
-> - 2018年03月11日
+### 2018年03月11日
 - [Write Like You Talk](http://www.paulgraham.com/talk.html)
 - [提升个人效率从写日志开始](https://www.yejianye.com/2018/03/04/journaling/)
 
@@ -118,7 +118,6 @@ The idea inspired by [leerduo](https://github.com/leerduo) , to take note what I
 
 
 ### 2018年03月13日
-
 - 工作上，总结自动化运维平台的相关的内容。
 - 编写Zookeeper、Kafka的Playbook。
 - 编写Rails的页面。
