@@ -169,19 +169,23 @@ The idea inspired by [leerduo](https://github.com/leerduo) , to take note what I
 
 ### 2018年03月26日
 
-[在新款Mac上使用“启动转换”安装Windows](https://support.apple.com/zh-cn/guide/bootcamp-assistant/bcmp173b3bf2/6.1/mac/10.13)
-[开始写作吧](https://mp.weixin.qq.com/s/LyjPDZG7B7F81lWB3Ibw9Q)
+- [在新款Mac上使用“启动转换”安装Windows](https://support.apple.com/zh-cn/guide/bootcamp-assistant/bcmp173b3bf2/6.1/mac/10.13)
+- [开始写作吧](https://mp.weixin.qq.com/s/LyjPDZG7B7F81lWB3Ibw9Q)
 
 ### 2018年03月28日
 
-[Python - Understanding Generators](http://devarea.com/python-understanding-generators)
-[crontab周期性任务定时计划器](http://www.cnblogs.com/aubin/p/7446215.html)
+- [Python - Understanding Generators](http://devarea.com/python-understanding-generators)
+- [crontab周期性任务定时计划器](http://www.cnblogs.com/aubin/p/7446215.html)
 
 ### 2018年03月29日
 
-[VIM实用技巧笔记](http://lanffy.github.io/2016/01/24/VIM%E5%AE%9E%E7%94%A8%E6%8A%80%E5%B7%A7%E7%AC%94%E8%AE%B0)
-[VIM光标移动快捷方式](http://lanffy.github.io/2016/09/12/VIM%E5%85%89%E6%A0%87%E7%A7%BB%E5%8A%A8%E5%BF%AB%E6%8D%B7%E6%96%B9%E5%BC%8F)
-[VS Code开发技巧集锦](https://zhuanlan.zhihu.com/p/34989844)
+- [VIM实用技巧笔记](http://lanffy.github.io/2016/01/24/VIM%E5%AE%9E%E7%94%A8%E6%8A%80%E5%B7%A7%E7%AC%94%E8%AE%B0)
+- [VIM光标移动快捷方式](http://lanffy.github.io/2016/09/12/VIM%E5%85%89%E6%A0%87%E7%A7%BB%E5%8A%A8%E5%BF%AB%E6%8D%B7%E6%96%B9%E5%BC%8F)
+- [VS Code开发技巧集锦](https://zhuanlan.zhihu.com/p/34989844)
 
+### 2018年03月30日
 
+- [徽章系统](https://shields.io/)
+- [当你把代码开源之后选择一个合适的开源协议](https://mp.weixin.qq.com/s/uPIEJCrqaaMIbGv97KU-Nw)
+- [Shields.io: Quality metadata badges for open source projects](http://shields.io/)
 
