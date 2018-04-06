@@ -189,3 +189,11 @@ The idea inspired by [leerduo](https://github.com/leerduo) , to take note what I
 - [当你把代码开源之后选择一个合适的开源协议](https://mp.weixin.qq.com/s/uPIEJCrqaaMIbGv97KU-Nw)
 - [Shields.io: Quality metadata badges for open source projects](http://shields.io/)
 
+
+
+### 2018年04月06日
+
+- [Redis 从入门到实战](http://gitbook.cn/books/5a196cb24a97251edce2ae9a/index.html)
+- [追梦人物的Django博客教程](https://www.zmrenwu.com/post/2/) 1-7章
+
+
