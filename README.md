@@ -197,3 +197,13 @@ The idea inspired by [leerduo](https://github.com/leerduo) , to take note what I
 - [追梦人物的Django博客教程](https://www.zmrenwu.com/post/2/) 1-7章
 
 
+### 2018年04月07日
+
+[如何评价京东员工因为买盒马鲜生被公司开除？ - 知乎，魑魅魍魉的回答](https://www.zhihu.com/question/271050618/answer/359822027)
+[“我们是逼死了人，可你也不该出来揭露呀！”](https://zhuanlan.zhihu.com/p/35355991)
+[大家觉得《只管去做》这本书怎么样？值不值得买？ - 知乎](https://www.zhihu.com/question/264275362)
+[如何在 2 分钟内入睡（二战时期美国飞行员训练法）](https://zhuanlan.zhihu.com/p/34952593)
+[《只管去做》这本书怎么样？- 知乎，秋叶的回答](https://www.zhihu.com/question/264275362/answer/301022871)
+[《只管去做》这本书怎么样？- 知乎，战隼的回答](https://www.zhihu.com/question/264275362/answer/359972739)
+[成长过程中是什么导致了孩子不愿再跟家长沟通？ - 知乎，的是的的的的的回答](https://www.zhihu.com/question/266753012/answer/316029289)
+
