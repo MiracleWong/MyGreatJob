@@ -235,4 +235,20 @@ The idea inspired by [leerduo](https://github.com/leerduo) , to take note what I
 	- 有 Leadership 喜欢冒险的人，通常都是学习能力强，思维活跃，喜欢折腾，懂得“投资”的人。
 	- 学习能力强思维活跃的人，通常来说，都是喜欢看书，喜欢实践和新鲜事物，不怕艰难和挑战，用智力而不是使蛮力的人。
 	- 懂得“投资”的人，通常来说，他们更多的关注的是未来和长远的成长，而不是当下的 KPI、奖金和晋升。
+- [nginx从入门到实践]()
+
+### 2018年04月10日 
+
+- [最实用的 Linux 命令行使用技巧汇总 – 码农网](http://www.codeceo.com/linux-command-line-using-tips.html)
+- [运维标准化与流程化建设深度指南](https://mp.weixin.qq.com/s/9z9d14aRR1VEdAXmfourGw)
+- [对 Linux 新手非常有用的 20 个命令_慕课手记](http://www.imooc.com/article/2817)
+- [在自己的成长道路上开出花来——给ScalersTalk成长会2018小伙伴的一封信](https://mp.weixin.qq.com/s/DGyNkunBraVj0ArK-HowwA)
+- [Python爬虫路上，推荐一波学习资源](https://mp.weixin.qq.com/s/S-BesN1S63NBtCD_z-Biig)
+	- Python之禅
+	- 纯洁的微笑
+	- Java技术栈
+	- 机器学习算法全栈工程师
+	- 码农有道
+	- 算法与数学之美
+
 
