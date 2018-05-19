@@ -275,4 +275,7 @@ The idea inspired by [leerduo](https://github.com/leerduo) , to take note what I
 ### 2018年04月27日
 	- Docker官方文档
 
-
+### 2018年05月19日
+    - [Qi迹](https://mp.weixin.qq.com/s/CvkESxu7aY6ZOnz89auGxw)
+    - [让我们回归本源](https://mp.weixin.qq.com/s/ONvykhkqzrpElBSz9rEIRQ)
+    - [近距离感受理念的力量](https://mp.weixin.qq.com/s/BM-hb50ahUoR9UISdrFc1Q)
