@@ -189,8 +189,6 @@ The idea inspired by [leerduo](https://github.com/leerduo) , to take note what I
 - [当你把代码开源之后选择一个合适的开源协议](https://mp.weixin.qq.com/s/uPIEJCrqaaMIbGv97KU-Nw)
 - [Shields.io: Quality metadata badges for open source projects](http://shields.io/)
 
-
-
 ### 2018年04月06日
 
 - [Redis 从入门到实战](http://gitbook.cn/books/5a196cb24a97251edce2ae9a/index.html)
@@ -279,3 +277,8 @@ The idea inspired by [leerduo](https://github.com/leerduo) , to take note what I
     - [Qi迹](https://mp.weixin.qq.com/s/CvkESxu7aY6ZOnz89auGxw)
     - [让我们回归本源](https://mp.weixin.qq.com/s/ONvykhkqzrpElBSz9rEIRQ)
     - [近距离感受理念的力量](https://mp.weixin.qq.com/s/BM-hb50ahUoR9UISdrFc1Q)
+
+### 2018年05月24日
+    - [bpython](https://bpython-interpreter.org/)
+	- [git clone速度太慢解决方案](https://blog.csdn.net/hzwwpgmwy/article/details/79043251)
+	- [Git CheatSheet](https://yq.aliyun.com/articles/465300)
