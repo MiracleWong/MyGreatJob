@@ -274,11 +274,17 @@ The idea inspired by [leerduo](https://github.com/leerduo) , to take note what I
 	- Docker官方文档
 
 ### 2018年05月19日
-    - [Qi迹](https://mp.weixin.qq.com/s/CvkESxu7aY6ZOnz89auGxw)
-    - [让我们回归本源](https://mp.weixin.qq.com/s/ONvykhkqzrpElBSz9rEIRQ)
-    - [近距离感受理念的力量](https://mp.weixin.qq.com/s/BM-hb50ahUoR9UISdrFc1Q)
+- [Qi迹](https://mp.weixin.qq.com/s/CvkESxu7aY6ZOnz89auGxw)
+- [让我们回归本源](https://mp.weixin.qq.com/s/ONvykhkqzrpElBSz9rEIRQ)
+- [近距离感受理念的力量](https://mp.weixin.qq.com/s/BM-hb50ahUoR9UISdrFc1Q)
 
 ### 2018年05月24日
-    - [bpython](https://bpython-interpreter.org/)
-	- [git clone速度太慢解决方案](https://blog.csdn.net/hzwwpgmwy/article/details/79043251)
-	- [Git CheatSheet](https://yq.aliyun.com/articles/465300)
+- [bpython](https://bpython-interpreter.org/)
+- [git clone速度太慢解决方案](https://blog.csdn.net/hzwwpgmwy/article/details/79043251)
+- [Git CheatSheet](https://yq.aliyun.com/articles/465300)
+
+### 2018年06月15日
+- [Cmder+Babun打造Windows好用的shell工具](https://segmentfault.com/a/1190000015154034)
+
+### 2018年06月22日
+- [自动化运维持续集成](http://gitbook.cn/books/5b18c1a7744bf0785a49a171/index.html)
