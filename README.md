@@ -288,3 +288,7 @@ The idea inspired by [leerduo](https://github.com/leerduo) , to take note what I
 
 ### 2018年06月22日
 - [自动化运维持续集成](http://gitbook.cn/books/5b18c1a7744bf0785a49a171/index.html)
+
+### 2018年06月26日
+- [Immensely upgrade your development environment with these Visual Studio Code extensions](https://medium.com/@wesharehoodies/immensely-upgrade-your-development-environment-with-these-visual-studio-code-extensions-9cd790478530)
+- 《Kubernetes 权威指南》PVC GlusterFS
