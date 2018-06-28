@@ -292,3 +292,6 @@ The idea inspired by [leerduo](https://github.com/leerduo) , to take note what I
 ### 2018年06月26日
 - [Immensely upgrade your development environment with these Visual Studio Code extensions](https://medium.com/@wesharehoodies/immensely-upgrade-your-development-environment-with-these-visual-studio-code-extensions-9cd790478530)
 - 《Kubernetes 权威指南》PVC GlusterFS
+
+### 2018年06月27日
+- [在 Windows 上拥有舒适的码字体验，12 款 Markdown 写作工具推荐](https://sspai.com/post/42126)
