@@ -1,4 +1,4 @@
- # MyGreatJob
+# MyGreatJob
 Jobs I do everyday!
 
 The idea inspired by [leerduo](https://github.com/leerduo) , to take note what I have done in the daytime.
@@ -301,3 +301,7 @@ The idea inspired by [leerduo](https://github.com/leerduo) , to take note what I
 
 ### 2018年07月02日
 - [Vim编辑器·Vim快速入门](https://www.shiyanlou.com/courses/2)
+
+### 2018年07月16日
+- [Nginx从入门到实战](https://coding.imooc.com/class/121.html) ch1、ch2（2-1 → 2-7）
+- [Docker+Kubernetes(k8s)微服务容器化实践](https://coding.imooc.com/class/198.html) （6-1 → 6-2）
