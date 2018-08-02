@@ -305,3 +305,35 @@ The idea inspired by [leerduo](https://github.com/leerduo) , to take note what I
 ### 2018年07月16日
 - [Nginx从入门到实战](https://coding.imooc.com/class/121.html) ch1、ch2（2-1 → 2-7）
 - [Docker+Kubernetes(k8s)微服务容器化实践](https://coding.imooc.com/class/198.html) （6-1 → 6-2）
+
+### 2018年07月30日
+- [百度没有文化](https://mp.weixin.qq.com/s/NhQiEh0VauHlA26KdjagsQ)
+- [从商品流通渠道说一下拼多多](https://weibo.com/ttarticle/p/show?id=2309404267128944477995)
+- [每个人都应该学会正确管理文件](https://sspai.com/series/13)
+- [肖德时——深入浅出 Docker 技术栈实践课](https://gitbook.cn/gitchat/column/59e464726958416d85ae9207)
+- [张仕超——Docker极简入门指南](https://gitbook.cn/gitchat/column/5a13be9775462408e0da8d9d)
+
+### 2018年08月02日
+- [数学最高奖揭晓那晚，他的方丈出事了](https://mp.weixin.qq.com/s/f6fDGVojXJqO70_1ocoEPg)
+- [让 ThoughtWorks 成为你的下一所大学](https://mp.weixin.qq.com/s/DnEnnUnGloDB3c6Lou7rdA)
+- [编程人生：毕业到迈入工作的第五年，发生了这些变化](https://mp.weixin.qq.com/s/olDqdHoiBp9uEHbHtZH0Kw)
+    - Work
+        - 工作：从得到什么，到创造什么
+        - 技能：从提升编程技能，到提升可迁移技能
+        - 业务：从厌恶业务代码，到进一步抽象业务
+    - Personal：
+        - 技术学习：学习新技术，而不是新框架
+        - 深入技术：持续造轮子
+        - 沉淀技术：从技术文章到小电子书
+    - “精通 one，学习 another，关注 next”
+    - 要思考自己的职业规划和下一步的行动重点RoadMap
+- [最近在努力弥补的一个短板](https://mp.weixin.qq.com/s/o3LjVllqkQYj4IW8oK5C7g)
+    - 发现问题：行文没有激情，表达欠点火候。（必须把问题具象化到可操作的路径）
+    - 分析问题（对标分析）：
+        - 罗振宇，特色：造词
+        - 罗永浩，特色：金句
+    - 解决问题：
+        - 短期是积累，攒够足量的词句；后期是归纳，并找到逻辑上的规律。
+        - 核心方法：《洋葱阅读法》中的「概念卡片」
+        - 句子迷 && 印象笔记·剪贴板
+    - 际遇只占人生中的一成，而你怎么面对，则占九成。
