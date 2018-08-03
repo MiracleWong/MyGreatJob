@@ -337,3 +337,6 @@ The idea inspired by [leerduo](https://github.com/leerduo) , to take note what I
         - 核心方法：《洋葱阅读法》中的「概念卡片」
         - 句子迷 && 印象笔记·剪贴板
     - 际遇只占人生中的一成，而你怎么面对，则占九成。
+
+### 2018年08月03日
+- SaltStack
