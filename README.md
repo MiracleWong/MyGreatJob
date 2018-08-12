@@ -340,3 +340,11 @@ The idea inspired by [leerduo](https://github.com/leerduo) , to take note what I
 
 ### 2018年08月03日
 - SaltStack
+
+### 2018年08月12日
+
+- [经过一年的思考，我重新梳理了印象笔记的使用方法](https://sspai.com/post/46056)
+- [用SmartArt轻松制作流程图，搞定Office多图排版](https://sspai.com/post/46060)
+- [如何搭建高效的外接显示器工作环境](https://sspai.com/post/45839)
+- [GitHub 上最火的 Google 图片批量下载工具简明教程](https://sspai.com/post/45672)
+- [掌握 3 个搜索技巧，在 GitHub 上快速找到实用软件资源](https://sspai.com/post/46061)
