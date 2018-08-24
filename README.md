@@ -348,3 +348,7 @@ The idea inspired by [leerduo](https://github.com/leerduo) , to take note what I
 - [如何搭建高效的外接显示器工作环境](https://sspai.com/post/45839)
 - [GitHub 上最火的 Google 图片批量下载工具简明教程](https://sspai.com/post/45672)
 - [掌握 3 个搜索技巧，在 GitHub 上快速找到实用软件资源](https://sspai.com/post/46061)
+
+### 2018年08月24日
+
+- [在 Alfred 上实现 Launchbar 的 Instant Send](https://sspai.com/post/46088)
