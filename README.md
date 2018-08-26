@@ -352,3 +352,16 @@ The idea inspired by [leerduo](https://github.com/leerduo) , to take note what I
 ### 2018年08月24日
 
 - [在 Alfred 上实现 Launchbar 的 Instant Send](https://sspai.com/post/46088)
+
+### 2018年08月25日
+
+- [认识与入门 Markdown](https://sspai.com/post/25137)
+- [Markdown 完全入门（上）](https://sspai.com/post/36610)
+- [Markdown 完全入门（下）](https://sspai.com/post/36682)
+- [ Github Flavored Markdown语法](https://help.github.com/articles/basic-writing-and-formatting-syntax/)
+- [《用印象笔记打造知识管理系统》](https://sspai.com/series/26/list) 01 - 09
+
+### 2018年08月26日
+- Kubernetes 上的 Liveness & Readiness 健康检查
+- 《蚁人2：黄蜂女现身》
+- [《用印象笔记打造知识管理系统》](https://sspai.com/series/26/list) 10 - 14
