@@ -365,3 +365,9 @@ The idea inspired by [leerduo](https://github.com/leerduo) , to take note what I
 - Kubernetes 上的 Liveness & Readiness 健康检查
 - 《蚁人2：黄蜂女现身》
 - [《用印象笔记打造知识管理系统》](https://sspai.com/series/26/list) 10 - 14
+
+### 2018年08月31日
+- [于正攻略](https://www.huxiu.com/article/260341.html)
+- 《碟中谍6：全面瓦解》
+- 莫干山路大悦城
+- 写作
