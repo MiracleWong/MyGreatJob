@@ -371,3 +371,22 @@ The idea inspired by [leerduo](https://github.com/leerduo) , to take note what I
 - 《碟中谍6：全面瓦解》
 - 莫干山路大悦城
 - 写作
+
+### 2018年09月10日
+- [美团：增长的极限在哪里？](https://mp.weixin.qq.com/s/fchdSJWxxaX3u-Jxr0ViPw)
+- 
+### 2018年09月11日
+- [你所不知道的Visual Studio Code](https://mp.weixin.qq.com/s/udfp3qiXhpSfZbd9OSuJCg)
+- [程序员如何建立个人品牌](https://gitbook.cn/books/5b863fec72eb6c4b24b8fd11/index.html)
+
+### 2018年09月14日
+
+* [提升生活品质——个人效率工具与资讯网站推荐](https://zhuanlan.zhihu.com/p/37873730)
+* [Wakatime  不升级会员也能查看历史数据了](https://juejin.im/post/5b82ad39f265da434b65b67b)
+* [好用的谷歌浏览器插件](https://juejin.im/post/5b7bbaede51d4538d517529a)
+* [老司机的神兵利器-效率工具](https://juejin.im/post/5af0021e518825671547926e)
+* [优秀程序员都在用哪些Chrome拓展工具？](https://juejin.im/post/5b470d8de51d4519105d3bbd)
+* [代码截图，也许是今年最个性的表白姿势了](https://mp.weixin.qq.com/s/j0u7ZMPmSfNCYOchW5-IMg)
+* [吐血推荐 5 个 Chrome 浏览器插件，文末有从别人的电脑移植插件的方法](https://juejin.im/post/5b4974225188251af121d9ab)
+* [15 款免费好用的 Mac Apps](https://juejin.im/post/5b3cd1626fb9a04fd15ff05a)
+* 《把工作折腾成自己想要的样子》第一课
