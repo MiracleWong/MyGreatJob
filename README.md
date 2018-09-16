@@ -127,12 +127,12 @@ The idea inspired by [leerduo](https://github.com/leerduo) , to take note what I
 - [MySQL添加注释（Comment）](http://blog.csdn.net/znyyjk/article/details/52718319)
 
 ### 2018年03月19日
-* [openssl 生成证书 server.key server.crt](http://blog.csdn.net/u011240463/article/details/56673850)
-* [MySQL 教程](http://www.runoob.com/mysql/mysql-tutorial.html)
-* [MySQL UPDATE 查询](http://www.runoob.com/mysql/mysql-update-query.html)
-* [服务端指南——文件权限管理剖析](http://blog.720ui.com/2018/linux_root/)
-* [Page.qy](http://page.xn--fiqs8s/)
-* [GitHub - 中国独立开发者项目列表](https://github.com/1c7/chinese-independent-developer)
+- [openssl 生成证书 server.key server.crt](http://blog.csdn.net/u011240463/article/details/56673850)
+- [MySQL 教程](http://www.runoob.com/mysql/mysql-tutorial.html)
+- [MySQL UPDATE 查询](http://www.runoob.com/mysql/mysql-update-query.html)
+- [服务端指南——文件权限管理剖析](http://blog.720ui.com/2018/linux_root/)
+- [Page.qy](http://page.xn--fiqs8s/)
+- [GitHub - 中国独立开发者项目列表](https://github.com/1c7/chinese-independent-developer)
 
 ### 2018年03月20日
 - [使用 Docker 容器化 Django Web 应用](http://dockone.io/article/3656)
@@ -145,12 +145,12 @@ The idea inspired by [leerduo](https://github.com/leerduo) , to take note what I
 - [路线图：程序员领域知识体系搭建](https://mp.weixin.qq.com/s/DP2NUoATSTC_AOXS1JIT8A)
 - [十倍效能提升——Web 基础研发体系的建立](http://www.cnblogs.com/sskyy/p/8613393.html)
 - [余晟：让自家系统瘫痪，这事我也干过](https://yq.aliyun.com/articles/200811)
-	* 	哪怕情况再紧急，也不能手足无措，静下来心来仔细分析，这才是解决问题的根本途径。
-	*  有经验和没有经验的差别，很多时候不在专业技术上，而在于把握能力上。
-	*  工作习惯的改变：每次接手生产系统，第一时间会去关注系统的完整和安全，不再着迷于系统架构和代码质量。
-	*  冷备份做起来，备份恢复方案做起来，数据库分账号控制做起来
-	*  好的系统都是一个个小坑填出来的：看到小坑就要去填，不能永远靠人力处理，靠手工搏斗。
-	*  老板只是设定了目标，给了我们锻炼和成长的机会。
+	- 	哪怕情况再紧急，也不能手足无措，静下来心来仔细分析，这才是解决问题的根本途径。
+	-  有经验和没有经验的差别，很多时候不在专业技术上，而在于把握能力上。
+	-  工作习惯的改变：每次接手生产系统，第一时间会去关注系统的完整和安全，不再着迷于系统架构和代码质量。
+	-  冷备份做起来，备份恢复方案做起来，数据库分账号控制做起来
+	-  好的系统都是一个个小坑填出来的：看到小坑就要去填，不能永远靠人力处理，靠手工搏斗。
+	-  老板只是设定了目标，给了我们锻炼和成长的机会。
 -  [这款 Mac 启动器：Recents](https://sspai.com/post/43754)
 -  [GitLab: 2018 is the year for open source and DevOps - SD Times](https://sdtimes.com/devops/gitlabs-2018-devops-open-source-survey/)
 
@@ -161,11 +161,11 @@ The idea inspired by [leerduo](https://github.com/leerduo) , to take note what I
 
 ### 2018年03月23日
 
-* [Notion：重新定义数字笔记](https://sspai.com/post/39694)
-* [两步生成Notion的Android精简APP](https://sspai.com/post/42314)
-* [记笔记、做摘录还能管理任务，全能数字笔记 Notion 推出 iOS 版](https://sspai.com/post/41223)
-* [Notion – The all-in-one workspace for your notes, tasks, wikis, and databases.](https://www.notion.so)
-* [《TED：这些职场建议可能还没人告诉你》](https://weibo.com/tv/v/G65xtqvXd?fid=1034:bfc644558d1c566acb2fa6f661671a80)
+- [Notion：重新定义数字笔记](https://sspai.com/post/39694)
+- [两步生成Notion的Android精简APP](https://sspai.com/post/42314)
+- [记笔记、做摘录还能管理任务，全能数字笔记 Notion 推出 iOS 版](https://sspai.com/post/41223)
+- [Notion – The all-in-one workspace for your notes, tasks, wikis, and databases.](https://www.notion.so)
+- [《TED：这些职场建议可能还没人告诉你》](https://weibo.com/tv/v/G65xtqvXd?fid=1034:bfc644558d1c566acb2fa6f661671a80)
 
 ### 2018年03月26日
 
@@ -381,12 +381,25 @@ The idea inspired by [leerduo](https://github.com/leerduo) , to take note what I
 
 ### 2018年09月14日
 
-* [提升生活品质——个人效率工具与资讯网站推荐](https://zhuanlan.zhihu.com/p/37873730)
-* [Wakatime  不升级会员也能查看历史数据了](https://juejin.im/post/5b82ad39f265da434b65b67b)
-* [好用的谷歌浏览器插件](https://juejin.im/post/5b7bbaede51d4538d517529a)
-* [老司机的神兵利器-效率工具](https://juejin.im/post/5af0021e518825671547926e)
-* [优秀程序员都在用哪些Chrome拓展工具？](https://juejin.im/post/5b470d8de51d4519105d3bbd)
-* [代码截图，也许是今年最个性的表白姿势了](https://mp.weixin.qq.com/s/j0u7ZMPmSfNCYOchW5-IMg)
-* [吐血推荐 5 个 Chrome 浏览器插件，文末有从别人的电脑移植插件的方法](https://juejin.im/post/5b4974225188251af121d9ab)
-* [15 款免费好用的 Mac Apps](https://juejin.im/post/5b3cd1626fb9a04fd15ff05a)
-* 《把工作折腾成自己想要的样子》第一课
+- [提升生活品质——个人效率工具与资讯网站推荐](https://zhuanlan.zhihu.com/p/37873730)
+- [Wakatime  不升级会员也能查看历史数据了](https://juejin.im/post/5b82ad39f265da434b65b67b)
+- [好用的谷歌浏览器插件](https://juejin.im/post/5b7bbaede51d4538d517529a)
+- [老司机的神兵利器-效率工具](https://juejin.im/post/5af0021e518825671547926e)
+- [优秀程序员都在用哪些Chrome拓展工具？](https://juejin.im/post/5b470d8de51d4519105d3bbd)
+- [代码截图，也许是今年最个性的表白姿势了](https://mp.weixin.qq.com/s/j0u7ZMPmSfNCYOchW5-IMg)
+- [吐血推荐 5 个 Chrome 浏览器插件，文末有从别人的电脑移植插件的方法](https://juejin.im/post/5b4974225188251af121d9ab)
+- [15 款免费好用的 Mac Apps](https://juejin.im/post/5b3cd1626fb9a04fd15ff05a)
+- 《把工作折腾成自己想要的样子》第一课
+
+### 2018年09月15日
+- 《Nginx从入门到实战》
+- [《9小时搞定微信小程序开发》](https://time.geekbang.org/course/intro/77)8-16
+- 《把工作折腾成自己想要的样子》第二、三、四课
+- 《Django博客教程》1-3
+- [HTTPie 官方文档中文翻译版](https://keelii.com/2018/09/03/HTTPie/)
+
+### 2018年09月16日
+- 《深入剖析Kubernetes》
+- 《Django博客教程》4-5
+- [持续集成与 Git 工作流](https://xiaozhuanlan.com/topic/9423856710)
+- Kubernetes权威指南
