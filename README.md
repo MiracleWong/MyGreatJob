@@ -403,3 +403,7 @@ The idea inspired by [leerduo](https://github.com/leerduo) , to take note what I
 - 《Django博客教程》4-5
 - [持续集成与 Git 工作流](https://xiaozhuanlan.com/topic/9423856710)
 - Kubernetes权威指南
+
+### 2018年09月21日
+- 《玩转VS Code》之[『04 | 如何做到双手不离键盘？』](https://time.geekbang.org/column/article/40098)
+- 
