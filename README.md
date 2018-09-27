@@ -406,4 +406,15 @@ The idea inspired by [leerduo](https://github.com/leerduo) , to take note what I
 
 ### 2018年09月21日
 - 《玩转VS Code》之[『04 | 如何做到双手不离键盘？』](https://time.geekbang.org/column/article/40098)
-- 
+
+### 2018年09月26日
+- 《玩转VS Code》01-05
+
+### 2018年09月27日
+- 工作：给300+的机器安装省中心提供的agent客户端
+    - 虽然使用了Ansible等批量化的工具，还是很慢，agent这个产品出现了各种问题。
+    - 网站上的显示也是各种Bug
+    - 做一款合格的产品，是很重要也是很难的
+- 《动物世界》
+    - 还算是不错的一部影片，改编影片中算是不错的。
+- Django学习
