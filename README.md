@@ -418,3 +418,9 @@ The idea inspired by [leerduo](https://github.com/leerduo) , to take note what I
 - 《动物世界》
     - 还算是不错的一部影片，改编影片中算是不错的。
 - Django学习
+
+## 2018年10月
+
+### 2018年10月11日
+- [《Python多环境扩展管理-Virtualenv》](http://blog.51cto.com/steed/2298681)
+- [基于Python的DevOps实战](http://blog.51cto.com/cloumn/detail/13) 之 SaltStack & Salt API
