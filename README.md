@@ -427,6 +427,7 @@ The idea inspired by [leerduo](https://github.com/leerduo) , to take note what I
 
 ### 2018年10月20日
 - 《Flask Web开发实战》 Ch6：电子邮件
+- 《商业模式新生代：个人篇》
 
 ### 2018年10月21日
 - 《Flask Web开发实战》 Ch5：数据库
