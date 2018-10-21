@@ -424,3 +424,22 @@ The idea inspired by [leerduo](https://github.com/leerduo) , to take note what I
 ### 2018年10月11日
 - [《Python多环境扩展管理-Virtualenv》](http://blog.51cto.com/steed/2298681)
 - [基于Python的DevOps实战](http://blog.51cto.com/cloumn/detail/13) 之 SaltStack & Salt API
+
+### 2018年10月20日
+- 《Flask Web开发实战》 Ch6：电子邮件
+
+### 2018年10月21日
+- 《Flask Web开发实战》 Ch5：数据库
+
+- [《梁宁：在长期主义里寻求安》](https://mp.weixin.qq.com/s/6oSt0V7E_LGryjTWNdpQow)
+    - "到不朽的事业中寻求庇护"——《人类群星闪耀时》
+    - 长期主义：在彼此长成的容器中安放自己
+        - 我不凑合
+        - 活在当下，就在此刻
+        - 在融合中彼此成长
+    - 内心的秩序应该如何建立呢？
+        - 偏理性的是战略思考，偏感性的是对爱的看法。
+        - 战略思考
+            - 当你看到一个点的时候，你不仅要看到这个点当下所呈现的样子，还要考虑它经历了什么样的线性周期，现在处于这个周期的什么阶段，这个周期是在什么样的面上，在什么样的经济体里。
+        - 爱的看法
+            - 爱，是全然交付。——李安
