@@ -444,3 +444,12 @@ The idea inspired by [leerduo](https://github.com/leerduo) , to take note what I
             - 当你看到一个点的时候，你不仅要看到这个点当下所呈现的样子，还要考虑它经历了什么样的线性周期，现在处于这个周期的什么阶段，这个周期是在什么样的面上，在什么样的经济体里。
         - 爱的看法
             - 爱，是全然交付。——李安
+
+### 2018年10月24日
+- [捷径」解读：iOS 自动化的 3.0 时代](https://sspai.com/post/47245)
+- [捷径上新](https://sspai.com/post/47639)
+- [看了这张思维导图，我也会高效管理时间！](https://mp.weixin.qq.com/s/Tab4gmy7gK1PXzboSuEP9g)
+    - 时间是无法管理的，能够管理的只有自己。透过管理自己的习惯，管理自己的事件来达成对时间的管理。
+    - “人生不在于做多少事，而在于把重要的事情专注做、用心做、把它做到极致！” 
+    - 时间管理的本质，是对事件进行分类。主要分为三个板块：日历、清单、笔记。
+- [干货笔记｜盲目的一样就是平庸的开始（《Google工作整理术》）](https://mp.weixin.qq.com/s/xRR0yYMkmBPmArYIfburtw)
