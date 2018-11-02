@@ -453,3 +453,7 @@ The idea inspired by [leerduo](https://github.com/leerduo) , to take note what I
     - “人生不在于做多少事，而在于把重要的事情专注做、用心做、把它做到极致！” 
     - 时间管理的本质，是对事件进行分类。主要分为三个板块：日历、清单、笔记。
 - [干货笔记｜盲目的一样就是平庸的开始（《Google工作整理术》）](https://mp.weixin.qq.com/s/xRR0yYMkmBPmArYIfburtw)
+
+### 2018年11月02日
+- [捷径：由浅入深完全指南](https://sspai.com/series/68/list) 01-08
+- 《逆向管理》
