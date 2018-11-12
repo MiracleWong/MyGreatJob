@@ -457,3 +457,18 @@ The idea inspired by [leerduo](https://github.com/leerduo) , to take note what I
 ### 2018年11月02日
 - [捷径：由浅入深完全指南](https://sspai.com/series/68/list) 01-08
 - 《逆向管理》
+
+### 2018年11月04日
+- [捷径：由浅入深完全指南](https://sspai.com/series/68/list) 01-08
+- 《逆向管理》
+
+### 2018年11月12日
+- [哈佛人格心理学课：不给自己设限，人生才会有更多可能](https://mp.weixin.qq.com/s?timestamp=1542035227&src=3&ver=1&signature=DX8BHhXEM4Cr*8akAsqc9vDknX*Dm807*SBs-nKsAZI4xuRmSnuvCpcdidzGmEZGx*slK1v5ULgvuwfO9JIx5qdkVRTc8b3LhdWNIP-3urmF4WEFnRC3enXH3Ua0G4NV1POgUhkrALVYSvm3auE1Dl1g73IXVH0ZN4vddffyhh4=) 
+	* 一、看待自己时，我们在想什么？
+		* 人格心理学家认为，人们往往会创造出一些特质，选择用自己的一套“个人建构”来评判自己和他人。
+	* 二、个人建构越单一越焦虑
+		* 你用来理解世界的建构或视角越多，适应性便越强，越不容易感到焦虑不安。
+	* 三、以自由的状态看世界
+		* 只有拥有充分的自由，我们才不会对他人进行狭窄的界定。
+		
+- [成为一个更好的自己，真有那么难吗？](https://mp.weixin.qq.com/s?timestamp=1542035227&src=3&ver=1&signature=DX8BHhXEM4Cr*8akAsqc9vDknX*Dm807*SBs-nKsAZI4xuRmSnuvCpcdidzGmEZGx*slK1v5ULgvuwfO9JIx5qdkVRTc8b3LhdWNIP-3urmRJ087dGh1hyDQt-hAfTQaNwTR7ISLtnTmOFxn0azV2YiXid5af4zmJkNjDFRQtJw=)
