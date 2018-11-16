@@ -472,3 +472,6 @@ The idea inspired by [leerduo](https://github.com/leerduo) , to take note what I
 		* 只有拥有充分的自由，我们才不会对他人进行狭窄的界定。
 		
 - [成为一个更好的自己，真有那么难吗？](https://mp.weixin.qq.com/s?timestamp=1542035227&src=3&ver=1&signature=DX8BHhXEM4Cr*8akAsqc9vDknX*Dm807*SBs-nKsAZI4xuRmSnuvCpcdidzGmEZGx*slK1v5ULgvuwfO9JIx5qdkVRTc8b3LhdWNIP-3urmRJ087dGh1hyDQt-hAfTQaNwTR7ISLtnTmOFxn0azV2YiXid5af4zmJkNjDFRQtJw=)
+
+### 2018年11月16日
+- 『神奇动物：格林沃德之罪』 19:00-21:15
