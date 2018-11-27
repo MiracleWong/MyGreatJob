@@ -481,3 +481,9 @@ The idea inspired by [leerduo](https://github.com/leerduo) , to take note what I
 - [Traveler's Journal | 成都小记](https://mp.weixin.qq.com/s/hVu2wWH3EBcMSVpQwXRxfg)
 - [专栏 | Vol.1 滴答清单基础入门](https://mp.weixin.qq.com/s/w_8lLz34CMy1T2rQ4Zgszg)
 - [专栏 Vol.2 | 如何借助滴答清单形成个人GTD管理体系](https://mp.weixin.qq.com/s/5lm5UEMPD9ben-sreKNhbw)
+
+
+### 2018年11月27日
+- [得到与知乎殊途同归](https://mp.weixin.qq.com/s/LYIuE8d6vjgSnmMgU-fVcQ)
+- [Linux生产环境上，最常用的一套“vim“技巧](https://juejin.im/post/5bfa4211e51d4550184546ea)
+- [Mac OS下用Homebrew安装自己写的开源工具](https://juejin.im/post/5bea7c68f265da614f6fd94a)
