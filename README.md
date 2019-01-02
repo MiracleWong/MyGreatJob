@@ -492,3 +492,29 @@ The idea inspired by [leerduo](https://github.com/leerduo) , to take note what I
 ### 2018年11月30日
 - babe高效手帐课程之『人生管理手帐篇』
 - 电影《无名之辈》21:50 - 23:35
+
+### 2018年12月01日
+
+- 公司团建：西溪湿地·寻找宝藏
+
+### 2018年12月02日
+- 整理房间 10:00 - 10:30
+
+### 2018年12月12日
+- [我在「效率」这条路上探索的每个阶段](https://sspai.com/article/51894?series_id=70)
+- [把工作变成一场精力争夺战|效率思维](https://sspai.com/article/51863?series_id=70)
+- [找到方向和掌握工具思维，我从做 Power+ 这一年里学到的两件事](https://sspai.com/article/51887?series_id=70)
+
+## 2019
+
+### 2019年1月1日
+
+- [12306 后补功能](https://sspai.com/post/52198)
+- [2018 年，这 8 款国产独立桌面端 App 值得关注](https://sspai.com/post/52224)
+- [法律系学霸是怎么用 iPad mini 的 | 奏折 03](https://sspai.com/article/52208?series_id=70)
+
+### 2019年1月2日
+
+- [Timing 使用详解：自动化时间记录的佼佼者](https://sspai.com/article/52247?series_id=70)
+- [少数派们的年度推荐：曹将](https://sspai.com/post/52207)
+- 《深入理解Nginx》
