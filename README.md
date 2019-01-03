@@ -518,3 +518,9 @@ The idea inspired by [leerduo](https://github.com/leerduo) , to take note what I
 - [Timing 使用详解：自动化时间记录的佼佼者](https://sspai.com/article/52247?series_id=70)
 - [少数派们的年度推荐：曹将](https://sspai.com/post/52207)
 - 《深入理解Nginx》
+
+
+### 2019年1月3日
+
+- [干货笔记｜盲目的一样就是平庸的开始](https://mp.weixin.qq.com/s/xRR0yYMkmBPmArYIfburtw)
+- [看了这张思维导图，我也会高效管理时间！（建议收藏）](https://mp.weixin.qq.com/s/Tab4gmy7gK1PXzboSuEP9g)
