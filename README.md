@@ -524,3 +524,9 @@ The idea inspired by [leerduo](https://github.com/leerduo) , to take note what I
 
 - [干货笔记｜盲目的一样就是平庸的开始](https://mp.weixin.qq.com/s/xRR0yYMkmBPmArYIfburtw)
 - [看了这张思维导图，我也会高效管理时间！（建议收藏）](https://mp.weixin.qq.com/s/Tab4gmy7gK1PXzboSuEP9g)
+
+### 2019年1月4日
+
+- [来自未来的笔记协作工具：Notion 使用详解](https://sspai.com/article/52176?series_id=70)
+- [5 个不为人知的 PDF 技巧 - 少数派](https://sspai.com/article/52237?series_id=70)
+- GlusterFS 和 Heketi关系，之间Volume互相查找。
