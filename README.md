@@ -530,3 +530,13 @@ The idea inspired by [leerduo](https://github.com/leerduo) , to take note what I
 - [来自未来的笔记协作工具：Notion 使用详解](https://sspai.com/article/52176?series_id=70)
 - [5 个不为人知的 PDF 技巧 - 少数派](https://sspai.com/article/52237?series_id=70)
 - GlusterFS 和 Heketi关系，之间Volume互相查找。
+
+### 2019年1月45日
+
+- [在 Windows 上获得优秀写作体验，用这款写作工具助你「妙笔」生花 ](https://sspai.com/post/52071)
+- [少数派们的年度推荐：老麦](https://sspai.com/post/52205)
+- [快捷键终极使用指南 | 效率思维](https://sspai.com/article/52239?series_id=70)
+- 使用弟弟账号申请腾讯云学生服务器
+- 《深入理解Nginx》 ch1 & ch2
+- 《大黄蜂》 19:00-21:00
+- 《原生之罪》23-24 不喜欢的大结局
