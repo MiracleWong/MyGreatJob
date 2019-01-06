@@ -541,3 +541,11 @@ The idea inspired by [leerduo](https://github.com/leerduo) , to take note what I
 - 《大黄蜂》 19:00-21:00
 - 《原生之罪》23-24 不喜欢的大结局
 
+### 2019年01月06日
+
+- [在 Windows 上如何管理 Hosts？这里有 3 款小工具推荐给你 ](https://sspai.com/post/43248)
+- [让这只蠢萌的熊来帮你管理密码：RememBear ](https://sspai.com/post/43255)
+- [Windows 上的良心国产应用，我们又帮你找了这 5 款 ](https://sspai.com/post/43058)
+
+
+
