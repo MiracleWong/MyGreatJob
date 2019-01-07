@@ -547,5 +547,10 @@ The idea inspired by [leerduo](https://github.com/leerduo) , to take note what I
 - [让这只蠢萌的熊来帮你管理密码：RememBear ](https://sspai.com/post/43255)
 - [Windows 上的良心国产应用，我们又帮你找了这 5 款 ](https://sspai.com/post/43058)
 
+### 2019年01月07日
+
+- [定期自动云备份 macOS 软件列表，维护一份属于自己的必备 App 清单 ](https://sspai.com/post/43265)
+- [给 Mac 优雅地一键「装机」 ](https://sspai.com/post/43239)
+
 
 
