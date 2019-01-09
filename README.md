@@ -553,4 +553,7 @@ The idea inspired by [leerduo](https://github.com/leerduo) , to take note what I
 - [给 Mac 优雅地一键「装机」 ](https://sspai.com/post/43239)
 
 
+### 2019年01月09日
 
+- [学习的过程就是建立知识体系的过程](http://www.imooc.com/article/22646)
+- [如何在 Windows 上实现自动化？让这些工具帮助你](https://sspai.com/post/43016)
