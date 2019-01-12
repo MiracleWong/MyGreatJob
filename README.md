@@ -557,3 +557,9 @@ The idea inspired by [leerduo](https://github.com/leerduo) , to take note what I
 
 - [学习的过程就是建立知识体系的过程](http://www.imooc.com/article/22646)
 - [如何在 Windows 上实现自动化？让这些工具帮助你](https://sspai.com/post/43016)
+
+### 2019年01月12日
+
+- [五年计划第一次复盘 & 2017 年收获的技巧和感悟](https://sspai.com/post/42802)
+- [在少数派写稿两年后，我养成的数字生活方式](https://sspai.com/post/42714)
+- [除了任务管理工具，你还需要知道甘特图](https://sspai.com/post/42608)
