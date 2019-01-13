@@ -563,3 +563,13 @@ The idea inspired by [leerduo](https://github.com/leerduo) , to take note what I
 - [五年计划第一次复盘 & 2017 年收获的技巧和感悟](https://sspai.com/post/42802)
 - [在少数派写稿两年后，我养成的数字生活方式](https://sspai.com/post/42714)
 - [除了任务管理工具，你还需要知道甘特图](https://sspai.com/post/42608)
+
+### 2019年01月13日
+
+- [今年程序猿没有年终奖](https://mp.weixin.qq.com/s/94cT8RvGWYA7LIGbH2f3rw)
+- [「一行代码」搞定软件安装卸载，用 Scoop 管理你的 Windows 软件](https://sspai.com/post/52496)
+	- 评价：Scoop居然存储软件放到`C:\Users\用户名\scoop`下（暂时没有看到修改文件存储路径），对于软件路径有着洁癖的我来说，简直不能忍，每次都是规划好，才可以下载使用对应软件的。
+- [Power+ 团队的 GitHub 协作流程 | 奏折 05 - 少数派](https://sspai.com/article/52504?series_id=70)
+- [跨年特刊：各大榜单有哪些值得关注的内容 | 奏折 04 - 少数派](https://sspai.com/article/52309?series_id=70)
+- [用 Markdown 生成漂亮的手写图 (Mac Only) ](https://sspai.com/post/52190)
+- [吴昕，别哭](https://mp.weixin.qq.com/s/yomTWRtTNgKbaXllUY9_5A)
