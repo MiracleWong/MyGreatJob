@@ -581,3 +581,11 @@ The idea inspired by [leerduo](https://github.com/leerduo) , to take note what I
 ### 2019年01月15日
 
 - 感冒生病
+
+### 2019年01月16日
+
+- [旅行电量管理指南](https://sspai.com/article/52539?series_id=70)
+- [2018 年你买了哪些东西觉得特别值](https://sspai.com/post/52485)
+- [2018我的人生游戏指南-欲望与「成救」模式](https://sspai.com/post/52270)
+- [讨论任务管理的前提](https://sspai.com/article/52476?series_id=70)
+- [可怜天下父母心](https://mp.weixin.qq.com/s/9mipDNNzMjWYkphYWzHncA)
