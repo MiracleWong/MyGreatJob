@@ -589,3 +589,8 @@ The idea inspired by [leerduo](https://github.com/leerduo) , to take note what I
 - [2018我的人生游戏指南-欲望与「成救」模式](https://sspai.com/post/52270)
 - [讨论任务管理的前提](https://sspai.com/article/52476?series_id=70)
 - [可怜天下父母心](https://mp.weixin.qq.com/s/9mipDNNzMjWYkphYWzHncA)
+
+### 2019年01月17日
+
+- [如何做到有效的会议沟通？](https://sspai.com/article/52339?series_id=70)
+- [淘宝工程师专为程序员编写的英语学习指南](https://mp.weixin.qq.com/s/0PfS31COkeDreRgYP0ma8Q)
