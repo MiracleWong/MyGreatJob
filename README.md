@@ -594,3 +594,11 @@ The idea inspired by [leerduo](https://github.com/leerduo) , to take note what I
 
 - [如何做到有效的会议沟通？](https://sspai.com/article/52339?series_id=70)
 - [淘宝工程师专为程序员编写的英语学习指南](https://mp.weixin.qq.com/s/0PfS31COkeDreRgYP0ma8Q)
+
+### 2019年01月18日
+
+- [GoodNotes 迎来 5.0 更新，向「最佳手写笔记 App」又进了一步](https://sspai.com/post/52577)
+- [在 Mac 上独立控制 App 音量，用免费的 Background Music 帮你实现 | App+1 - 少数派](https://sspai.com/post/52588)
+- [你要的「音乐云盘」终于来了：网易云音乐 Mac 2.0](https://sspai.com/post/52579)
+- [Slack 的新图标是不是一个好设计？| 奏折 06 - 少数派](https://sspai.com/article/52592?series_id=70)
+- [《TensorFlow快速入门与实战》](https://time.geekbang.org/course/intro/153) 01 ~ 05 节
