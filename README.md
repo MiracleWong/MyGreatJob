@@ -602,3 +602,15 @@ The idea inspired by [leerduo](https://github.com/leerduo) , to take note what I
 - [你要的「音乐云盘」终于来了：网易云音乐 Mac 2.0](https://sspai.com/post/52579)
 - [Slack 的新图标是不是一个好设计？| 奏折 06 - 少数派](https://sspai.com/article/52592?series_id=70)
 - [《TensorFlow快速入门与实战》](https://time.geekbang.org/course/intro/153) 01 ~ 05 节
+
+### 2019年01月19日
+
+- [一名初创公司产品经理的日常](https://sspai.com/article/52585?series_id=70)
+- [Mac 下通过「假装是输入的复制」来实现在不支持粘贴的地方粘贴](https://sspai.com/post/52510)
+- [如何在 Windows 上享受更棒的字体渲染](https://sspai.com/article/52557?series_id=70)
+- [戴耳机真的可以增加工作效率，再顺便聊聊如何正确购物激励自己](https://sspai.com/post/52570)
+- [读文章、剪藏网页、新标签页增强…… 这 10 个扩展让你的 Chrome 更好用](https://sspai.com/post/52310)
+	- 简Tab
+	- Just Focus
+	- Color by Fardos
+	- Clearly
