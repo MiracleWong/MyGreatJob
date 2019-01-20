@@ -614,3 +614,11 @@ The idea inspired by [leerduo](https://github.com/leerduo) , to take note what I
 	- Just Focus
 	- Color by Fardos
 	- Clearly
+
+### 2019年01月20日
+
+- [宋思明爱过海藻吗？](https://weibo.com/ttarticle/p/show?id=2309404330568140642094)
+- [把硬盘装满电影，掂一掂，真的更重了一些](http://daily.zhihu.com/story/9705680)
+- [看历史：下一波伟大公司已经诞生，就在企业服务和AI](https://www.iyiou.com/p/39057.html)
+- [在职场有什么缓解工作焦虑或压力的方法？](https://weibo.com/ttarticle/p/show?id=2309404330591259627973#_0)
+- [2019，扶强除弱，剩者为王](https://mp.weixin.qq.com/s/x84ZtjtSJswPxQFjEx6pJA)
