@@ -622,3 +622,9 @@ The idea inspired by [leerduo](https://github.com/leerduo) , to take note what I
 - [看历史：下一波伟大公司已经诞生，就在企业服务和AI](https://www.iyiou.com/p/39057.html)
 - [在职场有什么缓解工作焦虑或压力的方法？](https://weibo.com/ttarticle/p/show?id=2309404330591259627973#_0)
 - [2019，扶强除弱，剩者为王](https://mp.weixin.qq.com/s/x84ZtjtSJswPxQFjEx6pJA)
+
+
+### 2019年01月21日
+
+- [试过不少工具后，我用 Notion 进行更灵活的任务管理](https://sspai.com/post/52625)
+- 《Kubernetes权威指南》
