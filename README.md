@@ -628,3 +628,15 @@ The idea inspired by [leerduo](https://github.com/leerduo) , to take note what I
 
 - [试过不少工具后，我用 Notion 进行更灵活的任务管理](https://sspai.com/post/52625)
 - 《Kubernetes权威指南》
+- 『怒晴湘西』1~3
+
+
+### 2019年01月22日
+
+- [Word 页码使用指南](https://sspai.com/article/52631?series_id=70)
+- [Todoist、1Password、TextExpander 等订阅免费送 - 少数派](https://sspai.com/post/52639)
+	- Todoist
+	- 1Password
+	- TextExpander
+	- RescueTime
+- 『怒晴湘西』4~6
