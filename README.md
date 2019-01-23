@@ -640,3 +640,13 @@ The idea inspired by [leerduo](https://github.com/leerduo) , to take note what I
 	- TextExpander
 	- RescueTime
 - 『怒晴湘西』4~6
+
+
+### 2019年01月23日
+
+- [Git recipes 高质量的Git中文教程.](https://github.com/geeeeeeeeek/git-recipes)
+- [VBlog: 使用GitHub API 搭建一个可动态发布文章的博客](https://github.com/GitHub-Laziji/VBlog)
+- [我正在运行的 Linux 是什么版本？](https://linux.cn/article-9760-1.html?f=http://blogread.cn/)
+- [聊聊最近 GitHub 上比较火的女装大佬项目](https://zhuanlan.zhihu.com/p/55537208)
+- 『古董局中局』31~36 完结
+	- 评价：网剧版，对小说的完成度较高，选角很好，最爱黄烟烟。人物、情节因改编需要有改动，并加入了岐山姬家鬼市颇具影视化的剧情。
