@@ -650,3 +650,9 @@ The idea inspired by [leerduo](https://github.com/leerduo) , to take note what I
 - [聊聊最近 GitHub 上比较火的女装大佬项目](https://zhuanlan.zhihu.com/p/55537208)
 - 『古董局中局』31~36 完结
 	- 评价：网剧版，对小说的完成度较高，选角很好，最爱黄烟烟。人物、情节因改编需要有改动，并加入了岐山姬家鬼市颇具影视化的剧情。
+
+
+### 2019年01月24日
+
+- [就让那个疯狂「买买买」的我留在 2018 ](https://sspai.com/post/52552)
+- [你必须收藏的Github技巧 | AlloyTeam](http://www.alloyteam.com/2016/12/you-must-collect-the-github-tips/)
