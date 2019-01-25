@@ -656,3 +656,12 @@ The idea inspired by [leerduo](https://github.com/leerduo) , to take note what I
 
 - [就让那个疯狂「买买买」的我留在 2018 ](https://sspai.com/post/52552)
 - [你必须收藏的Github技巧 | AlloyTeam](http://www.alloyteam.com/2016/12/you-must-collect-the-github-tips/)
+
+
+### 2019年01月25日
+
+- 金句：
+	- 想的恐惧远远大过做的恐惧。
+	- 「对未来的真正慷慨，是把一切都献给现在。」
+- 备份已经过期服务器上的博客数据
+- [《Python自动化运维》](https://www.imooc.com/learn/853) 3.1 ~ 3.3
