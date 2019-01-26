@@ -665,3 +665,24 @@ The idea inspired by [leerduo](https://github.com/leerduo) , to take note what I
 	- 「对未来的真正慷慨，是把一切都献给现在。」
 - 备份已经过期服务器上的博客数据
 - [《Python自动化运维》](https://www.imooc.com/learn/853) 3.1 ~ 3.3
+
+
+### 2019年01月26日
+
+- 公司游园会：08:30 - 11:00
+- [这 10 款插件让你的 GitHub 更好用、更有趣 ](https://zhuanlan.zhihu.com/p/55722104)
+	1. octotree
+	2. isometric-contributions
+	3. OctoLinker
+	4. GitHub-userscripts
+- [「得到」如何帮用户建立身份认同感？](https://www.uisdc.com/hunter/0221305042.html)
+- [我的照片管理方案与备份方案](https://sspai.com/article/52697?series_id=70)
+- [Carbon](https://carbon.now.sh/)
+- [奏折 07 ](https://sspai.com/article/52698?series_id=70)
+	- CleanShot：截图工具
+	- There：可以显示头像和人名的世界时钟
+	- GoldenChaos-BTT：Touch Bar 增强插件
+	- Windows命令：
+		- ipconfig
+		- pathping
+		- sfc
