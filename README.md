@@ -686,3 +686,11 @@ The idea inspired by [leerduo](https://github.com/leerduo) , to take note what I
 		- ipconfig
 		- pathping
 		- sfc
+
+
+### 2019年01月27日
+
+- [首富的2018](https://weibo.com/ttarticle/p/show?id=2309404329468129850453#_0)
+- [广东“教父”震撼内幕：4000警力开进他的地下王国，冰毒产量占全国...](https://mp.weixin.qq.com/s/BQxSeKkKPyZjyP0i5U0hPQ)
+- [为什么方块碰撞能够用来计算π？](https://www.bilibili.com/video/av41712219)
+[一个计数谜题的意外答案](https://www.bilibili.com/video/av40873215)
