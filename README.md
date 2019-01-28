@@ -694,3 +694,10 @@ The idea inspired by [leerduo](https://github.com/leerduo) , to take note what I
 - [广东“教父”震撼内幕：4000警力开进他的地下王国，冰毒产量占全国...](https://mp.weixin.qq.com/s/BQxSeKkKPyZjyP0i5U0hPQ)
 - [为什么方块碰撞能够用来计算π？](https://www.bilibili.com/video/av41712219)
 [一个计数谜题的意外答案](https://www.bilibili.com/video/av40873215)
+
+### 2019年01月28日
+
+- [给你的印象笔记模板使用心得](https://sspai.com/post/52701)
+- [杜克大学13幅逻辑图，影响你一生的思维方式](https://mp.weixin.qq.com/s/H7SAILQFe-sW3kKrSYDS-w)
+- 《Redis入门指南》 第2版 CH1 ~ CH3 
+- 应急演练 11:00 - 11:30 pm
