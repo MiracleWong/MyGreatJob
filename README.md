@@ -700,4 +700,12 @@ The idea inspired by [leerduo](https://github.com/leerduo) , to take note what I
 - [给你的印象笔记模板使用心得](https://sspai.com/post/52701)
 - [杜克大学13幅逻辑图，影响你一生的思维方式](https://mp.weixin.qq.com/s/H7SAILQFe-sW3kKrSYDS-w)
 - 《Redis入门指南》 第2版 CH1 ~ CH3 
-- 应急演练 11:00 - 11:30 pm
+- 应急演练 11:00 - 00:30(01.29) pm
+
+
+### 2019年01月29日
+
+- [2018年度，GitHub上最热门的Python项目](https://mp.weixin.qq.com/s/Tun3wDy1muHkH9Bvp4D2AQ)
+- [12月份GitHub上最热门的Python项目](https://mp.weixin.qq.com/s/Pt2VRKIv5dbcsvxZhL5w8A)
+- [11月份GitHub上最热门的Python项目](https://mp.weixin.qq.com/s/qSQ4nPIXlRV0AX_piWO1WQ)
+- [10月份GitHub上最热门的Python开源项目](https://mp.weixin.qq.com/s/3js655FeLCauNCuQW_pDMQ)
