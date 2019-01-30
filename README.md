@@ -709,3 +709,7 @@ The idea inspired by [leerduo](https://github.com/leerduo) , to take note what I
 - [12月份GitHub上最热门的Python项目](https://mp.weixin.qq.com/s/Pt2VRKIv5dbcsvxZhL5w8A)
 - [11月份GitHub上最热门的Python项目](https://mp.weixin.qq.com/s/qSQ4nPIXlRV0AX_piWO1WQ)
 - [10月份GitHub上最热门的Python开源项目](https://mp.weixin.qq.com/s/3js655FeLCauNCuQW_pDMQ)
+
+### 2019年01月30日
+
+- [你应该知道的 9 个 Docker 技术知识](http://www.codeceo.com/article/9-docker-tips.html)
