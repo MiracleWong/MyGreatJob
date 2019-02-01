@@ -730,3 +730,13 @@ The idea inspired by [leerduo](https://github.com/leerduo) , to take note what I
 - [我那消失在朝鲜的亲人](https://mp.weixin.qq.com/s/aD8pTLXXiYG8hZAxS_FVYw)
 - 《刚好遇见你》02
 - 《杀破狼》2
+
+### 2019年02月02日
+
+- 理发+购物（高保湿型基础润肤化妆水）+大盘鸡
+- 收拾行李，形成幕布文档
+- 《知识就是力量》01——『怎么把自己嫁出去』
+	- 协同进化
+	- 情景喜剧
+	- Yes & No
+- Docker部署Gitlab，Nginx转发
