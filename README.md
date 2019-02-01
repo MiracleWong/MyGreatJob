@@ -721,3 +721,12 @@ The idea inspired by [leerduo](https://github.com/leerduo) , to take note what I
 - [回家路上想看剧？我们为你准备了一份 「春节补剧清单」](https://sspai.com/post/52771)
 - [Notion 使用详解：来自未来的笔记协作工具](https://sspai.com/article/52176?series_id=70)
 - [Notion 进阶技巧：学会使用「组合技」](https://sspai.com/article/52769?series_id=70)
+
+
+## 2019年02月
+
+### 2019年02月01日
+
+- [我那消失在朝鲜的亲人](https://mp.weixin.qq.com/s/aD8pTLXXiYG8hZAxS_FVYw)
+- 《刚好遇见你》02
+- 《杀破狼》2
