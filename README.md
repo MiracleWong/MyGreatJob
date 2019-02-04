@@ -742,7 +742,7 @@ The idea inspired by [leerduo](https://github.com/leerduo) , to take note what I
 - Docker部署Gitlab，Nginx转发
 
 
-### 2019年02月02日
+### 2019年02月03日
 
 - 高铁🚄G46回乡 （09:45 - 14:30）
 - 打的（08:15 - 08:45）+ 公交（14:45 - 15:30）+ 大巴（15:45 - 16:45)
@@ -752,3 +752,16 @@ The idea inspired by [leerduo](https://github.com/leerduo) , to take note what I
 - 金句：
 	> 艰难和困苦是最好的磨刀石。
 	> 退潮之后，才知道谁在裸泳；艰难困苦之后，才知道谁是强者。
+
+
+### 2019年02月04日
+
+- 年夜饭（18:15 - 19:00）
+- [安全可靠的「抢红包」技巧 ](https://sspai.com/post/52801)
+- [过年回家教父母用上这些微信小程序](https://sspai.com/post/52782)
+- [Python 单元测试框架之 Pytest 剖解入门（第一篇）](https://gitbook.cn/books/5b23283b0ef6162cb82c00a3/index.html)
+- [Redis 安装与配置](https://weibo.com/ttarticle/p/show?id=2309404335961176697657)
+- [有哪些微信小程序值得推荐？ - 知乎](https://www.zhihu.com/question/54556984/answer/588565738)
+- [第 53 届超级碗总决赛爱国者 13:3 击败公羊，布雷迪第六次率队夺冠——张佳玮](https://www.zhihu.com/question/311161744/answer/589301538)
+- [这份写作手册很少有人能看完 | 3400字干货](https://mp.weixin.qq.com/s/_xJBtS4_PViyaKuOWC_TOg)
+- [人间值得](https://mp.weixin.qq.com/s/YNc5tI8Tm3OEMP0nKSG8PQ)
