@@ -765,3 +765,11 @@ The idea inspired by [leerduo](https://github.com/leerduo) , to take note what I
 - [第 53 届超级碗总决赛爱国者 13:3 击败公羊，布雷迪第六次率队夺冠——张佳玮](https://www.zhihu.com/question/311161744/answer/589301538)
 - [这份写作手册很少有人能看完 | 3400字干货](https://mp.weixin.qq.com/s/_xJBtS4_PViyaKuOWC_TOg)
 - [人间值得](https://mp.weixin.qq.com/s/YNc5tI8Tm3OEMP0nKSG8PQ)
+- SaltStack
+
+### 2019年02月10日
+
+- [清官谈MySQL中utf8和utf8mb4区别](http://blogread.cn/it/article/7546)
+- [云计算怎么支撑起《流浪地球》的硬科幻实力？](https://www.infoq.cn/article/JTaYW7MOvX1U*ITm5CfD)
+- [“趣谈网络协议”专栏「食用指南」](https://time.geekbang.org/column/article/17862)
+- 沧州→杭州（大巴→公交→高铁→地铁→步行）回程
