@@ -773,3 +773,11 @@ The idea inspired by [leerduo](https://github.com/leerduo) , to take note what I
 - [云计算怎么支撑起《流浪地球》的硬科幻实力？](https://www.infoq.cn/article/JTaYW7MOvX1U*ITm5CfD)
 - [“趣谈网络协议”专栏「食用指南」](https://time.geekbang.org/column/article/17862)
 - 沧州→杭州（大巴→公交→高铁→地铁→步行）回程
+
+### 2019年02月11日
+
+- [ 13 款高质量的动态壁纸装点你的主屏](https://sspai.com/post/52842)
+- [《流浪地球》改造好莱坞流程背后的经验](https://piaofang.maoyan.com/feed/news/54956)
+- [从反抗这个世界到成为世界的一部分，赛博朋克如何诞生、进化以及停滞不前？](http://www.qdaily.com/articles/60582.html)
+- [5 天 4000 star 的一个爆款开源项目](https://mp.weixin.qq.com/s/UX8v2Iu2Ws8Jq-QyWc50qg)
+- 电影《流浪地球》（18:45 - 20:45 ）
