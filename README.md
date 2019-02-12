@@ -781,3 +781,12 @@ The idea inspired by [leerduo](https://github.com/leerduo) , to take note what I
 - [从反抗这个世界到成为世界的一部分，赛博朋克如何诞生、进化以及停滞不前？](http://www.qdaily.com/articles/60582.html)
 - [5 天 4000 star 的一个爆款开源项目](https://mp.weixin.qq.com/s/UX8v2Iu2Ws8Jq-QyWc50qg)
 - 电影《流浪地球》（18:45 - 20:45 ）
+
+### 2019年02月12日
+
+- [李想创业20年总结：从普通人到顶尖领袖的五个认知楼层](https://mp.weixin.qq.com/s/IjNVH28dfADCB4bWUpvNOA)
+- [从 0 到 1 写一个 Alfred Workflow - 少数派](https://sspai.com/post/47710)
+- [小白实践《从 0 到 1 写一个 Alfred Workflow》遇到的问题及解决方案 - 少数派](https://sspai.com/post/48386)
+- [高效使用 Mac，从 Alfred 开始 | 专题](https://sspai.com/topic/237)
+- [GitHub - trimstray/nginx-quick-reference](https://github.com/trimstray/nginx-quick-reference)
+- [LeetCode for VS Code: 春招 Offer 收割利器 - 知乎](https://zhuanlan.zhihu.com/p/56226189)
