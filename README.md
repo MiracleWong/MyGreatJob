@@ -790,3 +790,9 @@ The idea inspired by [leerduo](https://github.com/leerduo) , to take note what I
 - [高效使用 Mac，从 Alfred 开始 | 专题](https://sspai.com/topic/237)
 - [GitHub - trimstray/nginx-quick-reference](https://github.com/trimstray/nginx-quick-reference)
 - [LeetCode for VS Code: 春招 Offer 收割利器 - 知乎](https://zhuanlan.zhihu.com/p/56226189)
+
+### 2019年02月13日
+
+- [虎牙直播张波：掘金Nginx日志](https://zhuanlan.zhihu.com/p/55679146)
+- [怎样理解和区分中心极限定理与大数定律？ - 知乎](https://www.zhihu.com/question/22913867)
+- [GitHub - jabbalaci/PythonEXE](https://github.com/jabbalaci/PythonEXE)
