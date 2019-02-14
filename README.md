@@ -796,3 +796,15 @@ The idea inspired by [leerduo](https://github.com/leerduo) , to take note what I
 - [虎牙直播张波：掘金Nginx日志](https://zhuanlan.zhihu.com/p/55679146)
 - [怎样理解和区分中心极限定理与大数定律？ - 知乎](https://www.zhihu.com/question/22913867)
 - [GitHub - jabbalaci/PythonEXE](https://github.com/jabbalaci/PythonEXE)
+
+
+### 2019年02月13日
+
+- [我们在 2018 养成的习惯](https://sspai.com/article/52879?series_id=70)
+- [我们的 2018 好物推荐：硬件篇](https://sspai.com/article/52852?series_id=70)
+- [我们的 2018 好物推荐：应用篇](https://sspai.com/article/52867?series_id=70)
+	- Quicker
+	- [Scapple](https://www.literatureandlatte.com/scapple/download)
+	- Inoreader
+	- [钱迹](https://www.coolapk.com/apk/com.mutangtech.qianji)
+	- Fusion App
