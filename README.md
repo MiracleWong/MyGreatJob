@@ -798,7 +798,7 @@ The idea inspired by [leerduo](https://github.com/leerduo) , to take note what I
 - [GitHub - jabbalaci/PythonEXE](https://github.com/jabbalaci/PythonEXE)
 
 
-### 2019年02月13日
+### 2019年02月14日
 
 - [我们在 2018 养成的习惯](https://sspai.com/article/52879?series_id=70)
 - [我们的 2018 好物推荐：硬件篇](https://sspai.com/article/52852?series_id=70)
@@ -808,3 +808,13 @@ The idea inspired by [leerduo](https://github.com/leerduo) , to take note what I
 	- Inoreader
 	- [钱迹](https://www.coolapk.com/apk/com.mutangtech.qianji)
 	- Fusion App
+
+
+### 2019年02月15日
+
+- [JSBox 脚本合辑推荐第三期](https://sspai.com/post/52851)
+	* 评论：感觉今年为了JSBox也要买个iPhone手机了。还有一个原因是“捷径”。
+- [Windows 字体优化](https://sspai.com/post/52815)
+- [Power+ 2.0的所有文章](https://sspai.com/series/70/list)
+- [做好计划，节后快速恢复工作状态](https://sspai.com/article/52888?series_id=70)
+- 【Git三剑客】教程
