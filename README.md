@@ -818,3 +818,8 @@ The idea inspired by [leerduo](https://github.com/leerduo) , to take note what I
 - [Power+ 2.0的所有文章](https://sspai.com/series/70/list)
 - [做好计划，节后快速恢复工作状态](https://sspai.com/article/52888?series_id=70)
 - 【Git三剑客】教程
+
+### 2019年02月16日
+
+- 【Git三剑客】教程 17~32
+- 《孺子帝》
