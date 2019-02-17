@@ -823,3 +823,11 @@ The idea inspired by [leerduo](https://github.com/leerduo) , to take note what I
 
 - 【Git三剑客】教程 17~32
 - 《孺子帝》
+
+### 2019年02月17日
+
+- [震撼全网最沙雕新闻，槽点多到无力吐！](https://mp.weixin.qq.com/s/6JAUpCwChVO4dCIfAbsRrQ)
+- [程序员如何优雅使用mac](https://cloud.tencent.com/developer/article/1174927)
+- 记账 && 整理财务数据（3小时）
+	- PS：以后每天准时记账。不要延后
+- 《媚者无疆》27~36
