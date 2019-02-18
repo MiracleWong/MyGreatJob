@@ -831,3 +831,9 @@ The idea inspired by [leerduo](https://github.com/leerduo) , to take note what I
 - 记账 && 整理财务数据（3小时）
 	- PS：以后每天准时记账。不要延后
 - 《媚者无疆》27~36
+
+### 2019年02月18日
+- Python 库logging
+- 《遇见你真好》1
+- 《怒晴湘西》13 ~ 15
+- [这 10 款堪比「瑞士军刀」的小工具，一站式解决各种琐事](https://sspai.com/post/52772)
