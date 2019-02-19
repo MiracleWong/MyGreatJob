@@ -837,3 +837,11 @@ The idea inspired by [leerduo](https://github.com/leerduo) , to take note what I
 - 《遇见你真好》1
 - 《怒晴湘西》13 ~ 15
 - [这 10 款堪比「瑞士军刀」的小工具，一站式解决各种琐事](https://sspai.com/post/52772)
+
+
+### 2019年02月19日
+- 测试Charts模板，加入liveness和readness。
+- 编写Shell脚本。重新生成镜像推送到hub，根据参数生成Charts并Helm 安装
+- 总结Shell脚本中的写法到Snippets
+- [史上最污技术解读，我竟然秒懂了！](https://mp.weixin.qq.com/s/mq5qkEqgjbIBX3ODTlJUVw)
+- 和YZT交流职业规划上的想法
