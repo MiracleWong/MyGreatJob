@@ -845,3 +845,11 @@ The idea inspired by [leerduo](https://github.com/leerduo) , to take note what I
 - 总结Shell脚本中的写法到Snippets
 - [史上最污技术解读，我竟然秒懂了！](https://mp.weixin.qq.com/s/mq5qkEqgjbIBX3ODTlJUVw)
 - 和YZT交流职业规划上的想法
+
+### 2019年02月20日
+
+- 工作：容器化Rail开发的研发管理平台
+- [iPhone 相机完全操作指南 2.0](https://sspai.com/post/53005)
+- [我是如何平衡全职和兼职工作的？](https://sspai.com/post/52917)
+- [除了好工具，只有多阅读、多思考才能成为好的写作者：专访 Zine | 幕后](https://sspai.com/post/52987)
+- [我在无纸化学习方面的尝试](https://sspai.com/article/52986?series_id=70)
