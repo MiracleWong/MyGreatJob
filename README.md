@@ -853,3 +853,12 @@ The idea inspired by [leerduo](https://github.com/leerduo) , to take note what I
 - [我是如何平衡全职和兼职工作的？](https://sspai.com/post/52917)
 - [除了好工具，只有多阅读、多思考才能成为好的写作者：专访 Zine | 幕后](https://sspai.com/post/52987)
 - [我在无纸化学习方面的尝试](https://sspai.com/article/52986?series_id=70)
+
+### 2019年02月21日
+
+- [字节跳动(今日头条)，为何战斗力如此凶猛？](https://mp.weixin.qq.com/s/WJU4oOJCXpd0i7F0xBxUyQ)
+- [对话 | 豆瓣FM的改朝换代，以及腾讯的半路入局](https://mp.weixin.qq.com/s/b2uy6qIzXWJA1SSMIj8moQ)
+- 《软件工程之美》1-3
+- 《Git三剑客》30-35
+- 学习GitHub的操作技巧：master分支做GitHub Pages
+- 和父母&弟弟交流
