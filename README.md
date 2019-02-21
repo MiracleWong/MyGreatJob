@@ -66,7 +66,7 @@ The idea inspired by [leerduo](https://github.com/leerduo) , to take note what I
 - [Ansible Tower系列 五（安装 tower 3.1） - 简书](https://www.jianshu.com/p/9874b663d8f3)
 
 ### 2018.02.25
-- [Anaconda Navigator | Anaconda: Documentation](https://docs.anaconda.com/anaconda/navigator/)
+- [Anaconda Navigator](https://docs.anaconda.com/anaconda/navigator/)
 - [Getting started with Navigaton](https://docs.anaconda.com/anaconda/navigator/getting-started)
 - [Getting started with conda — Conda   Document](https://conda.io/docs/user-guide/getting-started.html)
 - [左手程序员，右手作家：你必须会的xwJupyter Notebook - 简书](https://www.jianshu.com/p/86117613b7a6)
@@ -75,7 +75,7 @@ The idea inspired by [leerduo](https://github.com/leerduo) , to take note what I
 [Anaconda的清华源](https://mirrors.tuna.tsinghua.edu.cn/anaconda/archive/)
 
 ### 2018年02月26日.
-- [专注和游离 | MacTalk](http://macshuo.com/?p=1307)
+- [专注和游离——from MacTalk](http://macshuo.com/?p=1307)
 - [《Ansible权威指南》](https://item.jd.com/12070020.html) 第10、11章
 - [《Linux运维最佳实践》](https://item.jd.com/12025874.html) 第19章：
 - [《Python Linux系统管理与自动化运维》](https://item.jd.com/12025874.html) 第10章
@@ -87,7 +87,7 @@ The idea inspired by [leerduo](https://github.com/leerduo) , to take note what I
 ### 2018年02月28日
 - [基于Python实现的微信好友数据分析](https://juejin.im/entry/5a93b5146fb9a063543c50b6)
 -  [你有什么道理后悔没有早点知道？ - 知乎](https://www.zhihu.com/question/23819007/answer/71141181)
-- [Mac 上使用 workflow 编写天气插件 | tuzhi](http://fuzhii.com/2018/02/28/workflow/)
+- [Mac 上使用 workflow 编写天气插件](http://fuzhii.com/2018/02/28/workflow/)
 - [徐佳鑫的回答：你有什么道理后悔没有早点知道？ - 知乎](https://www.zhihu.com/question/23819007/answer/71141181)
 - [skiptomylou的回答：你有什么道理后悔没有早点知道？ - 知乎](https://www.zhihu.com/question/23819007/answer/107332874)
 
@@ -405,7 +405,7 @@ The idea inspired by [leerduo](https://github.com/leerduo) , to take note what I
 - Kubernetes权威指南
 
 ### 2018年09月21日
-- 《玩转VS Code》之[『04 | 如何做到双手不离键盘？』](https://time.geekbang.org/column/article/40098)
+- 《玩转VS Code》之[『04-如何做到双手不离键盘？』](https://time.geekbang.org/column/article/40098)
 
 ### 2018年09月26日
 - 《玩转VS Code》01-05
@@ -478,9 +478,9 @@ The idea inspired by [leerduo](https://github.com/leerduo) , to take note what I
 
 ### 2018年11月17日
 - [从 0 到 1 写一个 Alfred Workflow - 少数派](https://sspai.com/post/47710)
-- [Traveler's Journal | 成都小记](https://mp.weixin.qq.com/s/hVu2wWH3EBcMSVpQwXRxfg)
-- [专栏 | Vol.1 滴答清单基础入门](https://mp.weixin.qq.com/s/w_8lLz34CMy1T2rQ4Zgszg)
-- [专栏 Vol.2 | 如何借助滴答清单形成个人GTD管理体系](https://mp.weixin.qq.com/s/5lm5UEMPD9ben-sreKNhbw)
+- [Traveler's Journal——成都小记](https://mp.weixin.qq.com/s/hVu2wWH3EBcMSVpQwXRxfg)
+- [专栏：Vol.1 滴答清单基础入门](https://mp.weixin.qq.com/s/w_8lLz34CMy1T2rQ4Zgszg)
+- [专栏：Vol.2如何借助滴答清单形成个人GTD管理体系](https://mp.weixin.qq.com/s/5lm5UEMPD9ben-sreKNhbw)
 
 
 ### 2018年11月27日
@@ -502,7 +502,7 @@ The idea inspired by [leerduo](https://github.com/leerduo) , to take note what I
 
 ### 2018年12月12日
 - [我在「效率」这条路上探索的每个阶段](https://sspai.com/article/51894?series_id=70)
-- [把工作变成一场精力争夺战|效率思维](https://sspai.com/article/51863?series_id=70)
+- [把工作变成一场精力争夺战](https://sspai.com/article/51863?series_id=70)
 - [找到方向和掌握工具思维，我从做 Power+ 这一年里学到的两件事](https://sspai.com/article/51887?series_id=70)
 
 ## 2019
@@ -511,7 +511,7 @@ The idea inspired by [leerduo](https://github.com/leerduo) , to take note what I
 
 - [12306 后补功能](https://sspai.com/post/52198)
 - [2018 年，这 8 款国产独立桌面端 App 值得关注](https://sspai.com/post/52224)
-- [法律系学霸是怎么用 iPad mini 的 | 奏折 03](https://sspai.com/article/52208?series_id=70)
+- [法律系学霸是怎么用 iPad mini 的](https://sspai.com/article/52208?series_id=70)
 
 ### 2019年1月2日
 
@@ -535,7 +535,7 @@ The idea inspired by [leerduo](https://github.com/leerduo) , to take note what I
 
 - [在 Windows 上获得优秀写作体验，用这款写作工具助你「妙笔」生花 ](https://sspai.com/post/52071)
 - [少数派们的年度推荐：老麦](https://sspai.com/post/52205)
-- [快捷键终极使用指南 | 效率思维](https://sspai.com/article/52239?series_id=70)
+- [快捷键终极使用指南](https://sspai.com/article/52239?series_id=70)
 - 使用弟弟账号申请腾讯云学生服务器
 - 《深入理解Nginx》 ch1 & ch2
 - 《大黄蜂》 19:00-21:00
@@ -569,8 +569,8 @@ The idea inspired by [leerduo](https://github.com/leerduo) , to take note what I
 - [今年程序猿没有年终奖](https://mp.weixin.qq.com/s/94cT8RvGWYA7LIGbH2f3rw)
 - [「一行代码」搞定软件安装卸载，用 Scoop 管理你的 Windows 软件](https://sspai.com/post/52496)
 	- 评价：Scoop居然存储软件放到`C:\Users\用户名\scoop`下（暂时没有看到修改文件存储路径），对于软件路径有着洁癖的我来说，简直不能忍，每次都是规划好，才可以下载使用对应软件的。
-- [Power+ 团队的 GitHub 协作流程 | 奏折 05 - 少数派](https://sspai.com/article/52504?series_id=70)
-- [跨年特刊：各大榜单有哪些值得关注的内容 | 奏折 04 - 少数派](https://sspai.com/article/52309?series_id=70)
+- [Power+ 团队的 GitHub 协作流程](https://sspai.com/article/52504?series_id=70)
+- [跨年特刊：各大榜单有哪些值得关注的内容](https://sspai.com/article/52309?series_id=70)
 - [用 Markdown 生成漂亮的手写图 (Mac Only) ](https://sspai.com/post/52190)
 - [吴昕，别哭](https://mp.weixin.qq.com/s/yomTWRtTNgKbaXllUY9_5A)
 
@@ -598,9 +598,9 @@ The idea inspired by [leerduo](https://github.com/leerduo) , to take note what I
 ### 2019年01月18日
 
 - [GoodNotes 迎来 5.0 更新，向「最佳手写笔记 App」又进了一步](https://sspai.com/post/52577)
-- [在 Mac 上独立控制 App 音量，用免费的 Background Music 帮你实现 | App+1 - 少数派](https://sspai.com/post/52588)
+- [在 Mac 上独立控制 App 音量，用免费的 Background Music 帮你实现](https://sspai.com/post/52588)
 - [你要的「音乐云盘」终于来了：网易云音乐 Mac 2.0](https://sspai.com/post/52579)
-- [Slack 的新图标是不是一个好设计？| 奏折 06 - 少数派](https://sspai.com/article/52592?series_id=70)
+- [Slack 的新图标是不是一个好设计？](https://sspai.com/article/52592?series_id=70)
 - [《TensorFlow快速入门与实战》](https://time.geekbang.org/course/intro/153) 01 ~ 05 节
 
 ### 2019年01月19日
@@ -634,7 +634,7 @@ The idea inspired by [leerduo](https://github.com/leerduo) , to take note what I
 ### 2019年01月22日
 
 - [Word 页码使用指南](https://sspai.com/article/52631?series_id=70)
-- [Todoist、1Password、TextExpander 等订阅免费送 - 少数派](https://sspai.com/post/52639)
+- [Todoist、1Password、TextExpander 等订阅免费送](https://sspai.com/post/52639)
 	- Todoist
 	- 1Password
 	- TextExpander
@@ -655,7 +655,7 @@ The idea inspired by [leerduo](https://github.com/leerduo) , to take note what I
 ### 2019年01月24日
 
 - [就让那个疯狂「买买买」的我留在 2018 ](https://sspai.com/post/52552)
-- [你必须收藏的Github技巧 | AlloyTeam](http://www.alloyteam.com/2016/12/you-must-collect-the-github-tips/)
+- [你必须收藏的Github技巧](http://www.alloyteam.com/2016/12/you-must-collect-the-github-tips/)
 
 
 ### 2019年01月25日
@@ -717,7 +717,7 @@ The idea inspired by [leerduo](https://github.com/leerduo) , to take note what I
 ### 2019年01月31日
 
 - [一个出身寒门的状元之胖](https://mp.weixin.qq.com/s/7f-yVZTVaunmgnKmFIjXYg)
-- [今年春节回家打算给家里买点啥？| 一派](https://sspai.com/post/52773)
+- [今年春节回家打算给家里买点啥？](https://sspai.com/post/52773)
 - [回家路上想看剧？我们为你准备了一份 「春节补剧清单」](https://sspai.com/post/52771)
 - [Notion 使用详解：来自未来的笔记协作工具](https://sspai.com/article/52176?series_id=70)
 - [Notion 进阶技巧：学会使用「组合技」](https://sspai.com/article/52769?series_id=70)
@@ -763,7 +763,7 @@ The idea inspired by [leerduo](https://github.com/leerduo) , to take note what I
 - [Redis 安装与配置](https://weibo.com/ttarticle/p/show?id=2309404335961176697657)
 - [有哪些微信小程序值得推荐？ - 知乎](https://www.zhihu.com/question/54556984/answer/588565738)
 - [第 53 届超级碗总决赛爱国者 13:3 击败公羊，布雷迪第六次率队夺冠——张佳玮](https://www.zhihu.com/question/311161744/answer/589301538)
-- [这份写作手册很少有人能看完 | 3400字干货](https://mp.weixin.qq.com/s/_xJBtS4_PViyaKuOWC_TOg)
+- [这份写作手册很少有人能看完](https://mp.weixin.qq.com/s/_xJBtS4_PViyaKuOWC_TOg)
 - [人间值得](https://mp.weixin.qq.com/s/YNc5tI8Tm3OEMP0nKSG8PQ)
 - SaltStack
 
@@ -787,7 +787,7 @@ The idea inspired by [leerduo](https://github.com/leerduo) , to take note what I
 - [李想创业20年总结：从普通人到顶尖领袖的五个认知楼层](https://mp.weixin.qq.com/s/IjNVH28dfADCB4bWUpvNOA)
 - [从 0 到 1 写一个 Alfred Workflow - 少数派](https://sspai.com/post/47710)
 - [小白实践《从 0 到 1 写一个 Alfred Workflow》遇到的问题及解决方案 - 少数派](https://sspai.com/post/48386)
-- [高效使用 Mac，从 Alfred 开始 | 专题](https://sspai.com/topic/237)
+- [高效使用 Mac，从 Alfred 开始 ~ 专题](https://sspai.com/topic/237)
 - [GitHub - trimstray/nginx-quick-reference](https://github.com/trimstray/nginx-quick-reference)
 - [LeetCode for VS Code: 春招 Offer 收割利器 - 知乎](https://zhuanlan.zhihu.com/p/56226189)
 
@@ -851,13 +851,13 @@ The idea inspired by [leerduo](https://github.com/leerduo) , to take note what I
 - 工作：容器化Rail开发的研发管理平台
 - [iPhone 相机完全操作指南 2.0](https://sspai.com/post/53005)
 - [我是如何平衡全职和兼职工作的？](https://sspai.com/post/52917)
-- [除了好工具，只有多阅读、多思考才能成为好的写作者：专访 Zine | 幕后](https://sspai.com/post/52987)
+- [除了好工具，只有多阅读、多思考才能成为好的写作者：专访 Zine](https://sspai.com/post/52987)
 - [我在无纸化学习方面的尝试](https://sspai.com/article/52986?series_id=70)
 
 ### 2019年02月21日
 
 - [字节跳动(今日头条)，为何战斗力如此凶猛？](https://mp.weixin.qq.com/s/WJU4oOJCXpd0i7F0xBxUyQ)
-- [对话 | 豆瓣FM的改朝换代，以及腾讯的半路入局](https://mp.weixin.qq.com/s/b2uy6qIzXWJA1SSMIj8moQ)
+- [对话：豆瓣FM的改朝换代，以及腾讯的半路入局](https://mp.weixin.qq.com/s/b2uy6qIzXWJA1SSMIj8moQ)
 - 《软件工程之美》1-3
 - 《Git三剑客》30-35
 - 学习GitHub的操作技巧：master分支做GitHub Pages
