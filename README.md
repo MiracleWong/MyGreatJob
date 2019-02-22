@@ -862,3 +862,12 @@ The idea inspired by [leerduo](https://github.com/leerduo) , to take note what I
 - 《Git三剑客》30-35
 - 学习GitHub的操作技巧：master分支做GitHub Pages
 - 和父母&弟弟交流
+
+### 2019年02月22日
+
+- 容器化GitHub的改造
+- 脚本编写
+- 和LXK在西溪天堂的外婆家旗舰店吃饭 (19:00 - 19:40)
+- 《阿丽塔：战斗天使》 (19:40 - 21:40)
+- 2019 第一次看直播
+- 总结：
