@@ -155,7 +155,7 @@ The idea inspired by [leerduo](https://github.com/leerduo) , to take note what I
 -  [GitLab: 2018 is the year for open source and DevOps - SD Times](https://sdtimes.com/devops/gitlabs-2018-devops-open-source-survey/)
 
 ### 2018年03月22日
-- [我的数字 2017：Notion、笔记和其他 - 少数派](https://sspai.com/post/43026)
+- [我的数字 2017：Notion、笔记和其他](https://sspai.com/post/43026)
 - [Git 中 Reset、Revert、Checkout的区别](http://yuanhehe.cn/2016/10/31/Git-%E4%B8%AD-Reset%E3%80%81Revert%E3%80%81Checkout%E7%9A%84%E5%8C%BA%E5%88%AB/)
 - [sed 字符串替换 - Amei1314 - 博客园](https://www.cnblogs.com/linux-wangkun/p/5745584.html)
 
@@ -477,7 +477,7 @@ The idea inspired by [leerduo](https://github.com/leerduo) , to take note what I
 - 『神奇动物：格林沃德之罪』 19:00-21:15
 
 ### 2018年11月17日
-- [从 0 到 1 写一个 Alfred Workflow - 少数派](https://sspai.com/post/47710)
+- [从 0 到 1 写一个 Alfred Workflow](https://sspai.com/post/47710)
 - [Traveler's Journal——成都小记](https://mp.weixin.qq.com/s/hVu2wWH3EBcMSVpQwXRxfg)
 - [专栏：Vol.1 滴答清单基础入门](https://mp.weixin.qq.com/s/w_8lLz34CMy1T2rQ4Zgszg)
 - [专栏：Vol.2如何借助滴答清单形成个人GTD管理体系](https://mp.weixin.qq.com/s/5lm5UEMPD9ben-sreKNhbw)
@@ -528,7 +528,7 @@ The idea inspired by [leerduo](https://github.com/leerduo) , to take note what I
 ### 2019年1月4日
 
 - [来自未来的笔记协作工具：Notion 使用详解](https://sspai.com/article/52176?series_id=70)
-- [5 个不为人知的 PDF 技巧 - 少数派](https://sspai.com/article/52237?series_id=70)
+- [5 个不为人知的 PDF 技巧](https://sspai.com/article/52237?series_id=70)
 - GlusterFS 和 Heketi关系，之间Volume互相查找。
 
 ### 2019年1月5日
@@ -785,8 +785,8 @@ The idea inspired by [leerduo](https://github.com/leerduo) , to take note what I
 ### 2019年02月12日
 
 - [李想创业20年总结：从普通人到顶尖领袖的五个认知楼层](https://mp.weixin.qq.com/s/IjNVH28dfADCB4bWUpvNOA)
-- [从 0 到 1 写一个 Alfred Workflow - 少数派](https://sspai.com/post/47710)
-- [小白实践《从 0 到 1 写一个 Alfred Workflow》遇到的问题及解决方案 - 少数派](https://sspai.com/post/48386)
+- [从 0 到 1 写一个 Alfred Workflow](https://sspai.com/post/47710)
+- [小白实践《从 0 到 1 写一个 Alfred Workflow》遇到的问题及解决方案](https://sspai.com/post/48386)
 - [高效使用 Mac，从 Alfred 开始 ~ 专题](https://sspai.com/topic/237)
 - [GitHub - trimstray/nginx-quick-reference](https://github.com/trimstray/nginx-quick-reference)
 - [LeetCode for VS Code: 春招 Offer 收割利器 - 知乎](https://zhuanlan.zhihu.com/p/56226189)
@@ -869,5 +869,18 @@ The idea inspired by [leerduo](https://github.com/leerduo) , to take note what I
 - 脚本编写
 - 和LXK在西溪天堂的外婆家旗舰店吃饭 (19:00 - 19:40)
 - 《阿丽塔：战斗天使》 (19:40 - 21:40)
+	- 总结：听从自己的内心，不惧怕每一次的成长，困难要用于面对
 - 2019 第一次看直播
-- 总结：
+	
+
+### 2019年02月23日
+
+- 
+- 阅读文章：
+	1. [心如止水的 Inbox Zero 状态，你也可以轻松达成](https://sspai.com/article/53025?series_id=70)
+	2. [10 个 Terminal 主题，让你的 macOS 终端更好看](https://sspai.com/post/53008)
+	3. [独立开发--番茄习惯”失败“总结 - mozhenhau's blog](https://mozhenhau.com/2019/01/31/%E7%95%AA%E8%8C%84%E4%B9%A0%E6%83%AF%E2%80%9D%E5%A4%B1%E8%B4%A5%E2%80%9C%E6%80%BB%E7%BB%93/)
+- 《Flask Web开发实战》复习：pipenv & 环境设置
+- 《遇见你真好》5
+
+
