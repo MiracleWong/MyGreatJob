@@ -869,18 +869,27 @@ The idea inspired by [leerduo](https://github.com/leerduo) , to take note what I
 - 脚本编写
 - 和LXK在西溪天堂的外婆家旗舰店吃饭 (19:00 - 19:40)
 - 《阿丽塔：战斗天使》 (19:40 - 21:40)
-	- 总结：听从自己的内心，不惧怕每一次的成长，困难要用于面对
-- 2019 第一次看直播
+	- 总结：听从自己的内心，不惧怕每一次的成长，困难要用于面对，去挑战内心的恐惧和显示中的大魔王。
+- 2019 第一次看直播：错觉（APEX 英雄），小叮当（绝地求生）
 	
 
 ### 2019年02月23日
 
-- 
 - 阅读文章：
 	1. [心如止水的 Inbox Zero 状态，你也可以轻松达成](https://sspai.com/article/53025?series_id=70)
 	2. [10 个 Terminal 主题，让你的 macOS 终端更好看](https://sspai.com/post/53008)
 	3. [独立开发--番茄习惯”失败“总结 - mozhenhau's blog](https://mozhenhau.com/2019/01/31/%E7%95%AA%E8%8C%84%E4%B9%A0%E6%83%AF%E2%80%9D%E5%A4%B1%E8%B4%A5%E2%80%9C%E6%80%BB%E7%BB%93/)
 - 《Flask Web开发实战》复习：pipenv & 环境设置
 - 《遇见你真好》5
+
+
+### 2019年02月24日
+
+- 阅读文章：
+	1. [自定义中文 Call Screen 问候语，让 Google Assistant 帮你拒接骚扰电话](https://sspai.com/post/53030)
+	2. [利用周末学习？我准备这么规划！](https://mp.weixin.qq.com/s/jGRG-zr8sM8yVmVXvOpr0w)
+	3. [三张桌面和三种状态 我的2018 - 少数派](https://sspai.com/post/52906)
+- 补觉。（自己的周末学习计划，又一次失败了。对于任务的恐惧，让自己一次次陷于内耗之中。之前一直拖着没有复盘，更是将一次次唤醒自己的手环和闹钟关掉，让自己在半梦半醒间听着有声小说，还觉得是高效的利用时间）
+- Rails应用的Dockerfile编写
 
 
