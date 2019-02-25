@@ -893,3 +893,10 @@ The idea inspired by [leerduo](https://github.com/leerduo) , to take note what I
 - Rails应用的Dockerfile编写
 
 
+### 2019年02月25日
+
+- [手机外接镜头选购指南](https://sspai.com/post/53063)
+- [5 个 PowerShell 主题](https://sspai.com/post/52907)
+- [用手机做完个人管理——2018 与我的重构](https://sspai.com/post/52642)
+- [Mac 安装PyQt5](https://blog.csdn.net/tymatlab/article/details/78625089)
+
