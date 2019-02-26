@@ -900,3 +900,13 @@ The idea inspired by [leerduo](https://github.com/leerduo) , to take note what I
 - [用手机做完个人管理——2018 与我的重构](https://sspai.com/post/52642)
 - [Mac 安装PyQt5](https://blog.csdn.net/tymatlab/article/details/78625089)
 
+### 2019年02月26日
+
+- [一群纽约小人物扳倒亚马逊](https://mp.weixin.qq.com/s/iWtrT8vtA3fUgpn_AWUQdw)
+	- 思考：长期利益or短期利益？个人发展or城市选择？是否对于个体的权力赋予得太大，以致于民众只在眼前利益上斤斤计较，如果不是如此，是否是城市的发展以底层人民的福祉和生存为代价，而建立起人民难以享受而成为少数人牟利的畸形城市。
+- [6 个小工具，打造图片批处理工作流](https://sspai.com/post/53079)
+- 整理房间：定期扔东西
+- 《软件工程之美》01-02
+- 《黄金瞳》1-2
+- 《Django企业开发实战》
+
