@@ -910,3 +910,8 @@ The idea inspired by [leerduo](https://github.com/leerduo) , to take note what I
 - 《黄金瞳》1-2
 - 《Django企业开发实战》
 
+
+### 2019年02月27日
+
+- [我的 2018，成长于知识付费与被付费](https://sspai.com/post/52934)
+- 整理房间（2h）
