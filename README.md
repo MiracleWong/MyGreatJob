@@ -926,3 +926,15 @@ The idea inspired by [leerduo](https://github.com/leerduo) , to take note what I
 - [如何用 Google Colab 练 Python？](https://sspai.com/post/52980)
 - 运动+洗澡（21:00 - 21:45）
 - 阅读 (20:00 - 21:00 && 22:00 - 22:30)
+
+
+## 2019年03月
+### 2019年03月01日
+
+- [信息消费：从入门到放弃](https://sspai.com/post/52832)
+- [一站式搞定 GIF 的录制、处理、压缩](https://sspai.com/post/53126)
+
+### 2019年03月02日
+
+* [用 Excel 把 Word 题库做成了答题 App](https://sspai.com/post/53028)
+* 理财记账
