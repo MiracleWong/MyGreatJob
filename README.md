@@ -936,5 +936,11 @@ The idea inspired by [leerduo](https://github.com/leerduo) , to take note what I
 
 ### 2019年03月02日
 
-* [用 Excel 把 Word 题库做成了答题 App](https://sspai.com/post/53028)
-* 理财记账
+- [用 Excel 把 Word 题库做成了答题 App](https://sspai.com/post/53028)
+- 理财记账
+
+### 2019年03月03日
+
+- 睡懒觉
+- 内心的自我消耗
+- 《猜凶》
