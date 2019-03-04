@@ -944,3 +944,18 @@ The idea inspired by [leerduo](https://github.com/leerduo) , to take note what I
 - 睡懒觉
 - 内心的自我消耗
 - 《猜凶》
+
+### 2019年03月04日
+
+- 睡懒觉
+- 内心的自我消耗
+- 《猜凶》
+
+
+### 2019年03月04日
+
+- 服务器上安装MQTT && Docker化MQTT
+- [纪念Vamei](https://mp.weixin.qq.com/s/BsP8pCtuIjD7mOPQThlWzg)
+- [Dockerfile 最佳实践](https://www.qikqiak.com/post/dockerfile-best-practice/)
+- Go语言学习
+- 帮弟弟排查VisualBox安装错误
