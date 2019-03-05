@@ -959,3 +959,17 @@ The idea inspired by [leerduo](https://github.com/leerduo) , to take note what I
 - [Dockerfile 最佳实践](https://www.qikqiak.com/post/dockerfile-best-practice/)
 - Go语言学习
 - 帮弟弟排查VisualBox安装错误
+
+
+### 2019年03月05日
+
+- [nginx 报错　nginx: could not build the variables_hash](http://www.bubuko.com/infodetail-1664633.html)
+- [教你如何利用NFS获取主机权限](http://dy.163.com/v2/article/detail/DJ0DLRK60511CJ6O.html)
+- [nfs服务权限配置](https://blog.51cto.com/12332766/2126316)
+- [OKR并非万能钥匙，我相信“效果为王” | 李檬相对论](https://mp.weixin.qq.com/s/U5iGLh0hKJ__WkdNp7Up0Q)
+- [利用 iPad Pro 打造个人学习体系](https://sspai.com/post/53093)
+- [了解肌肉构造和运动原理，帮你更科学和有效地健身：运动解剖](https://sspai.com/post/53082)
+- [如何在 Mac 上找回「右键新建文件」功能](https://sspai.com/post/53175)
+- 修复漏洞
+- 推拿（20:00 - 21:00）
+	- 推拿时，才是自己深入思考的时刻，伴随这师傅的手劲，痛苦让自己格外清醒。
