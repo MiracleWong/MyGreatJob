@@ -463,15 +463,15 @@ The idea inspired by [leerduo](https://github.com/leerduo) , to take note what I
 - 《逆向管理》
 
 ### 2018年11月12日
-- [哈佛人格心理学课：不给自己设限，人生才会有更多可能](https://mp.weixin.qq.com/s?timestamp=1542035227&src=3&ver=1&signature=DX8BHhXEM4Cr*8akAsqc9vDknX*Dm807*SBs-nKsAZI4xuRmSnuvCpcdidzGmEZGx*slK1v5ULgvuwfO9JIx5qdkVRTc8b3LhdWNIP-3urmF4WEFnRC3enXH3Ua0G4NV1POgUhkrALVYSvm3auE1Dl1g73IXVH0ZN4vddffyhh4=) 
-	* 一、看待自己时，我们在想什么？
-		* 人格心理学家认为，人们往往会创造出一些特质，选择用自己的一套“个人建构”来评判自己和他人。
-	* 二、个人建构越单一越焦虑
-		* 你用来理解世界的建构或视角越多，适应性便越强，越不容易感到焦虑不安。
-	* 三、以自由的状态看世界
-		* 只有拥有充分的自由，我们才不会对他人进行狭窄的界定。
+- [哈佛人格心理学课：不给自己设限，人生才会有更多可能](https://mp.weixin.qq.com/s?timestamp=1542035227&src=3&ver=1&signature=DX8BHhXEM4Cr-8akAsqc9vDknX-Dm807-SBs-nKsAZI4xuRmSnuvCpcdidzGmEZGx-slK1v5ULgvuwfO9JIx5qdkVRTc8b3LhdWNIP-3urmF4WEFnRC3enXH3Ua0G4NV1POgUhkrALVYSvm3auE1Dl1g73IXVH0ZN4vddffyhh4=) 
+	- 一、看待自己时，我们在想什么？
+		- 人格心理学家认为，人们往往会创造出一些特质，选择用自己的一套“个人建构”来评判自己和他人。
+	- 二、个人建构越单一越焦虑
+		- 你用来理解世界的建构或视角越多，适应性便越强，越不容易感到焦虑不安。
+	- 三、以自由的状态看世界
+		- 只有拥有充分的自由，我们才不会对他人进行狭窄的界定。
 		
-- [成为一个更好的自己，真有那么难吗？](https://mp.weixin.qq.com/s?timestamp=1542035227&src=3&ver=1&signature=DX8BHhXEM4Cr*8akAsqc9vDknX*Dm807*SBs-nKsAZI4xuRmSnuvCpcdidzGmEZGx*slK1v5ULgvuwfO9JIx5qdkVRTc8b3LhdWNIP-3urmRJ087dGh1hyDQt-hAfTQaNwTR7ISLtnTmOFxn0azV2YiXid5af4zmJkNjDFRQtJw=)
+- [成为一个更好的自己，真有那么难吗？](https://mp.weixin.qq.com/s?timestamp=1542035227&src=3&ver=1&signature=DX8BHhXEM4Cr-8akAsqc9vDknX-Dm807-SBs-nKsAZI4xuRmSnuvCpcdidzGmEZGx-slK1v5ULgvuwfO9JIx5qdkVRTc8b3LhdWNIP-3urmRJ087dGh1hyDQt-hAfTQaNwTR7ISLtnTmOFxn0azV2YiXid5af4zmJkNjDFRQtJw=)
 
 ### 2018年11月16日
 - 『神奇动物：格林沃德之罪』 19:00-21:15
@@ -770,7 +770,7 @@ The idea inspired by [leerduo](https://github.com/leerduo) , to take note what I
 ### 2019年02月10日
 
 - [清官谈MySQL中utf8和utf8mb4区别](http://blogread.cn/it/article/7546)
-- [云计算怎么支撑起《流浪地球》的硬科幻实力？](https://www.infoq.cn/article/JTaYW7MOvX1U*ITm5CfD)
+- [云计算怎么支撑起《流浪地球》的硬科幻实力？](https://www.infoq.cn/article/JTaYW7MOvX1U-ITm5CfD)
 - [“趣谈网络协议”专栏「食用指南」](https://time.geekbang.org/column/article/17862)
 - 沧州→杭州（大巴→公交→高铁→地铁→步行）回程
 
@@ -813,7 +813,7 @@ The idea inspired by [leerduo](https://github.com/leerduo) , to take note what I
 ### 2019年02月15日
 
 - [JSBox 脚本合辑推荐第三期](https://sspai.com/post/52851)
-	* 评论：感觉今年为了JSBox也要买个iPhone手机了。还有一个原因是“捷径”。
+	- 评论：感觉今年为了JSBox也要买个iPhone手机了。还有一个原因是“捷径”。
 - [Windows 字体优化](https://sspai.com/post/52815)
 - [Power+ 2.0的所有文章](https://sspai.com/series/70/list)
 - [做好计划，节后快速恢复工作状态](https://sspai.com/article/52888?series_id=70)
@@ -973,3 +973,18 @@ The idea inspired by [leerduo](https://github.com/leerduo) , to take note what I
 - 修复漏洞
 - 推拿（20:00 - 21:00）
 	- 推拿时，才是自己深入思考的时刻，伴随这师傅的手劲，痛苦让自己格外清醒。
+
+### 2019年03月06日
+- 工作：测试容器化的MQTT服务和HTTP验证，上线IOT服务
+- [Android 上的天气App](https://sspai.com/post/53191)
+- [被冷落的 WIN 键，其实比你想的更好用](https://sspai.com/post/53173)
+	1. Win + A —— 打开操作中心
+	2. Win + I —— 打开设置
+	3. Win + E —— 打开文件资源管理器
+	4. Win  + S —— 打开搜索
+	5. Win  + D —— 显示桌面
+	6. Win  + L —— 锁定屏幕
+	7. Win  + V —— 打开云剪贴板
+	8. Win + ； —— Emoji输入框
+	9. Win + Shift + S —— 打开Windows原生截图
+- [一个真正有效的「屏幕时间」使用方法](https://sspai.com/post/53188)
