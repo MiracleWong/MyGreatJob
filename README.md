@@ -988,3 +988,8 @@ The idea inspired by [leerduo](https://github.com/leerduo) , to take note what I
 	8. Win + ； —— Emoji输入框
 	9. Win + Shift + S —— 打开Windows原生截图
 - [一个真正有效的「屏幕时间」使用方法](https://sspai.com/post/53188)
+
+### 2019年03月07日
+- [畅销好书免费听：妙读](https://sspai.com/post/53102)
+- 工作：测试MQTT & 接口
+- 工作：了解Harbor的主从复制（数据迁移原理）
