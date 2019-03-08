@@ -993,3 +993,13 @@ The idea inspired by [leerduo](https://github.com/leerduo) , to take note what I
 - [畅销好书免费听：妙读](https://sspai.com/post/53102)
 - 工作：测试MQTT & 接口
 - 工作：了解Harbor的主从复制（数据迁移原理）
+
+### 2019年03月08日
+- [34 款 Windows 应用，每一款都是神器](https://sspai.com/post/53160)
+- [必须收藏！50个最流行的免费Kubernetes工具集](http://cloud.51cto.com/art/201806/576406.htm)
+- [最全的50+易用Docker工具列表指南](https://www.infoq.cn/article/C*aZiIsuHT9jJTjzicYE)
+- 工作：Postman测试IOT & 数据服务接口成功
+- 工作：完成Harbor两个仓库的迁移，并排查出线上Docker 环境的配置错误。
+- 帮弟弟安装VisulBox（Windows 10 解决Hyper-V错误）
+- 晚上：晚饭：麦当劳汉堡🍔,逛城西银泰(西西弗书店+茶马花街+小米旗舰店+UnderArmour)
+- 记账&理财（21:00 - 22:00）
