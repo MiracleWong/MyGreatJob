@@ -1006,6 +1006,6 @@ The idea inspired by [leerduo](https://github.com/leerduo) , to take note what I
 
 ### 2019年03月09日
 - [34 款 Windows 应用，每一款都是神器](https://sspai.com/post/53160)
-- 学习：Go语言
+- 学习：[《Go语言从入门到实战》](https://time.geekbang.org/course/intro/160) 解决Atom 上的go-plus 安装问题。
 - 娱乐：绝地求生黄金大奖赛第六季
 - 阅读：博客文章
