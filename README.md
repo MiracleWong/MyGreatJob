@@ -1003,3 +1003,9 @@ The idea inspired by [leerduo](https://github.com/leerduo) , to take note what I
 - 帮弟弟安装VisulBox（Windows 10 解决Hyper-V错误）
 - 晚上：晚饭：麦当劳汉堡🍔,逛城西银泰(西西弗书店+茶马花街+小米旗舰店+UnderArmour)
 - 记账&理财（21:00 - 22:00）
+
+### 2019年03月09日
+- [34 款 Windows 应用，每一款都是神器](https://sspai.com/post/53160)
+- 学习：Go语言
+- 娱乐：绝地求生黄金大奖赛第六季
+- 阅读：博客文章
