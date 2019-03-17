@@ -1009,3 +1009,12 @@ The idea inspired by [leerduo](https://github.com/leerduo) , to take note what I
 - 学习：[《Go语言从入门到实战》](https://time.geekbang.org/course/intro/160) 解决Atom 上的go-plus 安装问题。
 - 娱乐：绝地求生黄金大奖赛第六季
 - 阅读：博客文章
+
+# 2019年03月17日
+ [科学天才张亚勤的百度流浪之旅 | 深网](https://mp.weixin.qq.com/s/DlrYwYnbMLoPtZQtinMMBQ)
+[用捷径打造一个「早安助理」| 实用技巧 - 少数派](https://sspai.com/post/53288)
+- [使用了 100 多款米家智能硬件，这是我的购买推荐 - 少数派](https://sspai.com/post/53276)
+	- 评论：万物互联智能家居时代的标准形式，以后买房后的装修可以参考其中一些设备
+- [聊天第一印象很重要，如何做个一眼就能被人记住的头像？ - 少数派](https://sspai.com/post/53240)
+- [不仅系统监控要做得更出色，iStat Menu 6 还能让你在状态栏看天气了 - 少数派](https://sspai.com/post/41089)
+- [钥匙串上常备这 5 类小工具，解决生活中的小麻烦 - 少数派](https://sspai.com/post/44001)
