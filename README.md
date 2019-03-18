@@ -1011,6 +1011,7 @@ The idea inspired by [leerduo](https://github.com/leerduo) , to take note what I
 - 阅读：博客文章
 
 # 2019年03月17日
+
  [科学天才张亚勤的百度流浪之旅 | 深网](https://mp.weixin.qq.com/s/DlrYwYnbMLoPtZQtinMMBQ)
 [用捷径打造一个「早安助理」| 实用技巧 - 少数派](https://sspai.com/post/53288)
 - [使用了 100 多款米家智能硬件，这是我的购买推荐 - 少数派](https://sspai.com/post/53276)
@@ -1018,3 +1019,19 @@ The idea inspired by [leerduo](https://github.com/leerduo) , to take note what I
 - [聊天第一印象很重要，如何做个一眼就能被人记住的头像？ - 少数派](https://sspai.com/post/53240)
 - [不仅系统监控要做得更出色，iStat Menu 6 还能让你在状态栏看天气了 - 少数派](https://sspai.com/post/41089)
 - [钥匙串上常备这 5 类小工具，解决生活中的小麻烦 - 少数派](https://sspai.com/post/44001)
+- 制定自己的"每日Routine和仪式感"
+
+# 2019年03月18日
+
+- Heketi 排错
+- Gitlab 数据备份和迁移
+- Vue课程 1-4
+- 键盘键位练习
+- 阅读博文：
+	- [关于字节跳动这7年，张一鸣讲了5个故事](https://mp.weixin.qq.com/s/gRoBPD6GaFvm7OSs-PBQOQ)
+	- [nginx架构及核心流程及模块介绍](https://mp.weixin.qq.com/s/kom5Qb2lL5ykfqLOhTQM8w)
+	- [Vim 常用快捷键分类备忘单](https://quickapp.lovejade.cn/vim-common-shortcuts)
+	- [macOS 命令行教程0 → 基本操作 - 知乎](https://zhuanlan.zhihu.com/p/56834897)
+	- [macOS 命令行教程1 → 更多命令&文件系统 - 知乎](https://zhuanlan.zhihu.com/p/57332405)
+	- [zsh & oh-my-zsh 的配置与使用 - 知乎](https://zhuanlan.zhihu.com/p/58073103)
+	- [和枯燥的终端说再见吧 → 终端复用工具 Tmux - 知乎](https://zhuanlan.zhihu.com/p/58668651?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
