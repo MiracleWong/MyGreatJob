@@ -1035,3 +1035,7 @@ The idea inspired by [leerduo](https://github.com/leerduo) , to take note what I
 	- [macOS 命令行教程1 → 更多命令&文件系统 - 知乎](https://zhuanlan.zhihu.com/p/57332405)
 	- [zsh & oh-my-zsh 的配置与使用 - 知乎](https://zhuanlan.zhihu.com/p/58073103)
 	- [和枯燥的终端说再见吧 → 终端复用工具 Tmux - 知乎](https://zhuanlan.zhihu.com/p/58668651?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
+
+# 2019年03月22日
+
+- 打电话给爸爸妈妈。哭诉质问，他们对我的教育问题，发泄情绪。
