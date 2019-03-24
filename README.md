@@ -1010,7 +1010,7 @@ The idea inspired by [leerduo](https://github.com/leerduo) , to take note what I
 - 娱乐：绝地求生黄金大奖赛第六季
 - 阅读：博客文章
 
-# 2019年03月17日
+### 2019年03月17日
 
  [科学天才张亚勤的百度流浪之旅 | 深网](https://mp.weixin.qq.com/s/DlrYwYnbMLoPtZQtinMMBQ)
 [用捷径打造一个「早安助理」| 实用技巧 - 少数派](https://sspai.com/post/53288)
@@ -1021,7 +1021,7 @@ The idea inspired by [leerduo](https://github.com/leerduo) , to take note what I
 - [钥匙串上常备这 5 类小工具，解决生活中的小麻烦 - 少数派](https://sspai.com/post/44001)
 - 制定自己的"每日Routine和仪式感"
 
-# 2019年03月18日
+### 2019年03月18日
 
 - Heketi 排错
 - Gitlab 数据备份和迁移
@@ -1036,14 +1036,21 @@ The idea inspired by [leerduo](https://github.com/leerduo) , to take note what I
 	- [zsh & oh-my-zsh 的配置与使用 - 知乎](https://zhuanlan.zhihu.com/p/58073103)
 	- [和枯燥的终端说再见吧 → 终端复用工具 Tmux - 知乎](https://zhuanlan.zhihu.com/p/58668651?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
 
-# 2019年03月22日
+### 2019年03月22日
 
 - 打电话给爸爸妈妈。哭诉质问，他们对我的教育问题，发泄情绪。
 
-# 2019年03月23日
+### 2019年03月23日
 
 - 整理房间
 - 《Flask API实战》
 - 和前同事ZM吃饭交流逛书店和商场（17:45 - 21:00）
     - 交流了很多工作上的经验思考和困惑。
     - 自己要努力了，争取更好的职业发展空间。
+
+### 2019年03月24日
+- 公司加班。协助海南同事，对接厂家排查AC问题
+- 部署 Hexo 博客到服务器
+    - 不要死盯着已出的问题不放
+    - 要查看日志分析背后的原因
+    
