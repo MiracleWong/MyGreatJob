@@ -1054,3 +1054,7 @@ The idea inspired by [leerduo](https://github.com/leerduo) , to take note what I
     - 不要死盯着已出的问题不放
     - 要查看日志分析背后的原因
     
+### 2019年03月25日
+- [用捷径把常用信息钉在通知中心](https://sspai.com/post/53532)
+- [Kubernetes 如何打赢容器之战？](https://mp.weixin.qq.com/s/4e9l-GP22T-myP54hJJjPA)
+- [打造高效「Mac 工具栈」，提高工作效率](https://gitbook.cn/gitchat/activity/5c83aac7d3d49f2dbb3b2185)
