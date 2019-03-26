@@ -1058,3 +1058,9 @@ The idea inspired by [leerduo](https://github.com/leerduo) , to take note what I
 - [用捷径把常用信息钉在通知中心](https://sspai.com/post/53532)
 - [Kubernetes 如何打赢容器之战？](https://mp.weixin.qq.com/s/4e9l-GP22T-myP54hJJjPA)
 - [打造高效「Mac 工具栈」，提高工作效率](https://gitbook.cn/gitchat/activity/5c83aac7d3d49f2dbb3b2185)
+
+### 2019年03月26日
+- [如何护理好口腔健康？](https://sspai.com/post/53604)
+- [小团队 DevOps 实践之监控告警](https://gitbook.cn/books/5a94e82ba768684d0a266ca9/index.html)
+- [Prometheus 入门](https://gitbook.cn/gitchat/activity/5c894fae7656bf758be46f6b)
+- [程序员如何将技术变现](https://weibo.com/ttarticle/p/show?id=2309404354455054222069#_0)
