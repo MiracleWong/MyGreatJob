@@ -1064,3 +1064,8 @@ The idea inspired by [leerduo](https://github.com/leerduo) , to take note what I
 - [小团队 DevOps 实践之监控告警](https://gitbook.cn/books/5a94e82ba768684d0a266ca9/index.html)
 - [Prometheus 入门](https://gitbook.cn/gitchat/activity/5c894fae7656bf758be46f6b)
 - [程序员如何将技术变现](https://weibo.com/ttarticle/p/show?id=2309404354455054222069#_0)
+
+### 2019年03月27日
+- [Drafts for Mac 测评：草稿处理的无缝衔接](https://sspai.com/post/53761)
+- [每天只看半小时手机，坚持一周后我有哪些变化？](https://sspai.com/post/53756)
+- [郝海龙的Mac软件合集](https://www.notion.so/My-Mac-App-List-by-Hailong-Hao-11055af661eb4e37b4643c0d781d14c3)
