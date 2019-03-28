@@ -1069,3 +1069,24 @@ The idea inspired by [leerduo](https://github.com/leerduo) , to take note what I
 - [Drafts for Mac 测评：草稿处理的无缝衔接](https://sspai.com/post/53761)
 - [每天只看半小时手机，坚持一周后我有哪些变化？](https://sspai.com/post/53756)
 - [郝海龙的Mac软件合集](https://www.notion.so/My-Mac-App-List-by-Hailong-Hao-11055af661eb4e37b4643c0d781d14c3)
+
+### 2019年03月28日
+- [掌握薅羊毛的正确姿势，9 款查价工具推荐](https://sspai.com/post/46880)
+	- 
+- [如何缓解长期加班造成的眼部疲劳？](https://www.zhihu.com/question/303824870/answer/627089570)	
+	- 评论：要去眼镜店测试一下眼镜度数和眼镜匹配不匹配。
+- [美团王兴：我仍然认为马云有诚信问题](https://finance.ifeng.com/c/7lPqGGKt1tY)
+- [告别伸手党，这 11 个网站让你有问题不求人](https://sspai.com/post/53492)
+	- Subzin：句子台词
+	- Tunefind：背景音乐
+	- trace.moe：动画搜索
+	-  [Google图书高级搜索](https://books.google.com/) 
+	- Musixmatch：歌词库
+	- 识字体网
+	- Know Your Meme：网络流行梗
+	- iTunes Artwork Finder：iOS高清图标
+	- The Mac Index：苹果产品各地价格记录比较
+	- [MacRumors Buyer’s Guide](https://buyersguide.macrumors.com/) 
+	- https://steamdb.info/sales
+- [科学家的司机](https://mp.weixin.qq.com/s/URzwR-9I0OsMHguUN45vww)
+- 技术分享[Git常用技巧合集](https://mubu.com/doc/d3G3mx5G8)
