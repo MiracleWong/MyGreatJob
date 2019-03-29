@@ -1090,3 +1090,9 @@ The idea inspired by [leerduo](https://github.com/leerduo) , to take note what I
 	- https://steamdb.info/sales
 - [科学家的司机](https://mp.weixin.qq.com/s/URzwR-9I0OsMHguUN45vww)
 - 技术分享[Git常用技巧合集](https://mubu.com/doc/d3G3mx5G8)
+
+
+### 2019年03月29日
+- 健身（20:00 - 21:00）
+- 《暗黑者3》3-4
+- [《高效信息管理术》](https://sspai.com/series/73) 1.0 - 1.5
