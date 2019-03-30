@@ -1096,3 +1096,8 @@ The idea inspired by [leerduo](https://github.com/leerduo) , to take note what I
 - 健身（20:00 - 21:00）
 - 《暗黑者3》3-4
 - [《高效信息管理术》](https://sspai.com/series/73) 1.0 - 1.5
+
+### 2019年03月30日
+- 整理『个人工作流和信息流』
+- 得到专栏学习
+- IG & EDG BO3——传奇之战
