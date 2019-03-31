@@ -1101,3 +1101,12 @@ The idea inspired by [leerduo](https://github.com/leerduo) , to take note what I
 - 整理『个人工作流和信息流』
 - 得到专栏学习
 - IG & EDG BO3——传奇之战
+
+### 2019年03月31日
+
+> 希望永远不缺少从头再来的勇气！—— by 乔欣
+
+
+- 得到专栏学习
+- 2019年3月总结
+- 2019第14周计划
