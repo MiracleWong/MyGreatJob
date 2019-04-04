@@ -1110,3 +1110,10 @@ The idea inspired by [leerduo](https://github.com/leerduo) , to take note what I
 - 得到专栏学习
 - 2019年3月总结
 - 2019第14周计划
+
+
+### 2019年04月04日
+
+- 得到专栏学习
+- 《风中有朵雨做的云》（20:00 - 22:15）
+- 健身（22:30 - 23:00）
