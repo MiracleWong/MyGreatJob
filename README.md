@@ -1125,3 +1125,10 @@ The idea inspired by [leerduo](https://github.com/leerduo) , to take note what I
 - 西湖寻找闻莺阁（18:00 - 18:45）
 - Jenkins学习（22:45 - 23:45）
 - Python logging库
+
+### 2019年04月16日
+
+- 漏洞环境搭建
+- 网络安装培训（14:00 - 16:30）
+- 英国绝地求生邀请赛 (19:15 - 20:30)
+- 和妈妈沟通（21:15 - 22:30）
