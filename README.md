@@ -1108,7 +1108,7 @@ The idea inspired by [leerduo](https://github.com/leerduo) , to take note what I
 
 
 - 得到专栏学习
-- 2019年3月总结
+- 2019年3月总结[涉及Nginx](media/%E6%B6%89%E5%8F%8ANginx-1.)
 - 2019第14周计划
 
 
@@ -1119,8 +1119,8 @@ The idea inspired by [leerduo](https://github.com/leerduo) , to take note what I
 - 健身（22:30 - 23:00）
 
 ### 2019年04月12日
-
-- 得到音频（08:00 - 08:30 && 20:15 - 21:00）
+[nginx_deployment](media/nginx_deployment.yaml)
+- 得到音频（08:00 - 08:30 && 20:15 - 21:00）[docker-options](media/docker-options.conf)
 - 网络安装培训（09:00 - 12:00 && 13:00 - 17:00）
 - 西湖寻找闻莺阁（18:00 - 18:45）
 - Jenkins学习（22:45 - 23:45）
@@ -1131,4 +1131,12 @@ The idea inspired by [leerduo](https://github.com/leerduo) , to take note what I
 - 漏洞环境搭建
 - 网络安装培训（14:00 - 16:30）
 - 英国绝地求生邀请赛 (19:15 - 20:30)
-- 和妈妈沟通（21:15 - 22:30）
+- 和妈妈沟通（21:15 - 22:30）[涉及Nginx](media/%E6%B6%89%E5%8F%8ANginx.)
+
+### 2019年04月18日
+
+- [我特么今天就告诉你圆明园到底是谁毁的！](https://mp.weixin.qq.com/s/MqLG38nKu0JvWsMdPgxg6A)
+- [NBA最新赛程直播，最热视频新闻](http://tiyu.baidu.com/match/NBA/tab/%E6%8E%92%E5%90%8D)
+- [CentOS7下实验之手动删除动态链接库文件并用光盘救援模式恢复系统实验](https://blog.csdn.net/miouqi/article/details/72991878)
+- [libc.so.6: cannot open shared object file报错处理](https://www.cnblogs.com/stone1989/p/8259352.html)
+- [mac下使用karabiner重定义键盘](http://devzc.com/post/470)
