@@ -1140,3 +1140,12 @@ The idea inspired by [leerduo](https://github.com/leerduo) , to take note what I
 - [CentOS7下实验之手动删除动态链接库文件并用光盘救援模式恢复系统实验](https://blog.csdn.net/miouqi/article/details/72991878)
 - [libc.so.6: cannot open shared object file报错处理](https://www.cnblogs.com/stone1989/p/8259352.html)
 - [mac下使用karabiner重定义键盘](http://devzc.com/post/470)
+
+
+### 2019年04月25日
+
+- devops-server 容器化，and Jenkins项目配置 （09:30 - 11:30）
+- 制作《网络安全培训》PPT（13:45 - 16:00）
+- 每周例会、技术分享（16:00 - 17:30 ）
+- 网络安全培训（18:00 - 19:15）
+- 『复仇者联盟4：终局之战』（19:40 - 22:40）
