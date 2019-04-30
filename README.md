@@ -1149,3 +1149,8 @@ The idea inspired by [leerduo](https://github.com/leerduo) , to take note what I
 - 每周例会、技术分享（16:00 - 17:30 ）
 - 网络安全培训（18:00 - 19:15）
 - 『复仇者联盟4：终局之战』（19:40 - 22:40）
+
+### 2019年04月30日
+
+- 帮弟弟解决高数问题
+- 《极简数据结构》
