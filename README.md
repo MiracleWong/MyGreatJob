@@ -1154,3 +1154,18 @@ The idea inspired by [leerduo](https://github.com/leerduo) , to take note what I
 
 - 帮弟弟解决高数问题
 - 《极简数据结构》
+
+### 2019年05月02日
+- AppleScript 学习
+    - [AppleScript 帮助](https://help.apple.com/applescript/mac/10.9/)
+    - [AppleScript完整的键位编码清单](https://eastmanreference.com/complete-list-of-applescript-key-codes)
+    - [AppleScript的终极入门手册](https://www.xuebuyuan.com/3245783.html)
+    - [手把手教你用 AppleScript 模拟鼠标键盘操作，实现 macOS 系统的自动化操作](https://sspai.com/post/43758)
+    - [AppleScript 入门：探索 macOS 自动化](https://sspai.com/post/46912)
+    - [AppleScript脚本入门](https://segmentfault.com/a/1190000011273388)
+    - [在 Mac 上使用 AppleScript 和“终端”自动执行任务](https://support.apple.com/zh-cn/guide/terminal/trml1003/mac)
+- [乌镇是假的](https://mp.weixin.qq.com/s/jBJmeGSnSpWiTKNRtO5G4w)
+- 《其实你很好》Ch4、Ch5
+- 得到专栏学习
+- 《地球百子》S03E08——S03E16
+- 《地球百子》S04E01——S04E05
