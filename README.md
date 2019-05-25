@@ -1176,3 +1176,9 @@ The idea inspired by [leerduo](https://github.com/leerduo) , to take note what I
 - 《其实你很好》
 - [我有放不下的过去，但我正往好的方向努力](https://mp.weixin.qq.com/s/4osUMIftAHlE7jgmqLR7FA)
 
+### 2019年05月25日
+- 采铜杭州读者签售会 13:45 - 17:30 （包含来回骑行时间）
+- 和父母沟通，就『原生家庭』种种问题达成一致 （21:15 - 23:45）
+
+> 人生到此翻篇了，从此为自己而活
+
