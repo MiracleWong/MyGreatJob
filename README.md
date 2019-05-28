@@ -1182,3 +1182,10 @@ The idea inspired by [leerduo](https://github.com/leerduo) , to take note what I
 
 > 人生到此翻篇了，从此为自己而活
 
+
+### 2019年05月28日
+
+- [当我们谈论张震时，在谈些什么](https://mp.weixin.qq.com/s/pJb9wIb3pE5THdMh4lUong)
+- [一周 App 派评：上周值得关注的 14 款应用 - 少数派](https://sspai.com/post/54948?from=weibo)
+- [刷爆全网的华语短诗大赛特等奖：我是使爸妈衰老的诸多事件之一](https://mp.weixin.qq.com/s/Pl1zGuUcMpzoyextc4V-WQ)
+
