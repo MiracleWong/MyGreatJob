@@ -1189,3 +1189,22 @@ The idea inspired by [leerduo](https://github.com/leerduo) , to take note what I
 - [一周 App 派评：上周值得关注的 14 款应用 - 少数派](https://sspai.com/post/54948?from=weibo)
 - [刷爆全网的华语短诗大赛特等奖：我是使爸妈衰老的诸多事件之一](https://mp.weixin.qq.com/s/Pl1zGuUcMpzoyextc4V-WQ)
 
+
+### 2019年06月01日
+- 理财：补充记录3、4、5月份的流水
+    - PS：
+-『罗辑思维』之『南明死局』1、2、3
+- 《精进2》ch2、ch3
+- 少数派文章阅读
+    * [表单 & 表格：打造全平台同步的投资笔记本](https://sspai.com/post/55025)
+    * [本周看什么：新海诚新作公布新预告，《哥斯拉 2：怪兽之王》正式上映](https://sspai.com/post/55008)
+    * [无线充电鼠标垫、桌面像素时钟灯…… 少数派的编辑们最近「买了啥」？](https://sspai.com/post/55018)
+        * LaMetric Time
+        * **TicWatchC2**
+        * **明基 MindDuo 儿童灯**
+    * [Hazel：自动整理，让你的 Mac 井井有条](https://sspai.com/post/35212)
+    * [使用 Hazel 自动清理微信缓存 ](https://sspai.com/post/55013)
+    * [如何快速寻找工具替代品 | 效率思维 ](https://sspai.com/post/54965)
+
+
+
