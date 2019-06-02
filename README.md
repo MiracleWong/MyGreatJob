@@ -888,7 +888,7 @@ The idea inspired by [leerduo](https://github.com/leerduo) , to take note what I
 - 阅读文章：
 	1. [自定义中文 Call Screen 问候语，让 Google Assistant 帮你拒接骚扰电话](https://sspai.com/post/53030)
 	2. [利用周末学习？我准备这么规划！](https://mp.weixin.qq.com/s/jGRG-zr8sM8yVmVXvOpr0w)
-	3. [三张桌面和三种状态 我的2018 - 少数派](https://sspai.com/post/52906)
+	3. [三张桌面和三种状态 我的2018](https://sspai.com/post/52906)
 - 补觉。（自己的周末学习计划，又一次失败了。对于任务的恐惧，让自己一次次陷于内耗之中。之前一直拖着没有复盘，更是将一次次唤醒自己的手环和闹钟关掉，让自己在半梦半醒间听着有声小说，还觉得是高效的利用时间）
 - Rails应用的Dockerfile编写
 
@@ -966,7 +966,7 @@ The idea inspired by [leerduo](https://github.com/leerduo) , to take note what I
 - [nginx 报错　nginx: could not build the variables_hash](http://www.bubuko.com/infodetail-1664633.html)
 - [教你如何利用NFS获取主机权限](http://dy.163.com/v2/article/detail/DJ0DLRK60511CJ6O.html)
 - [nfs服务权限配置](https://blog.51cto.com/12332766/2126316)
-- [OKR并非万能钥匙，我相信“效果为王” | 李檬相对论](https://mp.weixin.qq.com/s/U5iGLh0hKJ__WkdNp7Up0Q)
+- [OKR并非万能钥匙，我相信“效果为王” from 李檬相对论](https://mp.weixin.qq.com/s/U5iGLh0hKJ__WkdNp7Up0Q)
 - [利用 iPad Pro 打造个人学习体系](https://sspai.com/post/53093)
 - [了解肌肉构造和运动原理，帮你更科学和有效地健身：运动解剖](https://sspai.com/post/53082)
 - [如何在 Mac 上找回「右键新建文件」功能](https://sspai.com/post/53175)
@@ -1012,13 +1012,13 @@ The idea inspired by [leerduo](https://github.com/leerduo) , to take note what I
 
 ### 2019年03月17日
 
- [科学天才张亚勤的百度流浪之旅 | 深网](https://mp.weixin.qq.com/s/DlrYwYnbMLoPtZQtinMMBQ)
-[用捷径打造一个「早安助理」| 实用技巧 - 少数派](https://sspai.com/post/53288)
-- [使用了 100 多款米家智能硬件，这是我的购买推荐 - 少数派](https://sspai.com/post/53276)
+ [科学天才张亚勤的百度流浪之旅 from 深网](https://mp.weixin.qq.com/s/DlrYwYnbMLoPtZQtinMMBQ)
+[用捷径打造一个「早安助理」| 实用技巧](https://sspai.com/post/53288)
+- [使用了 100 多款米家智能硬件，这是我的购买推荐](https://sspai.com/post/53276)
 	- 评论：万物互联智能家居时代的标准形式，以后买房后的装修可以参考其中一些设备
-- [聊天第一印象很重要，如何做个一眼就能被人记住的头像？ - 少数派](https://sspai.com/post/53240)
-- [不仅系统监控要做得更出色，iStat Menu 6 还能让你在状态栏看天气了 - 少数派](https://sspai.com/post/41089)
-- [钥匙串上常备这 5 类小工具，解决生活中的小麻烦 - 少数派](https://sspai.com/post/44001)
+- [聊天第一印象很重要，如何做个一眼就能被人记住的头像？](https://sspai.com/post/53240)
+- [不仅系统监控要做得更出色，iStat Menu 6 还能让你在状态栏看天气了](https://sspai.com/post/41089)
+- [钥匙串上常备这 5 类小工具，解决生活中的小麻烦](https://sspai.com/post/44001)
 - 制定自己的"每日Routine和仪式感"
 
 ### 2019年03月18日
@@ -1186,7 +1186,7 @@ The idea inspired by [leerduo](https://github.com/leerduo) , to take note what I
 ### 2019年05月28日
 
 - [当我们谈论张震时，在谈些什么](https://mp.weixin.qq.com/s/pJb9wIb3pE5THdMh4lUong)
-- [一周 App 派评：上周值得关注的 14 款应用 - 少数派](https://sspai.com/post/54948?from=weibo)
+- [一周 App 派评：上周值得关注的 14 款应用](https://sspai.com/post/54948?from=weibo)
 - [刷爆全网的华语短诗大赛特等奖：我是使爸妈衰老的诸多事件之一](https://mp.weixin.qq.com/s/Pl1zGuUcMpzoyextc4V-WQ)
 
 
@@ -1204,7 +1204,26 @@ The idea inspired by [leerduo](https://github.com/leerduo) , to take note what I
         * **明基 MindDuo 儿童灯**
     * [Hazel：自动整理，让你的 Mac 井井有条](https://sspai.com/post/35212)
     * [使用 Hazel 自动清理微信缓存 ](https://sspai.com/post/55013)
-    * [如何快速寻找工具替代品 | 效率思维 ](https://sspai.com/post/54965)
+    * [如何快速寻找工具替代品](https://sspai.com/post/54965)
+
+# 2019-06-02
+
+- 《精进2》ch4、ch5
+- 购物 && 打扫整理房间
+- 6月份目标制定
+- 少数派文章阅读
+  * [搜索资源、跟踪更新、交流反馈……掌握这些技巧你也能找到 GitHub 上的好资源](https://sspai.com/post/54990)
+  * [帮人加中英文空格加到手软？用 textlint 自动完成文本检查与校对](https://sspai.com/post/55006)
+  * [用这 5 款效率工具来替代 PopClip from 工作日志](https://sspai.com/post/55010)
+  * [如何快速寻找工具替代品 from 效率思维](https://sspai.com/post/54965)
+  * [不仅仅是阅读模式的 Chrome 优化插件：简悦 from 工具推荐](https://sspai.com/post/54846)
+  * [YouTube 著名科技频道 Linus Tech Tips 是如何协同工作的 from 奏折 22](https://sspai.com/post/54785)
+  * [macOS 输入法切换进阶解决方案](https://sspai.com/post/54685)
+  * [如何把网页制作成个性化电子书 from 实用技巧](https://sspai.com/post/54578)
+  * [Steam Link 能让你在 iOS 上玩 PC 大作吗？from 奏折 23](https://sspai.com/post/54935)
+  	- Carbon：代码带壳截图
+  	- 正则：**RegExhibit**
+
 
 
 
