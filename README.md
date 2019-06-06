@@ -1223,7 +1223,12 @@ The idea inspired by [leerduo](https://github.com/leerduo) , to take note what I
   * [Steam Link 能让你在 iOS 上玩 PC 大作吗？from 奏折 23](https://sspai.com/post/54935)
   	- Carbon：代码带壳截图
   	- 正则：**RegExhibit**
-
+  
+# 2019-06-02
+* 『喜欢你我也是』E01、E02、E05 （19:45 - 22:00）
+* [《2019程序员高考全国卷》](https://mp.weixin.qq.com/s/riBRzu7ebTjzXZjkenb8Fw)
+* [Cloud Outliner 2 for Mac：更适合 Evernote 用户的大纲工具](https://sspai.com/post/51259)
+* [iPad 变身无线第二屏，macOS 10.15 这些新功能不容错过 - 少数派](https://sspai.com/post/55077)
 
 
 
