@@ -997,7 +997,7 @@ The idea inspired by [leerduo](https://github.com/leerduo) , to take note what I
 ### 2019年03月08日
 - [34 款 Windows 应用，每一款都是神器](https://sspai.com/post/53160)
 - [必须收藏！50个最流行的免费Kubernetes工具集](http://cloud.51cto.com/art/201806/576406.htm)
-- [最全的50+易用Docker工具列表指南](https://www.infoq.cn/article/C*aZiIsuHT9jJTjzicYE)
+- [最全的50+易用Docker工具列表指南](https://www.infoq.cn/article/C-aZiIsuHT9jJTjzicYE)
 - 工作：Postman测试IOT & 数据服务接口成功
 - 工作：完成Harbor两个仓库的迁移，并排查出线上Docker 环境的配置错误。
 - 帮弟弟安装VisulBox（Windows 10 解决Hyper-V错误）
@@ -1196,15 +1196,15 @@ The idea inspired by [leerduo](https://github.com/leerduo) , to take note what I
 -『罗辑思维』之『南明死局』1、2、3
 - 《精进2》ch2、ch3
 - 少数派文章阅读
-    * [表单 & 表格：打造全平台同步的投资笔记本](https://sspai.com/post/55025)
-    * [本周看什么：新海诚新作公布新预告，《哥斯拉 2：怪兽之王》正式上映](https://sspai.com/post/55008)
-    * [无线充电鼠标垫、桌面像素时钟灯…… 少数派的编辑们最近「买了啥」？](https://sspai.com/post/55018)
-        * LaMetric Time
-        * **TicWatchC2**
-        * **明基 MindDuo 儿童灯**
-    * [Hazel：自动整理，让你的 Mac 井井有条](https://sspai.com/post/35212)
-    * [使用 Hazel 自动清理微信缓存 ](https://sspai.com/post/55013)
-    * [如何快速寻找工具替代品](https://sspai.com/post/54965)
+    - [表单 & 表格：打造全平台同步的投资笔记本](https://sspai.com/post/55025)
+    - [本周看什么：新海诚新作公布新预告，《哥斯拉 2：怪兽之王》正式上映](https://sspai.com/post/55008)
+    - [无线充电鼠标垫、桌面像素时钟灯…… 少数派的编辑们最近「买了啥」？](https://sspai.com/post/55018)
+        - LaMetric Time
+        - --TicWatchC2--
+        - --明基 MindDuo 儿童灯--
+    - [Hazel：自动整理，让你的 Mac 井井有条](https://sspai.com/post/35212)
+    - [使用 Hazel 自动清理微信缓存 ](https://sspai.com/post/55013)
+    - [如何快速寻找工具替代品](https://sspai.com/post/54965)
 
 # 2019-06-02
 
@@ -1212,23 +1212,40 @@ The idea inspired by [leerduo](https://github.com/leerduo) , to take note what I
 - 购物 && 打扫整理房间
 - 6月份目标制定
 - 少数派文章阅读
-  * [搜索资源、跟踪更新、交流反馈……掌握这些技巧你也能找到 GitHub 上的好资源](https://sspai.com/post/54990)
-  * [帮人加中英文空格加到手软？用 textlint 自动完成文本检查与校对](https://sspai.com/post/55006)
-  * [用这 5 款效率工具来替代 PopClip from 工作日志](https://sspai.com/post/55010)
-  * [如何快速寻找工具替代品 from 效率思维](https://sspai.com/post/54965)
-  * [不仅仅是阅读模式的 Chrome 优化插件：简悦 from 工具推荐](https://sspai.com/post/54846)
-  * [YouTube 著名科技频道 Linus Tech Tips 是如何协同工作的 from 奏折 22](https://sspai.com/post/54785)
-  * [macOS 输入法切换进阶解决方案](https://sspai.com/post/54685)
-  * [如何把网页制作成个性化电子书 from 实用技巧](https://sspai.com/post/54578)
-  * [Steam Link 能让你在 iOS 上玩 PC 大作吗？from 奏折 23](https://sspai.com/post/54935)
+  - [搜索资源、跟踪更新、交流反馈……掌握这些技巧你也能找到 GitHub 上的好资源](https://sspai.com/post/54990)
+  - [帮人加中英文空格加到手软？用 textlint 自动完成文本检查与校对](https://sspai.com/post/55006)
+  - [用这 5 款效率工具来替代 PopClip from 工作日志](https://sspai.com/post/55010)
+  - [如何快速寻找工具替代品 from 效率思维](https://sspai.com/post/54965)
+  - [不仅仅是阅读模式的 Chrome 优化插件：简悦 from 工具推荐](https://sspai.com/post/54846)
+  - [YouTube 著名科技频道 Linus Tech Tips 是如何协同工作的 from 奏折 22](https://sspai.com/post/54785)
+  - [macOS 输入法切换进阶解决方案](https://sspai.com/post/54685)
+  - [如何把网页制作成个性化电子书 from 实用技巧](https://sspai.com/post/54578)
+  - [Steam Link 能让你在 iOS 上玩 PC 大作吗？from 奏折 23](https://sspai.com/post/54935)
   	- Carbon：代码带壳截图
-  	- 正则：**RegExhibit**
+  	- 正则：--RegExhibit--
   
-# 2019-06-02
-* 『喜欢你我也是』E01、E02、E05 （19:45 - 22:00）
-* [《2019程序员高考全国卷》](https://mp.weixin.qq.com/s/riBRzu7ebTjzXZjkenb8Fw)
-* [Cloud Outliner 2 for Mac：更适合 Evernote 用户的大纲工具](https://sspai.com/post/51259)
-* [iPad 变身无线第二屏，macOS 10.15 这些新功能不容错过 - 少数派](https://sspai.com/post/55077)
+# 2019-06-06
+- 『喜欢你我也是』E01、E02、E05 （19:45 - 22:00）
+- [《2019程序员高考全国卷》](https://mp.weixin.qq.com/s/riBRzu7ebTjzXZjkenb8Fw)
+- [Cloud Outliner 2 for Mac：更适合 Evernote 用户的大纲工具](https://sspai.com/post/51259)
+- [iPad 变身无线第二屏，macOS 10.15 这些新功能不容错过 - 少数派](https://sspai.com/post/55077)
 
 
+# 2019-06-07
+- 『喜欢你我也是』E03、E04、E06、E07、E08、E09
+- [追梦任务Django教程学习](https://sspai.com/post/51259)
+- [iPad 变身无线第二屏，macOS 10.15 这些新功能不容错过 - 少数派](https://sspai.com/post/55077)
+
+# 2019-06-11
+- devops平台线上容器化
+-  Alfred学习
+    - [妙用 Alfred 让你最近使用的文件触手可及 ](https://sspai.com/post/47063)
+    - [真正提升你的输入效率，从用好 Alfred 的这个功能开始：Alfred Snippets ](https://sspai.com/post/46034)
+    - [看起来很复杂的 DEVONthink 搜索，用 Alfred Workflow 就能轻松搞定 ](https://sspai.com/post/51174)
+    - [一切为了让效率更进一步，Alfred 4.0 更新详解 ](https://sspai.com/post/55098)
+    - [英文教科书又贵又难买？不如来这 7 个网站找找免费的电子版 ](https://sspai.com/post/55057)
+    - [Packal —— 一个 Alfred 扩展的聚合网站](http://www.packal.org/)
+    - [从 0 到 1 写一个 Alfred Workflow ](https://sspai.com/post/47710)
+    - [小白实践《从 0 到 1 写一个 Alfred Workflow》遇到的问题及解决方案 ](https://sspai.com/post/48386)
+- 《乐队的夏天》第3期
 
