@@ -1249,3 +1249,18 @@ The idea inspired by [leerduo](https://github.com/leerduo) , to take note what I
     - [小白实践《从 0 到 1 写一个 Alfred Workflow》遇到的问题及解决方案 ](https://sspai.com/post/48386)
 - 《乐队的夏天》第3期
 
+# 2019-06-29
+
+- 《Go实战Crontab》
+- 《高效信息管理术》
+- 健身
+- 按摩
+- 整理房间
+- 《长安十二时辰》
+- 《我心深触》
+- 阅读：
+    - [科学保养锂电池，这些方法让你的手机更耐用 - 少数派](https://sspai.com/post/55393)
+    - [编辑部的新玩意：罗技、Brydge、iQunix——键盘](https://sspai.com/post/55411)
+    - [象厂出品的桌面便签，到底值不值得用？ - 少数派](https://sspai.com/post/55305)
+    - [我的Win10实用软件清单](https://mp.weixin.qq.com/s/VW5vSnXjGiaylS5027oHPA)
+
