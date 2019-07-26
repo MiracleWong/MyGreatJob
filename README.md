@@ -1264,3 +1264,15 @@ The idea inspired by [leerduo](https://github.com/leerduo) , to take note what I
     - [象厂出品的桌面便签，到底值不值得用？ - 少数派](https://sspai.com/post/55305)
     - [我的Win10实用软件清单](https://mp.weixin.qq.com/s/VW5vSnXjGiaylS5027oHPA)
 
+# 2019-7-26
+- 升岗答辩PPT制作
+- 升岗答辩（15:00 - 16:00）
+- 理发（18:40 - 18:50）
+- 《哪吒之魔童降世》(19:00 - 21:00)
+- 少数派阅读
+    - [超声波清洗机、减压神器…… 少数派的编辑们最近买了啥？](https://sspai.com/post/55883)
+    - [近 20 位中国摄影师横扫手机摄影届奥斯卡——IPPA](https://sspai.com/post/55894)
+    - [批量压缩、加水印、调整尺寸……用这 6 款 Mac 图片工具一键解决](https://sspai.com/post/55757)
+
+
+
