@@ -1292,3 +1292,14 @@ The idea inspired by [leerduo](https://github.com/leerduo) , to take note what I
 - 《个人战略-商业价值重塑课》第一次视频团建 (20:00 - 21:25)
 - 《个人战略-商业价值重塑课》P0学习 && 『个人战略十问』写作
 - 《长安十二时辰》36
+
+
+# 2019-09-06
+
+- 工作：上线新服务，新集群安装环境和改造Consul、Kafka、Charts等
+- FPX:RNG 总决赛
+- 写作：个人战略课每日一问
+- 剧集：『飞虎之雷霆激战』1
+- 阅读：
+	- [好看实用的文具配件，我想推荐这 10 款](https://sspai.com/post/56507)
+	- [5 款好用不贵的钢笔带你“入坑”](https://sspai.com/post/56264)
