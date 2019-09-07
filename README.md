@@ -1303,3 +1303,9 @@ The idea inspired by [leerduo](https://github.com/leerduo) , to take note what I
 - 阅读：
 	- [好看实用的文具配件，我想推荐这 10 款](https://sspai.com/post/56507)
 	- [5 款好用不贵的钢笔带你“入坑”](https://sspai.com/post/56264)
+
+# 2019-09-07
+
+- 《个人战略课》作业
+- 游泳练习
+- 杭州同学聚会
