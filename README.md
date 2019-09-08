@@ -1309,3 +1309,10 @@ The idea inspired by [leerduo](https://github.com/leerduo) , to take note what I
 - 《个人战略课》作业
 - 游泳练习
 - 杭州同学聚会
+
+# 2019-09-08
+
+- IG : TES 比赛
+- 《个人战略课》第8次讨论 21:00 - 22:45
+- 《极速写作》 第1、2、3章 19:45 - 20:45 
+- 《脱口秀大会》S02E09 
