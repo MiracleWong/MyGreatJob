@@ -1316,3 +1316,12 @@ The idea inspired by [leerduo](https://github.com/leerduo) , to take note what I
 - 《个人战略课》第8次讨论 21:00 - 22:45
 - 《极速写作》 第1、2、3章 19:45 - 20:45 
 - 《脱口秀大会》S02E09 
+
+# 2019-09-18
+
+- 《小狗钱钱》第6-10章
+- 『Python学习』列表生成式、生成器、迭代器
+- 阅读
+	- [周杰伦的格局怎么越来越小](https://mp.weixin.qq.com/s/gW3bchxmIQ6E6xO2m2cLlQ)
+	- [为什么听过很多道理，却依然过不好这一生？](https://mp.weixin.qq.com/s/gcPQEdcuDm3Z9cZ_iM1lJg)
+	- [长期主义者的“时间思维法”：把人生拉长到200年](http://blog.sina.com.cn/s/blog_4a78b4ee0102z6yc.html)
