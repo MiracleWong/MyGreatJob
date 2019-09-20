@@ -1325,3 +1325,11 @@ The idea inspired by [leerduo](https://github.com/leerduo) , to take note what I
 	- [周杰伦的格局怎么越来越小](https://mp.weixin.qq.com/s/gW3bchxmIQ6E6xO2m2cLlQ)
 	- [为什么听过很多道理，却依然过不好这一生？](https://mp.weixin.qq.com/s/gcPQEdcuDm3Z9cZ_iM1lJg)
 	- [长期主义者的“时间思维法”：把人生拉长到200年](http://blog.sina.com.cn/s/blog_4a78b4ee0102z6yc.html)
+
+# 2019-09-20
+
+- 《小狗钱钱》第11-13章
+- 『Python学习』
+- 『人生模式』第1章
+- 『使徒行者2』20:30 - 21:30
+- 尝试和学习新键盘（Plum & Niz Micro 84）
