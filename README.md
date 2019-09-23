@@ -1333,3 +1333,21 @@ The idea inspired by [leerduo](https://github.com/leerduo) , to take note what I
 - 『人生模式』第1章
 - 『使徒行者2』20:30 - 21:30
 - 尝试和学习新键盘（Plum & Niz Micro 84）
+
+# 2019-09-21
+	- 『Python基础教程』之 “内建模块”
+	- 《小狗钱钱》 第
+	- 阅读
+		- [数学建模竞赛在中国的蝗虫式增长](https://mp.weixin.qq.com/s/gKmUS0Viej5QPdGQxALiWw) 
+			- 评论：我也是当年美赛建模中的一员，当年老师就是明确告知了三等奖是成功参赛奖，但是在学校的考核里面确实按照国赛三等奖的标准来的，就使得很多人为了保研等原因，参与其中。
+			- 评论：当年我是国赛省三等奖，美赛二等奖（Honorable Mention）也因为两个奖项而成功保研。对此还是很感激当年的努力的自己、辅导老师和一起战斗的小伙伴们。
+		- [足浴女技师给我上了一堂价值超过69元的课](https://mp.weixin.qq.com/s/dBBrOLS37Og84wNPp7fb0Q)
+		- [除了“随便”，中午我还能吃什么？](https://mp.weixin.qq.com/s/xUXgKjKW9iRnSZgibdmYeg)
+		- [如何高效学习](https://kb.cnblogs.com/page/577233/)
+
+# 2019-09-23
+	- 『2019倒计时100天』的第100天
+	- 《小狗钱钱》 第14-16章
+	- 『Python学习』OOP 
+	- 足浴（18:30 - 19:30）
+	- Hexo 博客加入 Valine——无后端评论系统
