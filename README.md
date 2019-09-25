@@ -1351,3 +1351,15 @@ The idea inspired by [leerduo](https://github.com/leerduo) , to take note what I
 	- 『Python学习』OOP 
 	- 足浴（18:30 - 19:30）
 	- Hexo 博客加入 Valine——无后端评论系统
+
+# 2019-09-25
+	- 《小狗钱钱2》第1-4章
+	- 阅读
+		- [纯纯写作 3.0 - 愿文字带我们穿越时光，连接过去遥想未来](https://beta.sspai.com/post/43650)
+		- [为了帮你排雷，我们测试了 8 款 Type-C 拓展坞](https://beta.sspai.com/post/56761)
+		- [解锁更酷的「网上冲浪」姿势，近期上架的这 10 款 Chrome 扩展值得一试](https://beta.sspai.com/post/56725)
+		- [保护你的「经济身份证」，从全面了解个人征信开始](https://beta.sspai.com/post/56727)
+		- [保护隐私的 Sign in with Apple 上线了，它与别的「一键登录」有何不同？](https://beta.sspai.com/post/56733)
+		- [连续三年参加「年年焕新」之后，谈谈这个「半价换 iPhone」的计划值不值](https://beta.sspai.com/post/56744)
+		- [App+1 | 按来源和格式筛选，这款免费 Mac 剪贴板工具值得一试：Pasta](https://beta.sspai.com/post/56700)
+		- [Today at Apple：让父母也能拥抱智能设备](https://beta.sspai.com/post/56653)
