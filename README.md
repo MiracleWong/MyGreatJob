@@ -1335,31 +1335,48 @@ The idea inspired by [leerduo](https://github.com/leerduo) , to take note what I
 - 尝试和学习新键盘（Plum & Niz Micro 84）
 
 # 2019-09-21
-	- 『Python基础教程』之 “内建模块”
-	- 《小狗钱钱》 第
-	- 阅读
-		- [数学建模竞赛在中国的蝗虫式增长](https://mp.weixin.qq.com/s/gKmUS0Viej5QPdGQxALiWw) 
-			- 评论：我也是当年美赛建模中的一员，当年老师就是明确告知了三等奖是成功参赛奖，但是在学校的考核里面确实按照国赛三等奖的标准来的，就使得很多人为了保研等原因，参与其中。
-			- 评论：当年我是国赛省三等奖，美赛二等奖（Honorable Mention）也因为两个奖项而成功保研。对此还是很感激当年的努力的自己、辅导老师和一起战斗的小伙伴们。
-		- [足浴女技师给我上了一堂价值超过69元的课](https://mp.weixin.qq.com/s/dBBrOLS37Og84wNPp7fb0Q)
-		- [除了“随便”，中午我还能吃什么？](https://mp.weixin.qq.com/s/xUXgKjKW9iRnSZgibdmYeg)
-		- [如何高效学习](https://kb.cnblogs.com/page/577233/)
+
+- 『Python基础教程』之 “内建模块”
+- 《小狗钱钱》 第
+- 阅读
+	- [数学建模竞赛在中国的蝗虫式增长](https://mp.weixin.qq.com/s/gKmUS0Viej5QPdGQxALiWw) 
+		- 评论：我也是当年美赛建模中的一员，当年老师就是明确告知了三等奖是成功参赛奖，但是在学校的考核里面确实按照国赛三等奖的标准来的，就使得很多人为了保研等原因，参与其中。
+		- 评论：当年我是国赛省三等奖，美赛二等奖（Honorable Mention）也因为两个奖项而成功保研。对此还是很感激当年的努力的自己、辅导老师和一起战斗的小伙伴们。
+	- [足浴女技师给我上了一堂价值超过69元的课](https://mp.weixin.qq.com/s/dBBrOLS37Og84wNPp7fb0Q)
+	- [除了“随便”，中午我还能吃什么？](https://mp.weixin.qq.com/s/xUXgKjKW9iRnSZgibdmYeg)
+	- [如何高效学习](https://kb.cnblogs.com/page/577233/)
+
 
 # 2019-09-23
-	- 『2019倒计时100天』的第100天
-	- 《小狗钱钱》 第14-16章
-	- 『Python学习』OOP 
-	- 足浴（18:30 - 19:30）
-	- Hexo 博客加入 Valine——无后端评论系统
+
+- 『2019倒计时100天』的第100天
+- 《小狗钱钱》 第14-16章
+- 『Python学习』OOP 
+- 足浴（18:30 - 19:30）
+- Hexo 博客加入 Valine——无后端评论系统
 
 # 2019-09-25
-	- 《小狗钱钱2》第1-4章
-	- 阅读
-		- [纯纯写作 3.0 - 愿文字带我们穿越时光，连接过去遥想未来](https://beta.sspai.com/post/43650)
-		- [为了帮你排雷，我们测试了 8 款 Type-C 拓展坞](https://beta.sspai.com/post/56761)
-		- [解锁更酷的「网上冲浪」姿势，近期上架的这 10 款 Chrome 扩展值得一试](https://beta.sspai.com/post/56725)
-		- [保护你的「经济身份证」，从全面了解个人征信开始](https://beta.sspai.com/post/56727)
-		- [保护隐私的 Sign in with Apple 上线了，它与别的「一键登录」有何不同？](https://beta.sspai.com/post/56733)
-		- [连续三年参加「年年焕新」之后，谈谈这个「半价换 iPhone」的计划值不值](https://beta.sspai.com/post/56744)
-		- [App+1 | 按来源和格式筛选，这款免费 Mac 剪贴板工具值得一试：Pasta](https://beta.sspai.com/post/56700)
-		- [Today at Apple：让父母也能拥抱智能设备](https://beta.sspai.com/post/56653)
+
+- 《小狗钱钱2》第1-4章
+- 阅读
+	- [纯纯写作 3.0 - 愿文字带我们穿越时光，连接过去遥想未来](https://beta.sspai.com/post/43650)
+	- [为了帮你排雷，我们测试了 8 款 Type-C 拓展坞](https://beta.sspai.com/post/56761)
+	- [解锁更酷的「网上冲浪」姿势，近期上架的这 10 款 Chrome 扩展值得一试](https://beta.sspai.com/post/56725)
+	- [保护你的「经济身份证」，从全面了解个人征信开始](https://beta.sspai.com/post/56727)
+	- [保护隐私的 Sign in with Apple 上线了，它与别的「一键登录」有何不同？](https://beta.sspai.com/post/56733)
+	- [连续三年参加「年年焕新」之后，谈谈这个「半价换 iPhone」的计划值不值](https://beta.sspai.com/post/56744)
+	- [App+1 | 按来源和格式筛选，这款免费 Mac 剪贴板工具值得一试：Pasta](https://beta.sspai.com/post/56700)
+	- [Today at Apple：让父母也能拥抱智能设备](https://beta.sspai.com/post/56653)
+
+# 2019-10-10
+
+- [20 Python Snippets You Should Learn Today - Better Programming - Medium](https://medium.com/better-programming/20-python-snippets-you-should-learn-today-8328e26ff124)
+- [超实用的 30 段 Python 案例](https://mp.weixin.qq.com/s/_q1eJPXZYL7r6VAyjt7Jag)
+	- 评论：和上面的20个技巧一样，都是类似常用技巧的总结
+- [基于 Docker 的 Jenkins 持续集成与持续部署](https://mp.weixin.qq.com/s/h1aT-YNhOYosrZB7bscM4Q)
+- [Python 从入门到精通：一个月就够了！ - 知乎](https://zhuanlan.zhihu.com/p/85387965)
+- [你的大部分思绪都是无用的，却会控制你的生活](https://weibo.com/2124970203/IaIF0wYXh?type=comment)
+- [macOS Catalina 正式发布及 API 的一些变更](https://mp.weixin.qq.com/s/c20N440Wd1Gp1e5-fjdO6w)
+- [什么才是 iPad 的性价比？— iPad 10.2寸 评测](https://beta.sspai.com/post/56904)
+- [把 iPad 应用「一键」搬上 Mac，首批 Project Catalyst 应用体验怎样？ - 少数派](https://sspai.com/post/56926)
+	- 评论：时间尚早，试用了几个APP，和心目中的差距好大，让macOS Catalina 先飞一会
