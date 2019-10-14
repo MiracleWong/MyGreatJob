@@ -1380,3 +1380,20 @@ The idea inspired by [leerduo](https://github.com/leerduo) , to take note what I
 - [什么才是 iPad 的性价比？— iPad 10.2寸 评测](https://beta.sspai.com/post/56904)
 - [把 iPad 应用「一键」搬上 Mac，首批 Project Catalyst 应用体验怎样？ - 少数派](https://sspai.com/post/56926)
 	- 评论：时间尚早，试用了几个APP，和心目中的差距好大，让macOS Catalina 先飞一会
+
+# 2019-10-14
+
+- 个人知识体系构建（14:00 - 14:30 && 22:00 - 24:00）
+- 冥想（20:00 - 20:45）
+	- 明显还是没有入门的的，并没有感觉大正念中的那种可以感觉身体各个部分的能力，还是一如既往的走神
+- 健身（21:00 - 21:30）—— 深蹲 && 臂力
+- iPic、PicGo、upic 比较和配置七牛对象存储
+- 阅读
+	- [高估值时代结束了](https://mp.weixin.qq.com/s/QRQyRgASPOmgzwYlAHafmA)
+	- [不再温情的互联网大厂，与35岁危机的残酷真相](https://mp.weixin.qq.com/s/gv6kzuJ5SgiUvDQs0Zo-8g)
+	- [七种方法，教你培养持续学习的习惯](https://mp.weixin.qq.com/s/xO11EA4O_VLTZYUHDfkxcg)
+	- [GIT原理介绍](https://www.cnblogs.com/hzqyihui/p/11661082.html)
+	- [Python Weekly 418](https://mp.weixin.qq.com/s/9z6zLEbyNUF_tyvO4l6xVw)
+	- [像投资人一样，90 后饭圈女孩们冷静计算着自己的回报](https://mp.weixin.qq.com/s/MxIvRTgVTU-JCo1hDOJ9UQ)
+	- [伸手党的福音，6个Python练手项目](https://mp.weixin.qq.com/s/BeqtXwT6bPYnJ75H_xdlAA)
+	- [iPic - Markdown 图床、文件上传工具](https://toolinbox.net/iPic/)
