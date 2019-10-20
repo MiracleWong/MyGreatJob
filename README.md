@@ -1400,12 +1400,12 @@ The idea inspired by [leerduo](https://github.com/leerduo) , to take note what I
 
 # 2019-10-20
 
-	- 阅读
-		- [草](https://mp.weixin.qq.com/s/YZ4xIPxrhGXIw6pCPLcitQ)
-		- [普林斯顿中国籍教授：中国学生是怎样被一步步淘汰掉的？](https://mp.weixin.qq.com/s/U-tuKBp1e-cfBuE0ixj8dw)
-		- [李安：心中有鬼](https://weibo.com/ttarticle/p/show?id=2309404421239920787673)
-		- [一个非典型程序员在 Mac 上使用的效率工具](https://sspai.com/post/57064)
-		- [香港医生，医界之耻](https://mp.weixin.qq.com/s/tTbDio2iZaydydD1o1HNXw)
-		- [地球上很多人吃不上饭，为什么还要探索宇宙？](https://www.douban.com/group/topic/40329180/)
-	- 《双子杀手》 17:30 - 19:30
-	- 构建个人知识管理系统（15:30 - 17:30 && 20:30 - 23:30）
+- 阅读
+	- [草](https://mp.weixin.qq.com/s/YZ4xIPxrhGXIw6pCPLcitQ)
+	- [普林斯顿中国籍教授：中国学生是怎样被一步步淘汰掉的？](https://mp.weixin.qq.com/s/U-tuKBp1e-cfBuE0ixj8dw)
+	- [李安：心中有鬼](https://weibo.com/ttarticle/p/show?id=2309404421239920787673)
+	- [一个非典型程序员在 Mac 上使用的效率工具](https://sspai.com/post/57064)
+	- [香港医生，医界之耻](https://mp.weixin.qq.com/s/tTbDio2iZaydydD1o1HNXw)
+	- [地球上很多人吃不上饭，为什么还要探索宇宙？](https://www.douban.com/group/topic/40329180/)
+- 《双子杀手》 17:30 - 19:30
+- 构建个人知识管理系统（15:30 - 17:30 && 20:30 - 23:30）
