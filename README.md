@@ -1409,3 +1409,10 @@ The idea inspired by [leerduo](https://github.com/leerduo) , to take note what I
 	- [地球上很多人吃不上饭，为什么还要探索宇宙？](https://www.douban.com/group/topic/40329180/)
 - 《双子杀手》 17:30 - 19:30
 - 构建个人知识管理系统（15:30 - 17:30 && 20:30 - 23:30）
+
+# 2019-12-03
+
+- 阅读
+	- [兽爷丨大象踩了他一脚](https://mp.weixin.qq.com/s/UaN3WphW0W6sn47L65f8MQ)
+	- [用Notion来做一份旅行计划吧！](https://sspai.com/post/57656)
+	- [Matrix 周报：第045期](https://sspai.com/post/57667)
