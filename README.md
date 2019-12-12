@@ -1228,13 +1228,13 @@ The idea inspired by [leerduo](https://github.com/leerduo) , to take note what I
 - 『喜欢你我也是』E01、E02、E05 （19:45 - 22:00）
 - [《2019程序员高考全国卷》](https://mp.weixin.qq.com/s/riBRzu7ebTjzXZjkenb8Fw)
 - [Cloud Outliner 2 for Mac：更适合 Evernote 用户的大纲工具](https://sspai.com/post/51259)
-- [iPad 变身无线第二屏，macOS 10.15 这些新功能不容错过 - 少数派](https://sspai.com/post/55077)
+- [iPad 变身无线第二屏，macOS 10.15 这些新功能不容错过](https://sspai.com/post/55077)
 
 
 # 2019-06-07
 - 『喜欢你我也是』E03、E04、E06、E07、E08、E09
 - [追梦任务Django教程学习](https://sspai.com/post/51259)
-- [iPad 变身无线第二屏，macOS 10.15 这些新功能不容错过 - 少数派](https://sspai.com/post/55077)
+- [iPad 变身无线第二屏，macOS 10.15 这些新功能不容错过](https://sspai.com/post/55077)
 
 # 2019-06-11
 - devops平台线上容器化
@@ -1259,9 +1259,9 @@ The idea inspired by [leerduo](https://github.com/leerduo) , to take note what I
 - 《长安十二时辰》
 - 《我心深触》
 - 阅读：
-    - [科学保养锂电池，这些方法让你的手机更耐用 - 少数派](https://sspai.com/post/55393)
+    - [科学保养锂电池，这些方法让你的手机更耐用](https://sspai.com/post/55393)
     - [编辑部的新玩意：罗技、Brydge、iQunix——键盘](https://sspai.com/post/55411)
-    - [象厂出品的桌面便签，到底值不值得用？ - 少数派](https://sspai.com/post/55305)
+    - [象厂出品的桌面便签，到底值不值得用？](https://sspai.com/post/55305)
     - [我的Win10实用软件清单](https://mp.weixin.qq.com/s/VW5vSnXjGiaylS5027oHPA)
 
 # 2019-7-26
@@ -1378,7 +1378,7 @@ The idea inspired by [leerduo](https://github.com/leerduo) , to take note what I
 - [你的大部分思绪都是无用的，却会控制你的生活](https://weibo.com/2124970203/IaIF0wYXh?type=comment)
 - [macOS Catalina 正式发布及 API 的一些变更](https://mp.weixin.qq.com/s/c20N440Wd1Gp1e5-fjdO6w)
 - [什么才是 iPad 的性价比？— iPad 10.2寸 评测](https://beta.sspai.com/post/56904)
-- [把 iPad 应用「一键」搬上 Mac，首批 Project Catalyst 应用体验怎样？ - 少数派](https://sspai.com/post/56926)
+- [把 iPad 应用「一键」搬上 Mac，首批 Project Catalyst 应用体验怎样？](https://sspai.com/post/56926)
 	- 评论：时间尚早，试用了几个APP，和心目中的差距好大，让macOS Catalina 先飞一会
 
 # 2019-10-14
@@ -1416,3 +1416,12 @@ The idea inspired by [leerduo](https://github.com/leerduo) , to take note what I
 	- [兽爷丨大象踩了他一脚](https://mp.weixin.qq.com/s/UaN3WphW0W6sn47L65f8MQ)
 	- [用Notion来做一份旅行计划吧！](https://sspai.com/post/57656)
 	- [Matrix 周报：第045期](https://sspai.com/post/57667)
+
+# 2019-12-12
+
+- 『好好学习』
+- 阅读
+	- [Matrix 群讨论: 这一年我和习惯的故事](https://sspai.com/post/57835)
+	- [快捷指令的第三方工具支持现状](https://sspai.com/post/57778)
+	- [12 款新年手帐推荐，与你的 2020 年一起重新出发](https://sspai.com/post/57753)
+	- [每天在手机上听播客、电台的你，为什么还需要备一台收音机？](https://sspai.com/post/57694)
