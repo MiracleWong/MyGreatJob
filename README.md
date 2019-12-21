@@ -1425,3 +1425,17 @@ The idea inspired by [leerduo](https://github.com/leerduo) , to take note what I
 	- [快捷指令的第三方工具支持现状](https://sspai.com/post/57778)
 	- [12 款新年手帐推荐，与你的 2020 年一起重新出发](https://sspai.com/post/57753)
 	- [每天在手机上听播客、电台的你，为什么还需要备一台收音机？](https://sspai.com/post/57694)
+
+# 2019-12-21
+
+- 『好好学习』 ch3 阅读 + 笔记
+- 阅读
+	- [分布式游戏服务器通用架构的设计](https://gitbook.cn/books/5d78ff1da7490d1d01404870/index.html)
+		- 评论：里面的Ansible，食之无味弃之不可惜，以后的文章避免类似
+	- [实践子弹笔记一年，最后我留下了这些实用「模块」](https://sspai.com/post/57973)
+	- [新玩意 | 米家多模网关、索尼 WI-1000XM2……编辑们最近买了啥？](https://sspai.com/post/57955)
+	- [一次「买椟还珠」的选择——得到阅读器体验](https://sspai.com/post/57889)
+		- 评论：作者的思路非常的好，只是将工具当做工具使用，套用自己使用已经的系统，再次基础上进行了适配，而不是跟随工具的生态去发展。
+	- [这 11 个来自飞书的「灵感时刻」，让你的办公协作效率加倍](https://sspai.com/post/57893)
+	- [在 Mac 上便捷无痛升级 app 的全新姿势 —— MacUpdater](https://sspai.com/post/57846)
+	- [《庆余年》火得理所当然，IP剧就该这么拍！](https://mp.weixin.qq.com/s/xaKYfX_ztK9jlv5vInXpsw)
