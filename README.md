@@ -1439,3 +1439,27 @@ The idea inspired by [leerduo](https://github.com/leerduo) , to take note what I
 	- [这 11 个来自飞书的「灵感时刻」，让你的办公协作效率加倍](https://sspai.com/post/57893)
 	- [在 Mac 上便捷无痛升级 app 的全新姿势 —— MacUpdater](https://sspai.com/post/57846)
 	- [《庆余年》火得理所当然，IP剧就该这么拍！](https://mp.weixin.qq.com/s/xaKYfX_ztK9jlv5vInXpsw)
+
+
+# 2020年
+
+## 2020年01月
+
+### 2020-01-01
+
+- 阅读
+	- [2019 年度盘点：这 8 款效率工具，助你在新一年事半功倍](https://sspai.com/post/58004)
+		- iPadOs
+		- Quicker
+		- 飞书
+		- Notion
+		- **GoodNotes**
+		- **Procreate**
+		- **Moze**
+		- Microsoft To Do
+	- [Hidden Bar：一键折叠，给 macOS 菜单栏解压](https://sspai.com/post/58194)
+	- [一周 App 派评 | 近期值得关注的 9 款应用 - 少数派](https://sspai.com/post/58187)
+	- [无需第三方工具，5 个技巧让 Win10 更整洁 - 少数派](https://sspai.com/post/58167)
+	- [戈恩的逃亡](https://weibo.com/1670183810/InolHiS3b?type=repost#_rnd1577844712392)
+- 『2019-2020 时间的朋友跨年演讲』
+- 『学会写作』ch1-ch2
