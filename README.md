@@ -1458,8 +1458,37 @@ The idea inspired by [leerduo](https://github.com/leerduo) , to take note what I
 		- **Moze**
 		- Microsoft To Do
 	- [Hidden Bar：一键折叠，给 macOS 菜单栏解压](https://sspai.com/post/58194)
-	- [一周 App 派评 | 近期值得关注的 9 款应用 - 少数派](https://sspai.com/post/58187)
-	- [无需第三方工具，5 个技巧让 Win10 更整洁 - 少数派](https://sspai.com/post/58167)
+	- [一周 App 派评 | 近期值得关注的 9 款应用](https://sspai.com/post/58187)
+	- [无需第三方工具，5 个技巧让 Win10 更整洁](https://sspai.com/post/58167)
 	- [戈恩的逃亡](https://weibo.com/1670183810/InolHiS3b?type=repost#_rnd1577844712392)
 - 『2019-2020 时间的朋友跨年演讲』
 - 『学会写作』ch1-ch2
+
+
+### 2020-01-01
+
+- 阅读
+	- [Mac 上常用的系统功能，让 One Switch 帮你一键「开关」](https://sspai.com/post/58186)
+		- 评论：SetApp上早已上架，真香。
+	- [AirPods Pro 开箱体验+不完全评测+疑问解答](https://imtx.me/archives/2803.html)
+	- [特斯拉 Model 3 不到 30 万了，快来看春节前购买指南 - 少数派](https://sspai.com/post/58246)
+
+
+### 2020-01-08
+
+- 阅读：
+	- [分享大文件必须买会员？5 款替代百度网盘的好选择](https://sspai.com/post/58316)
+	- [健身、游戏、生产力，这是我的 2019 购物清单](https://sspai.com/post/58286)
+	- [程序员常逛的 Github，原来是个隐藏的学习网站](https://sspai.com/post/58120)
+	- [数据控如何使用「大数据架构」记录我的 2019 年](https://sspai.com/post/58284)
+	- [如何策划一场「说走就走」的冰岛旅行](https://sspai.com/post/58039)
+	- [找对书籍和阅读方式，你也能轻松「入坑」英文原著](https://sspai.com/post/58325)
+	- [PicGo v2.2 更新，快捷键系统与一波插件推荐](https://sspai.com/post/58223)
+	- [图片/文件上传如此简单｜macOS 图床客户端 uPic](https://sspai.com/post/58280)
+	- [给一年前自己的一封信](https://sspai.com/post/58231)
+	- [一篇写作心得，开启 2020 年写作之旅](https://sspai.com/post/58158)
+	- [找对书籍和阅读方式，你也能轻松「入坑」英文原著](https://sspai.com/post/58325)
+	- [您的避险资产投资指南，请注意查收](https://sspai.com/post/58318)
+	- [姚海军：一个科幻编辑的2019书单](https://mp.weixin.qq.com/s/JVZSx0h849X3p0tSBBmYFQ)
+		- 陈揪帆：人生算法
+	- [李银河、曾奇峰教你兵来将挡：过年被催婚？婚姻变无性？不怕！](https://mp.weixin.qq.com/s/IXeAJEc-bUuwOdIzcXmzRQ)
