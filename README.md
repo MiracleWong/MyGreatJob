@@ -1496,7 +1496,7 @@ The idea inspired by [leerduo](https://github.com/leerduo) , to take note what I
 ### 2020-01-28
 
 - 阅读：
-	- [晨星创投主席陈乐宗：我首先是科学家，然后才是投资人](https://mp.weixin.qq.com/s?__biz=MzAwMzc2MTA4Ng==&mid=2247488543&idx=1&sn=736c41078d92e84bc4889d16233becd6&source=41#wechat_redirect)
+	- [晨星创投主席陈乐宗：我首先是科学家，然后才是投资人](https://mp.weixin.qq.com/s/pISAKRaOOGspjH86SFBwNA)
 		- 我们渴望知悉未来的动机源于人类与生俱来的不安全感
 		- 我生逢其时其地，有幸赶上了生技时代的到来；而我自己的各种人生经历，亦使我得以参与其中。
 		- 回顾往昔，塑造我的这些人生经历骤看起来更像是一系列偶然事件的组合。
