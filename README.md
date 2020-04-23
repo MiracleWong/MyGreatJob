@@ -1533,5 +1533,86 @@ The idea inspired by [leerduo](https://github.com/leerduo) , to take note what I
 	- [SET 法则：过好每一天的时间管理之道](https://sspai.com/post/58761)
 	- [FM 3.14｜这半个月里，我靠这些声音安心宁神](https://sspai.com/post/58893)
 	- [Notion 在 Windows 上的客户端太难看了？我们一起来美化一下它](https://sspai.com/post/58796)
+	- [疫情灾难下的10条定律，重新理解这一切荒诞现实](https://mp.weixin.qq.com/s/SmOqS4SVF5PC-oioww-9IQ)
 - 《数据分析实战45讲》(20:00 - 21:00)
 - 整理房间 (19:00 - 20:00)
+
+## 2020年03月
+
+
+### 2020-03-29
+
+- 阅读 
+	- [人造钻石，会终结“钻石恒久远，一颗永流传”的神话吗？](https://mp.weixin.qq.com/s/3kIEWRIX02v_pIvc-O8UeA)
+		- **一切商业的核心价值，都源自于稀缺，和对稀缺的定价。**
+		- 越稀缺，越不可替代，就越有定价权。
+		- **商家想尽一切方式，诸如：打磨产品、开发技术、研发专利、提升服务、打造平台等。**这一切的背后，都是为了拥有一段时间的稀缺性，从而掌握定价权。
+		- 一场“维护稀缺”和“摧毁稀缺”的博弈，这就是整个商业市场每天重复的事情。
+	- [如何更好地清理 Time Machine 备份](http://static.sspai.com/post/59368)
+		- 很好的备份策略
+		- 评论：自己一直很想写类似的文章，但是一直没写。不过就算是写了，也没有作者写得好。自己没有扩展性
+
+### 2020.03.20
+
+- 技术博文
+	- [学会这几个k8s奇技淫巧，为你每天省出一小时](https://mp.weixin.qq.com/s/3i1Gu8ofy5utUm8FnXj2Rg)
+	- [Kubernetes 部署 Kubernetes-Dashboard v2.0.0 尝鲜 · 小豆丁个人博客](http://www.mydlq.club/article/28/)
+	- [还在寻找马航MH370碎片的人](https://mp.weixin.qq.com/s/SdhTLtNIp3Wd-VMoREyLxg)
+	- [如何在10分钟内用Prometheus和Grafana监控Django应用 - DockOne.io](http://dockone.io/article/9790)
+	- [tree：以树形结构显示目录下的内容 - 七月流星雨 - 博客园](https://www.cnblogs.com/scajy/p/9795394.html)
+
+### 2020.03.31
+
+- 阅读
+	- [把课程表做成通用日历，灵活安排学习计划](https://sspai.com/post/59694)
+		- Python实例
+	- [任天堂突然召开 mini 直面会，上半年能玩到这些 Switch 新游戏](https://sspai.com/post/59696)
+		- 我没有来得及买，就一直没有机会了
+	- [Windows 版微信重磅功能公测，可以更方便玩小游戏了](https://sspai.com/post/59670)
+		- 需要更新Windows版本的微信
+	- [如何阻止 iCloud 同步某个文件夹？](https://sspai.com/post/59689)
+		- 可以学习如何编写macOS上的工作流
+	- [互联网与我的生活｜我用这些方法夺回被侵占的注意力 ](https://sspai.com/post/59606)
+	- [2020 年，我的微信公众号 Windows 平台流程化写作与发布心得](https://sspai.com/post/59652)
+
+## 2020年04月
+
+### 2020-04-01
+
+- 阅读
+	- [2020：抛弃幻想，接受时代变化的现实 | 宁南山](https://mp.weixin.qq.com/s/050v5XEtLc6QidElt7Bv6Q)
+
+### 2020-04-05
+
+- 阅读
+	- [从瑞幸造假，聊聊我所亲历的中概股造假和做空往事](https://www.huxiu.com/article/348691.html)
+	- [安永捅破瑞幸“脓包”幕后：不再沉默的职业看门人](https://www.huxiu.com/article/348621.html)
+	- [瑞幸的男人们毫无悔意](https://www.huxiu.com/article/348550.html)
+	- [5位做空报告参与者讲述：我们是怎么调查瑞幸的](https://www.huxiu.com/article/348597.html)
+	- [瑞幸盘前暴跌之际，重温浑水做空报告](https://www.huxiu.com/article/337583.html)
+	- [​瑞幸故事中的“老实人”、“事后诸葛亮”和“民族英雄”](https://www.huxiu.com/article/348461.html)
+	- [瑞幸为什么需要造假](https://www.huxiu.com/article/348366.html)
+	- [瑞幸咖啡更“苦”了](https://www.huxiu.com/article/313533.html?f=member_article)
+
+### 2020-04-06
+
+- 阅读 
+	- [做空瑞幸的“浑水们”，是市场的清道夫，值得被尊敬](https://mp.weixin.qq.com/s/SlrFoqGRHeONl9DkTW6ozA)
+	- [咖啡洒了一地，“神州系”的出行故事还能说圆吗？](https://www.huxiu.com/article/348718.html)
+	- [瑞幸的锅，安永不背](https://www.huxiu.com/article/348703.html)
+	- [瑞幸遭遇财务造假危机：它的商业模式到底是什么？](https://mp.weixin.qq.com/s/owJk6pZBz48RMmSwtgGFuQ)
+
+### 2020-04-21
+
+- 阅读
+	- [看到世界的另一面](https://mp.weixin.qq.com/s/V1eqZho9FpkLlq_E53Zs_Q)
+	- [文石 BOOX Nova 2 阅读器体验：不只是阅读器，还能做你的灵感画板](https://www.ifanr.com/1320285)
+	- [腾讯拥有一个游戏联盟，但也无法阻止进击的字节跳动  ](https://www.ifanr.com/1330226)
+	- [被遗忘的手机桌面小部件](https://www.ifanr.com/1330515)
+	- [iPad Pro的秒空键盘用起来怎么样？](https://weibo.com/ttarticle/p/show?id=2309404496269623033995#_0)
+### 2020-04-22
+
+- 阅读
+	- [童大焕：负价格时代 打趴一个国家轻而易举](https://mp.weixin.qq.com/s/wZdHAf5fv721qq3AYeQ02w)
+	- [胡耀邦：坚决不许对作家打棍子，人家打棍子时候我们要保护他们](https://mp.weixin.qq.com/s/iGFz4QOZJlLfI49Nt7HgOg)
+	- [写一个开源的 macOS 程序可以赚多少钱？](https://mp.weixin.qq.com/s/sRmKqJ4w3N7_6mh2e8i14g)
