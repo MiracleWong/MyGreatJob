@@ -1609,10 +1609,24 @@ The idea inspired by [leerduo](https://github.com/leerduo) , to take note what I
 	- [文石 BOOX Nova 2 阅读器体验：不只是阅读器，还能做你的灵感画板](https://www.ifanr.com/1320285)
 	- [腾讯拥有一个游戏联盟，但也无法阻止进击的字节跳动  ](https://www.ifanr.com/1330226)
 	- [被遗忘的手机桌面小部件](https://www.ifanr.com/1330515)
-	- [iPad Pro的秒空键盘用起来怎么样？](https://weibo.com/ttarticle/p/show?id=2309404496269623033995#_0)
+	- [iPad Pro的妙控键盘用起来怎么样？](https://weibo.com/ttarticle/p/show?id=2309404496269623033995#_0)
+
 ### 2020-04-22
 
 - 阅读
 	- [童大焕：负价格时代 打趴一个国家轻而易举](https://mp.weixin.qq.com/s/wZdHAf5fv721qq3AYeQ02w)
 	- [胡耀邦：坚决不许对作家打棍子，人家打棍子时候我们要保护他们](https://mp.weixin.qq.com/s/iGFz4QOZJlLfI49Nt7HgOg)
 	- [写一个开源的 macOS 程序可以赚多少钱？](https://mp.weixin.qq.com/s/sRmKqJ4w3N7_6mh2e8i14g)
+
+### 2020-07-27
+
+- 阅读
+	- [料理时间大缩减，用这些美味半成品给自己加个餐](https://sspai.com/post/61750)
+	- [如何打造个人核心竞争力](https://sspai.com/post/61633)
+	- [Nextcloud 和我的一天](https://sspai.com/post/61711)
+	- [从苹果的系统更新，理解设计中的「控制」与「自由」](https://sspai.com/post/61174)
+	- [愿你像风一样自由：7 款游戏带你感受飞翔的乐趣与禅意](https://sspai.com/post/61611)
+	- [少数派员工的桌面长啥样？桌面陈设大揭秘第一弹](https://sspai.com/post/61695)
+	- [「铲屎官」的自我修养——入职考核篇](https://sspai.com/post/61043)
+	- [派评 | 近期值得关注的 12 款 App](https://sspai.com/post/61730)
+		- PliimPRO  不错，From SetApp
