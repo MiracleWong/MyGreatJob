@@ -1,0 +1,10 @@
+{
+  "name" : "MyGreatJob",
+  "fileExtension" : ".md",
+  "autoUploadInsertedImageKey" : "mweb-https:\/\/upload-z2.qiniup.com",
+  "autoUploadInsertedImage" : false,
+  "folderType" : 10,
+  "mediaFloder" : "media",
+  "orderBy" : 0,
+  "newlinesToBR" : 0
+}
