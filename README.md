@@ -1644,3 +1644,7 @@ The idea inspired by [leerduo](https://github.com/leerduo) , to take note what I
 	- [Notion 新版本：反向链接与行内页面🕸️](https://sspai.com/post/62780)
 - 晚饭
 	- 西贝：番茄鸡蛋面+牛肉串 ✖️ 2
+
+### 2020-09-22
+
+- 《自我发展心理学》特别放送6讲
