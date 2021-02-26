@@ -1648,3 +1648,33 @@ The idea inspired by [leerduo](https://github.com/leerduo) , to take note what I
 ### 2020-09-22
 
 - 《自我发展心理学》特别放送6讲
+
+## 2020-10
+### 2020-10-13
+
+- 『姜胡说』直播：21:00 - 22:00
+- 阅读
+    - [Chrome 86 与 Edge 86 齐更新，这 9 项新功能值得关注](https://sspai.com/post/63084)
+    - [少数派的 2020，「折腾」永无止境](https://sspai.com/post/63061)
+    - [你可能需要的好用眼罩：躺岛树荫眼罩](https://sspai.com/post/63076)
+    - [iOS 14 支持「自定义」图标了，如何把桌面玩出花样？](https://sspai.com/post/63085)
+    - [跨平台、高颜值，国产记账应用新选择：小象记账](https://sspai.com/post/63087)
+    - [步步为营做好课堂展示——我的 Presentation 动作分解](https://sspai.com/post/63036)
+    - [macOS 翻译工具 Bob 大更新：支持更多翻译服务，增强 OCR 功能](https://sspai.com/post/62721)
+    - [Mermaid，就像用 Markdown 码字一样，高效制作简易流图](https://sspai.com/post/63055)
+    - [本周看什么 | 最近值得一看的 6 部作品，以及斗志满满的返工片单](https://sspai.com/post/63066)
+    - [苹果十月发布会前瞻：即将亮相的 iPhone 12，有哪些新变化？](https://sspai.com/post/63050)
+    - [升级「真香」的 RTX 30 系显卡后，你能得到什么？](https://sspai.com/post/63057)
+    - [我用 Figma 做表情包](https://sspai.com/post/63039)
+    - [装修笔记 02 | 没有好的设计师，但有好的队友](https://sspai.com/post/63104)
+
+## 2021-02
+### 2020-10-13
+- 阅读
+    - [新玩意 053｜少数派的编辑们最近买了啥？](https://sspai.com/post/65236)
+    - [猫咪走丢之后该怎么办｜一份希望所有铲屎官都不会用到的备用指南](https://sspai.com/post/65207)
+    - [机械键盘自行选购指南：从只买一把到直入深坑](https://sspai.com/post/64972)
+    - [翻完 2020 的购物车，我想推荐这九样好物](https://sspai.com/post/65052)
+    - [230 天从林黛玉到六块腹肌，我更开心也更焦虑了](https://sspai.com/post/64429)
+    - [派评 | 近期值得关注的 App](https://sspai.com/post/65179)
+    - [让认知成为改变的第一步：年轻人如何远离高血压](https://sspai.com/post/65177)
